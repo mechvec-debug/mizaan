@@ -1,0 +1,1021 @@
+[
+ {
+  "name": "all_pass",
+  "market_cap": 5000,
+  "financials": {
+   "total_assets": 1000.0,
+   "total_revenue": 1000.0,
+   "total_liabilities": 500.0,
+   "interest_bearing_debt": 100.0,
+   "illiquid_assets": 400.0,
+   "liquid_assets": 300.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "audit": {
+   "haram_business_revenue": 0.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "expected": {
+   "is_compliant": true,
+   "results": {
+    "Criteria 1: Core Business": {
+     "metric": "0.00%",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 2: Impermissible Income": {
+     "metric": "1.00% (₹10 Cr)",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 3: Debt / Assets": {
+     "metric": "10.00%",
+     "threshold": "< 33.0%",
+     "status": true
+    },
+    "Criteria 4: Illiquid / Assets": {
+     "metric": "40.00%",
+     "threshold": ">= 20.0%",
+     "status": true
+    },
+    "Criteria 5: Net Liquid < MCap": {
+     "metric": "Net Liq: ₹-200 Cr | MCap: ₹5,000 Cr",
+     "threshold": "Net Liquid < MCap",
+     "status": true
+    },
+    "Criteria 6: Non-Compliant Inv": {
+     "metric": "5.00% (₹50 Cr)",
+     "threshold": "< 33.0%",
+     "status": true
+    }
+   }
+  }
+ },
+ {
+  "name": "c1_exactly_5pct_fails",
+  "market_cap": 5000,
+  "financials": {
+   "total_assets": 1000.0,
+   "total_revenue": 1000.0,
+   "total_liabilities": 500.0,
+   "interest_bearing_debt": 100.0,
+   "illiquid_assets": 400.0,
+   "liquid_assets": 300.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "audit": {
+   "haram_business_revenue": 50.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "expected": {
+   "is_compliant": false,
+   "results": {
+    "Criteria 1: Core Business": {
+     "metric": "5.00%",
+     "threshold": "< 5.0%",
+     "status": false
+    },
+    "Criteria 2: Impermissible Income": {
+     "metric": "1.00% (₹10 Cr)",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 3: Debt / Assets": {
+     "metric": "10.00%",
+     "threshold": "< 33.0%",
+     "status": true
+    },
+    "Criteria 4: Illiquid / Assets": {
+     "metric": "40.00%",
+     "threshold": ">= 20.0%",
+     "status": true
+    },
+    "Criteria 5: Net Liquid < MCap": {
+     "metric": "Net Liq: ₹-200 Cr | MCap: ₹5,000 Cr",
+     "threshold": "Net Liquid < MCap",
+     "status": true
+    },
+    "Criteria 6: Non-Compliant Inv": {
+     "metric": "5.00% (₹50 Cr)",
+     "threshold": "< 33.0%",
+     "status": true
+    }
+   }
+  }
+ },
+ {
+  "name": "c1_just_below_5pct_passes",
+  "market_cap": 5000,
+  "financials": {
+   "total_assets": 1000.0,
+   "total_revenue": 1000.0,
+   "total_liabilities": 500.0,
+   "interest_bearing_debt": 100.0,
+   "illiquid_assets": 400.0,
+   "liquid_assets": 300.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "audit": {
+   "haram_business_revenue": 49.99,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "expected": {
+   "is_compliant": true,
+   "results": {
+    "Criteria 1: Core Business": {
+     "metric": "5.00%",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 2: Impermissible Income": {
+     "metric": "1.00% (₹10 Cr)",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 3: Debt / Assets": {
+     "metric": "10.00%",
+     "threshold": "< 33.0%",
+     "status": true
+    },
+    "Criteria 4: Illiquid / Assets": {
+     "metric": "40.00%",
+     "threshold": ">= 20.0%",
+     "status": true
+    },
+    "Criteria 5: Net Liquid < MCap": {
+     "metric": "Net Liq: ₹-200 Cr | MCap: ₹5,000 Cr",
+     "threshold": "Net Liquid < MCap",
+     "status": true
+    },
+    "Criteria 6: Non-Compliant Inv": {
+     "metric": "5.00% (₹50 Cr)",
+     "threshold": "< 33.0%",
+     "status": true
+    }
+   }
+  }
+ },
+ {
+  "name": "c2_exactly_5pct_fails",
+  "market_cap": 5000,
+  "financials": {
+   "total_assets": 1000.0,
+   "total_revenue": 1000.0,
+   "total_liabilities": 500.0,
+   "interest_bearing_debt": 100.0,
+   "illiquid_assets": 400.0,
+   "liquid_assets": 300.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "audit": {
+   "haram_business_revenue": 0.0,
+   "impermissible_interest_income": 50.0,
+   "non_compliant_investments": 50.0
+  },
+  "expected": {
+   "is_compliant": false,
+   "results": {
+    "Criteria 1: Core Business": {
+     "metric": "0.00%",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 2: Impermissible Income": {
+     "metric": "5.00% (₹50 Cr)",
+     "threshold": "< 5.0%",
+     "status": false
+    },
+    "Criteria 3: Debt / Assets": {
+     "metric": "10.00%",
+     "threshold": "< 33.0%",
+     "status": true
+    },
+    "Criteria 4: Illiquid / Assets": {
+     "metric": "40.00%",
+     "threshold": ">= 20.0%",
+     "status": true
+    },
+    "Criteria 5: Net Liquid < MCap": {
+     "metric": "Net Liq: ₹-200 Cr | MCap: ₹5,000 Cr",
+     "threshold": "Net Liquid < MCap",
+     "status": true
+    },
+    "Criteria 6: Non-Compliant Inv": {
+     "metric": "5.00% (₹50 Cr)",
+     "threshold": "< 33.0%",
+     "status": true
+    }
+   }
+  }
+ },
+ {
+  "name": "c2_from_financials_when_audit_zero",
+  "market_cap": 5000,
+  "financials": {
+   "total_assets": 1000.0,
+   "total_revenue": 1000.0,
+   "total_liabilities": 500.0,
+   "interest_bearing_debt": 100.0,
+   "illiquid_assets": 400.0,
+   "liquid_assets": 300.0,
+   "impermissible_interest_income": 60.0,
+   "non_compliant_investments": 50.0
+  },
+  "audit": {
+   "haram_business_revenue": 0.0,
+   "impermissible_interest_income": 0.0,
+   "non_compliant_investments": 50.0
+  },
+  "expected": {
+   "is_compliant": false,
+   "results": {
+    "Criteria 1: Core Business": {
+     "metric": "0.00%",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 2: Impermissible Income": {
+     "metric": "6.00% (₹60 Cr)",
+     "threshold": "< 5.0%",
+     "status": false
+    },
+    "Criteria 3: Debt / Assets": {
+     "metric": "10.00%",
+     "threshold": "< 33.0%",
+     "status": true
+    },
+    "Criteria 4: Illiquid / Assets": {
+     "metric": "40.00%",
+     "threshold": ">= 20.0%",
+     "status": true
+    },
+    "Criteria 5: Net Liquid < MCap": {
+     "metric": "Net Liq: ₹-200 Cr | MCap: ₹5,000 Cr",
+     "threshold": "Net Liquid < MCap",
+     "status": true
+    },
+    "Criteria 6: Non-Compliant Inv": {
+     "metric": "5.00% (₹50 Cr)",
+     "threshold": "< 33.0%",
+     "status": true
+    }
+   }
+  }
+ },
+ {
+  "name": "c3_exactly_33pct_fails",
+  "market_cap": 5000,
+  "financials": {
+   "total_assets": 1000.0,
+   "total_revenue": 1000.0,
+   "total_liabilities": 500.0,
+   "interest_bearing_debt": 330.0,
+   "illiquid_assets": 400.0,
+   "liquid_assets": 300.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "audit": {
+   "haram_business_revenue": 0.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "expected": {
+   "is_compliant": false,
+   "results": {
+    "Criteria 1: Core Business": {
+     "metric": "0.00%",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 2: Impermissible Income": {
+     "metric": "1.00% (₹10 Cr)",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 3: Debt / Assets": {
+     "metric": "33.00%",
+     "threshold": "< 33.0%",
+     "status": false
+    },
+    "Criteria 4: Illiquid / Assets": {
+     "metric": "40.00%",
+     "threshold": ">= 20.0%",
+     "status": true
+    },
+    "Criteria 5: Net Liquid < MCap": {
+     "metric": "Net Liq: ₹-200 Cr | MCap: ₹5,000 Cr",
+     "threshold": "Net Liquid < MCap",
+     "status": true
+    },
+    "Criteria 6: Non-Compliant Inv": {
+     "metric": "5.00% (₹50 Cr)",
+     "threshold": "< 33.0%",
+     "status": true
+    }
+   }
+  }
+ },
+ {
+  "name": "c3_just_below_33pct_passes",
+  "market_cap": 5000,
+  "financials": {
+   "total_assets": 1000.0,
+   "total_revenue": 1000.0,
+   "total_liabilities": 500.0,
+   "interest_bearing_debt": 329.9,
+   "illiquid_assets": 400.0,
+   "liquid_assets": 300.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "audit": {
+   "haram_business_revenue": 0.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "expected": {
+   "is_compliant": true,
+   "results": {
+    "Criteria 1: Core Business": {
+     "metric": "0.00%",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 2: Impermissible Income": {
+     "metric": "1.00% (₹10 Cr)",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 3: Debt / Assets": {
+     "metric": "32.99%",
+     "threshold": "< 33.0%",
+     "status": true
+    },
+    "Criteria 4: Illiquid / Assets": {
+     "metric": "40.00%",
+     "threshold": ">= 20.0%",
+     "status": true
+    },
+    "Criteria 5: Net Liquid < MCap": {
+     "metric": "Net Liq: ₹-200 Cr | MCap: ₹5,000 Cr",
+     "threshold": "Net Liquid < MCap",
+     "status": true
+    },
+    "Criteria 6: Non-Compliant Inv": {
+     "metric": "5.00% (₹50 Cr)",
+     "threshold": "< 33.0%",
+     "status": true
+    }
+   }
+  }
+ },
+ {
+  "name": "c4_exactly_20pct_passes",
+  "market_cap": 5000,
+  "financials": {
+   "total_assets": 1000.0,
+   "total_revenue": 1000.0,
+   "total_liabilities": 500.0,
+   "interest_bearing_debt": 100.0,
+   "illiquid_assets": 200.0,
+   "liquid_assets": 300.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "audit": {
+   "haram_business_revenue": 0.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "expected": {
+   "is_compliant": true,
+   "results": {
+    "Criteria 1: Core Business": {
+     "metric": "0.00%",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 2: Impermissible Income": {
+     "metric": "1.00% (₹10 Cr)",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 3: Debt / Assets": {
+     "metric": "10.00%",
+     "threshold": "< 33.0%",
+     "status": true
+    },
+    "Criteria 4: Illiquid / Assets": {
+     "metric": "20.00%",
+     "threshold": ">= 20.0%",
+     "status": true
+    },
+    "Criteria 5: Net Liquid < MCap": {
+     "metric": "Net Liq: ₹-200 Cr | MCap: ₹5,000 Cr",
+     "threshold": "Net Liquid < MCap",
+     "status": true
+    },
+    "Criteria 6: Non-Compliant Inv": {
+     "metric": "5.00% (₹50 Cr)",
+     "threshold": "< 33.0%",
+     "status": true
+    }
+   }
+  }
+ },
+ {
+  "name": "c4_just_below_20pct_fails",
+  "market_cap": 5000,
+  "financials": {
+   "total_assets": 1000.0,
+   "total_revenue": 1000.0,
+   "total_liabilities": 500.0,
+   "interest_bearing_debt": 100.0,
+   "illiquid_assets": 199.9,
+   "liquid_assets": 300.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "audit": {
+   "haram_business_revenue": 0.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "expected": {
+   "is_compliant": false,
+   "results": {
+    "Criteria 1: Core Business": {
+     "metric": "0.00%",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 2: Impermissible Income": {
+     "metric": "1.00% (₹10 Cr)",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 3: Debt / Assets": {
+     "metric": "10.00%",
+     "threshold": "< 33.0%",
+     "status": true
+    },
+    "Criteria 4: Illiquid / Assets": {
+     "metric": "19.99%",
+     "threshold": ">= 20.0%",
+     "status": false
+    },
+    "Criteria 5: Net Liquid < MCap": {
+     "metric": "Net Liq: ₹-200 Cr | MCap: ₹5,000 Cr",
+     "threshold": "Net Liquid < MCap",
+     "status": true
+    },
+    "Criteria 6: Non-Compliant Inv": {
+     "metric": "5.00% (₹50 Cr)",
+     "threshold": "< 33.0%",
+     "status": true
+    }
+   }
+  }
+ },
+ {
+  "name": "c5_net_liquid_equals_mcap_fails",
+  "market_cap": 5000,
+  "financials": {
+   "total_assets": 1000.0,
+   "total_revenue": 1000.0,
+   "total_liabilities": 500.0,
+   "interest_bearing_debt": 100.0,
+   "illiquid_assets": 400.0,
+   "liquid_assets": 5500.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "audit": {
+   "haram_business_revenue": 0.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "expected": {
+   "is_compliant": false,
+   "results": {
+    "Criteria 1: Core Business": {
+     "metric": "0.00%",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 2: Impermissible Income": {
+     "metric": "1.00% (₹10 Cr)",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 3: Debt / Assets": {
+     "metric": "10.00%",
+     "threshold": "< 33.0%",
+     "status": true
+    },
+    "Criteria 4: Illiquid / Assets": {
+     "metric": "40.00%",
+     "threshold": ">= 20.0%",
+     "status": true
+    },
+    "Criteria 5: Net Liquid < MCap": {
+     "metric": "Net Liq: ₹5,000 Cr | MCap: ₹5,000 Cr",
+     "threshold": "Net Liquid < MCap",
+     "status": false
+    },
+    "Criteria 6: Non-Compliant Inv": {
+     "metric": "5.00% (₹50 Cr)",
+     "threshold": "< 33.0%",
+     "status": true
+    }
+   }
+  }
+ },
+ {
+  "name": "c5_net_liquid_below_mcap_passes",
+  "market_cap": 5000,
+  "financials": {
+   "total_assets": 1000.0,
+   "total_revenue": 1000.0,
+   "total_liabilities": 500.0,
+   "interest_bearing_debt": 100.0,
+   "illiquid_assets": 400.0,
+   "liquid_assets": 5499.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "audit": {
+   "haram_business_revenue": 0.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "expected": {
+   "is_compliant": true,
+   "results": {
+    "Criteria 1: Core Business": {
+     "metric": "0.00%",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 2: Impermissible Income": {
+     "metric": "1.00% (₹10 Cr)",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 3: Debt / Assets": {
+     "metric": "10.00%",
+     "threshold": "< 33.0%",
+     "status": true
+    },
+    "Criteria 4: Illiquid / Assets": {
+     "metric": "40.00%",
+     "threshold": ">= 20.0%",
+     "status": true
+    },
+    "Criteria 5: Net Liquid < MCap": {
+     "metric": "Net Liq: ₹4,999 Cr | MCap: ₹5,000 Cr",
+     "threshold": "Net Liquid < MCap",
+     "status": true
+    },
+    "Criteria 6: Non-Compliant Inv": {
+     "metric": "5.00% (₹50 Cr)",
+     "threshold": "< 33.0%",
+     "status": true
+    }
+   }
+  }
+ },
+ {
+  "name": "c5_negative_net_liquid_passes",
+  "market_cap": 100,
+  "financials": {
+   "total_assets": 1000.0,
+   "total_revenue": 1000.0,
+   "total_liabilities": 500.0,
+   "interest_bearing_debt": 100.0,
+   "illiquid_assets": 400.0,
+   "liquid_assets": 0.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "audit": {
+   "haram_business_revenue": 0.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "expected": {
+   "is_compliant": true,
+   "results": {
+    "Criteria 1: Core Business": {
+     "metric": "0.00%",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 2: Impermissible Income": {
+     "metric": "1.00% (₹10 Cr)",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 3: Debt / Assets": {
+     "metric": "10.00%",
+     "threshold": "< 33.0%",
+     "status": true
+    },
+    "Criteria 4: Illiquid / Assets": {
+     "metric": "40.00%",
+     "threshold": ">= 20.0%",
+     "status": true
+    },
+    "Criteria 5: Net Liquid < MCap": {
+     "metric": "Net Liq: ₹-500 Cr | MCap: ₹100 Cr",
+     "threshold": "Net Liquid < MCap",
+     "status": true
+    },
+    "Criteria 6: Non-Compliant Inv": {
+     "metric": "5.00% (₹50 Cr)",
+     "threshold": "< 33.0%",
+     "status": true
+    }
+   }
+  }
+ },
+ {
+  "name": "c6_exactly_33pct_fails",
+  "market_cap": 5000,
+  "financials": {
+   "total_assets": 1000.0,
+   "total_revenue": 1000.0,
+   "total_liabilities": 500.0,
+   "interest_bearing_debt": 100.0,
+   "illiquid_assets": 400.0,
+   "liquid_assets": 300.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "audit": {
+   "haram_business_revenue": 0.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 330.0
+  },
+  "expected": {
+   "is_compliant": false,
+   "results": {
+    "Criteria 1: Core Business": {
+     "metric": "0.00%",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 2: Impermissible Income": {
+     "metric": "1.00% (₹10 Cr)",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 3: Debt / Assets": {
+     "metric": "10.00%",
+     "threshold": "< 33.0%",
+     "status": true
+    },
+    "Criteria 4: Illiquid / Assets": {
+     "metric": "40.00%",
+     "threshold": ">= 20.0%",
+     "status": true
+    },
+    "Criteria 5: Net Liquid < MCap": {
+     "metric": "Net Liq: ₹-200 Cr | MCap: ₹5,000 Cr",
+     "threshold": "Net Liquid < MCap",
+     "status": true
+    },
+    "Criteria 6: Non-Compliant Inv": {
+     "metric": "33.00% (₹330 Cr)",
+     "threshold": "< 33.0%",
+     "status": false
+    }
+   }
+  }
+ },
+ {
+  "name": "c6_from_financials_when_audit_zero",
+  "market_cap": 5000,
+  "financials": {
+   "total_assets": 1000.0,
+   "total_revenue": 1000.0,
+   "total_liabilities": 500.0,
+   "interest_bearing_debt": 100.0,
+   "illiquid_assets": 400.0,
+   "liquid_assets": 300.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 400.0
+  },
+  "audit": {
+   "haram_business_revenue": 0.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 0.0
+  },
+  "expected": {
+   "is_compliant": false,
+   "results": {
+    "Criteria 1: Core Business": {
+     "metric": "0.00%",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 2: Impermissible Income": {
+     "metric": "1.00% (₹10 Cr)",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 3: Debt / Assets": {
+     "metric": "10.00%",
+     "threshold": "< 33.0%",
+     "status": true
+    },
+    "Criteria 4: Illiquid / Assets": {
+     "metric": "40.00%",
+     "threshold": ">= 20.0%",
+     "status": true
+    },
+    "Criteria 5: Net Liquid < MCap": {
+     "metric": "Net Liq: ₹-200 Cr | MCap: ₹5,000 Cr",
+     "threshold": "Net Liquid < MCap",
+     "status": true
+    },
+    "Criteria 6: Non-Compliant Inv": {
+     "metric": "40.00% (₹400 Cr)",
+     "threshold": "< 33.0%",
+     "status": false
+    }
+   }
+  }
+ },
+ {
+  "name": "guard_zero_assets",
+  "market_cap": 5000,
+  "financials": {
+   "total_assets": 0.0,
+   "total_revenue": 1000.0,
+   "total_liabilities": 500.0,
+   "interest_bearing_debt": 100.0,
+   "illiquid_assets": 400.0,
+   "liquid_assets": 300.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "audit": {
+   "haram_business_revenue": 0.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "expected": {
+   "is_compliant": false,
+   "error": "Incomplete Statements: Total Assets or Revenue not available",
+   "results": {
+    "Criteria 1: Core Business": {
+     "metric": "N/A",
+     "threshold": "< 5.0%",
+     "status": false
+    },
+    "Criteria 2: Impermissible Income": {
+     "metric": "N/A",
+     "threshold": "< 5.0%",
+     "status": false
+    },
+    "Criteria 3: Debt / Assets": {
+     "metric": "N/A",
+     "threshold": "< 33.0%",
+     "status": false
+    },
+    "Criteria 4: Illiquid / Assets": {
+     "metric": "N/A",
+     "threshold": ">= 20.0%",
+     "status": false
+    },
+    "Criteria 5: Net Liquid < MCap": {
+     "metric": "N/A",
+     "threshold": "Net Liquid < MCap",
+     "status": false
+    },
+    "Criteria 6: Non-Compliant Inv": {
+     "metric": "N/A",
+     "threshold": "< 33.0%",
+     "status": false
+    }
+   }
+  }
+ },
+ {
+  "name": "guard_zero_revenue",
+  "market_cap": 5000,
+  "financials": {
+   "total_assets": 1000.0,
+   "total_revenue": 0.0,
+   "total_liabilities": 500.0,
+   "interest_bearing_debt": 100.0,
+   "illiquid_assets": 400.0,
+   "liquid_assets": 300.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "audit": {
+   "haram_business_revenue": 0.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "expected": {
+   "is_compliant": false,
+   "error": "Incomplete Statements: Total Assets or Revenue not available",
+   "results": {
+    "Criteria 1: Core Business": {
+     "metric": "N/A",
+     "threshold": "< 5.0%",
+     "status": false
+    },
+    "Criteria 2: Impermissible Income": {
+     "metric": "N/A",
+     "threshold": "< 5.0%",
+     "status": false
+    },
+    "Criteria 3: Debt / Assets": {
+     "metric": "N/A",
+     "threshold": "< 33.0%",
+     "status": false
+    },
+    "Criteria 4: Illiquid / Assets": {
+     "metric": "N/A",
+     "threshold": ">= 20.0%",
+     "status": false
+    },
+    "Criteria 5: Net Liquid < MCap": {
+     "metric": "N/A",
+     "threshold": "Net Liquid < MCap",
+     "status": false
+    },
+    "Criteria 6: Non-Compliant Inv": {
+     "metric": "N/A",
+     "threshold": "< 33.0%",
+     "status": false
+    }
+   }
+  }
+ },
+ {
+  "name": "guard_nan_assets",
+  "market_cap": 5000,
+  "financials": {
+   "total_assets": NaN,
+   "total_revenue": 1000.0,
+   "total_liabilities": 500.0,
+   "interest_bearing_debt": 100.0,
+   "illiquid_assets": 400.0,
+   "liquid_assets": 300.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "audit": {
+   "haram_business_revenue": 0.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "expected": {
+   "is_compliant": false,
+   "error": "Incomplete Statements: Total Assets or Revenue not available",
+   "results": {
+    "Criteria 1: Core Business": {
+     "metric": "N/A",
+     "threshold": "< 5.0%",
+     "status": false
+    },
+    "Criteria 2: Impermissible Income": {
+     "metric": "N/A",
+     "threshold": "< 5.0%",
+     "status": false
+    },
+    "Criteria 3: Debt / Assets": {
+     "metric": "N/A",
+     "threshold": "< 33.0%",
+     "status": false
+    },
+    "Criteria 4: Illiquid / Assets": {
+     "metric": "N/A",
+     "threshold": ">= 20.0%",
+     "status": false
+    },
+    "Criteria 5: Net Liquid < MCap": {
+     "metric": "N/A",
+     "threshold": "Net Liquid < MCap",
+     "status": false
+    },
+    "Criteria 6: Non-Compliant Inv": {
+     "metric": "N/A",
+     "threshold": "< 33.0%",
+     "status": false
+    }
+   }
+  }
+ },
+ {
+  "name": "guard_none_values_default_zero",
+  "market_cap": 5000,
+  "financials": {
+   "total_assets": 1000.0,
+   "total_revenue": 1000.0
+  },
+  "audit": {},
+  "expected": {
+   "is_compliant": false,
+   "results": {
+    "Criteria 1: Core Business": {
+     "metric": "0.00%",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 2: Impermissible Income": {
+     "metric": "0.00% (₹0 Cr)",
+     "threshold": "< 5.0%",
+     "status": true
+    },
+    "Criteria 3: Debt / Assets": {
+     "metric": "0.00%",
+     "threshold": "< 33.0%",
+     "status": true
+    },
+    "Criteria 4: Illiquid / Assets": {
+     "metric": "0.00%",
+     "threshold": ">= 20.0%",
+     "status": false
+    },
+    "Criteria 5: Net Liquid < MCap": {
+     "metric": "Net Liq: ₹0 Cr | MCap: ₹5,000 Cr",
+     "threshold": "Net Liquid < MCap",
+     "status": true
+    },
+    "Criteria 6: Non-Compliant Inv": {
+     "metric": "0.00% (₹0 Cr)",
+     "threshold": "< 33.0%",
+     "status": true
+    }
+   }
+  }
+ },
+ {
+  "name": "all_fail",
+  "market_cap": 10,
+  "financials": {
+   "total_assets": 1000.0,
+   "total_revenue": 1000.0,
+   "total_liabilities": 500.0,
+   "interest_bearing_debt": 900.0,
+   "illiquid_assets": 10.0,
+   "liquid_assets": 9000.0,
+   "impermissible_interest_income": 10.0,
+   "non_compliant_investments": 50.0
+  },
+  "audit": {
+   "haram_business_revenue": 900.0,
+   "impermissible_interest_income": 900.0,
+   "non_compliant_investments": 900.0
+  },
+  "expected": {
+   "is_compliant": false,
+   "results": {
+    "Criteria 1: Core Business": {
+     "metric": "90.00%",
+     "threshold": "< 5.0%",
+     "status": false
+    },
+    "Criteria 2: Impermissible Income": {
+     "metric": "90.00% (₹900 Cr)",
+     "threshold": "< 5.0%",
+     "status": false
+    },
+    "Criteria 3: Debt / Assets": {
+     "metric": "90.00%",
+     "threshold": "< 33.0%",
+     "status": false
+    },
+    "Criteria 4: Illiquid / Assets": {
+     "metric": "1.00%",
+     "threshold": ">= 20.0%",
+     "status": false
+    },
+    "Criteria 5: Net Liquid < MCap": {
+     "metric": "Net Liq: ₹8,500 Cr | MCap: ₹10 Cr",
+     "threshold": "Net Liquid < MCap",
+     "status": false
+    },
+    "Criteria 6: Non-Compliant Inv": {
+     "metric": "90.00% (₹900 Cr)",
+     "threshold": "< 33.0%",
+     "status": false
+    }
+   }
+  }
+ }
+]

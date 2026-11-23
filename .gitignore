@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.env
+creds.json
+firebase_key.json
+*.key
+# data_store/ is a separate checkout of the `data` branch (committed THERE, never on main)
+data_store/
+data/universe/backups/
+config/app.local.yaml
+data_store_test/

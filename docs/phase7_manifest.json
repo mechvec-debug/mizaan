@@ -1,0 +1,57 @@
+{
+ "added": {
+  "docs/SHARIAH.md": "f3e45181f8f9760c0997fa8ca1fbf5accf3c7946f4300a2206a834f80bd1aa5f",
+  "scripts/build_bse_map.py": "ae6a7092b5100d965af23d77c726e69c7a46e04b551bad156469480ad2f29076",
+  "scripts/cross_check.py": "85889bddf11f46bc96e46d87f028e6b3d19ea7136ea8fd97a96658f55a4905a8",
+  "scripts/verify_bse_live.py": "470d21d3fb5dce46f5621b6305e1a3b946a7e0755c1da4cd8d590c813b45acd7",
+  "scripts/verify_delta.py": "ba1c82c4b97c8770ace5a197e2d9201a5c7165ed1c5a888ee12fc6663ae13c52",
+  "src/mizan/data/providers/bse.py": "c4663e04227e02eb8bfe8e3b47c10cd1c0ffd519a87ff78cf8b8cdbb95c8c7c5",
+  "src/mizan/overview/__init__.py": "43e5b86bbed8dca17e1e95e3d17067e24fd720af02db8ddcd104819d0bd601c6",
+  "src/mizan/overview/cross.py": "79f42ddac317e06224043fc6af1c0076f0a2a321aec6b9461ac1ebb268c01c05",
+  "src/mizan/screeners/shariah/__main__.py": "dc8fed41a119d65d238bfb4d7a87e014d30b2862ebe3e99344740b6250c9a522",
+  "src/mizan/screeners/shariah/bundles.py": "df5162835a5ae5b430f7f9d9fc5111d44344edb76fc6da4378974e51302b4546",
+  "src/mizan/screeners/shariah/criteria.py": "482f07f7cc02da8b90505def140949b5575f4aeb43036d37463da97cdd8e9ebf",
+  "src/mizan/screeners/shariah/evidence.py": "a31e2625d660f1c8c4a9125f7351fa967b9c7f386efe51985f31dfa5d1d2d867",
+  "src/mizan/screeners/shariah/evidence_cli.py": "bbd54b96ef6a400a4f84726a871ec7cafe328dd60f16908b78f40709be7e03f7",
+  "src/mizan/screeners/shariah/mapper.py": "92c63e484617b58dbc84e9cf823c8b2f6cd65134c9381c4fbd0007d40788e3c4",
+  "src/mizan/screeners/shariah/params.py": "2ca277652b513770ebedb29d1e7e6bd975da5499d3d5cc0c6aa5fa2cfef11a22",
+  "src/mizan/screeners/shariah/scanner.py": "324a9ec93f5b72e1d8c92d0bc0769726919c72001ac100b1deec7d2128cdc411",
+  "src/mizan/screeners/shariah/xbrl.py": "9293b8890ceef00812e31b7f93ccfc69bfc3f2df59d09d09841831fba680b5e0",
+  "tests/unit/test_shariah.py": "3b356c2b45b365e53c0c1c40f9079ed46da66755293807aa7258cd7515f62260",
+  "tests/unit/test_three_screeners_together.py": "e707ed05854da450ab7ed1d70700e59860a8e3b9880bcb12107ca8ec03019943"
+ },
+ "applies_on_top_of": "mizan-market-intelligence.zip as delivered after Phase 6 (117 files)",
+ "counts": {
+  "added": 19,
+  "deleted": 0,
+  "modified": 6
+ },
+ "deleted": [],
+ "modified": {
+  "README.md": {
+   "base_sha256": "c9c96645c043690951fe084db186e8c7e39cde075d7938486cd4de07ba8e553a",
+   "sha256": "0bd1b148749c8ef8882a0c5a354f89b4a191b82b4eac6ff2439dd568ad39151f"
+  },
+  "config/app.yaml": {
+   "base_sha256": "1f31ea0c2f42d66de98fc16dec3e7abb6af339af2ea31040da072482b77bbf96",
+   "sha256": "f6bd1a952b46f9a3c10f7d057587b2941cb24356b6649321ebfdcaa5441f0e4b"
+  },
+  "docs/BUSINESS_RULES.md": {
+   "base_sha256": "b4c4f3609080d6715a97072d31b3797a94b5f1f73410a31902d45d6f28422039",
+   "sha256": "9f8850d49d19555e9fdffc61069d495837b559eb70fd8abf50fe1a31e51d1d85"
+  },
+  "src/mizan/data/keys.py": {
+   "base_sha256": "3989da720b8821256c2cb874f45a8e717021485be169653ade76e7f37c47cc08",
+   "sha256": "b426bc71660ba2bc40d2a981cafa90104e783deb44535f0bfa208a1d12be4900"
+  },
+  "src/mizan/data/manager.py": {
+   "base_sha256": "d43013993bf9d22d8895642ca6928ee69a68bc5de8d2fc87ff5e5340749f6649",
+   "sha256": "35e8242903360eaa3545982e7063ce140915c3de2611603854e20ef2613a0caa"
+  },
+  "src/mizan/screeners/shariah/__init__.py": {
+   "base_sha256": "e026cd9f8d34613d6e07768156e4c61be31136e1b85c469304d9078d13fc44f9",
+   "sha256": "7b7ea31ee38effe3022a1ef832989914a3b3d83d2e96ea9c007b17085cb5d20d"
+  }
+ },
+ "name": "phase7_shariah_delta"
+}

@@ -1,0 +1,75 @@
+{
+ "added": {
+  ".github/workflows/annual_report_batch.yml": "4cae61bedcbf2d114c6d77319cbdc7dd5da96749b06285c886212a5f627a897d",
+  ".github/workflows/daily_pipeline.yml": "9df72ad9670033c0d984b7f3d71c4eb21f4a3af315f9261a32a3079210964d25",
+  ".github/workflows/data_maintenance.yml": "a196df2eb7042ec0f8883e8373d885e8e747ec9285703e6597196b4fd87065ca",
+  "docs/GO_LIVE.md": "07d029237993e6ba03115321b01b92ca2289478fc0c77cc5798a01d8b8630a39",
+  "requirements-ci.txt": "6db330f5d3598008b154d53739cc14c500cb9820ad86e993f46076fc11e9f835",
+  "scripts/ci/checkout_data_branch.sh": "38436112f7c9008087df9d2d93cd525669dfa96c51597dfcbe5b7ffbf2c0c118",
+  "scripts/ci/commit_data_branch.sh": "0db3e94472a74419d99daa637fa2cb8a287e93efa94fbe5f70a81b7d8f5e110d",
+  "scripts/prepush_check.py": "5e5f97ca8696d2ab6c364c4c93ad07a11e03c3111ad8cc79a11ccb419a32b043",
+  "scripts/run_daily_local.ps1": "273715337491e1a0475b794542976cde1f7c14dcee42100e0ee6e845583393dd",
+  "src/mizan/dashboard/sync.py": "386f9c7522f7186227d8df4e4bca843a8a7c9276fd994ab1fb19e799ef6c778b",
+  "src/mizan/execution/__main__.py": "e7c27dc5b07c28eceebd48ce003abce4b319b49d80f1a02fa74e2ad718a78202",
+  "src/mizan/execution/jobs.py": "4410f0ef12ba7a63a270978e39322f544118d792f95008fd2c8b833e2e9f19ed",
+  "src/mizan/execution/manager.py": "63477a8a55fe29c197b7887c9a4120bab28572b1fd07a12186fdd6b2c208c27c",
+  "src/mizan/execution/schedule.py": "9303cbf61e992ebfbf335a7ef7853dc9d47fc1f089fde924ca2e4b3910b27e28",
+  "src/mizan/publish/__main__.py": "70ff5b933d2e22f49e27932dfab3c75d99f35361e4d1cb06d00ec49068e5b81d",
+  "src/mizan/publish/contract.py": "fbaf6c28d78a987d4a9392bb0af459cf25b89e714c3dcfe5526f18bf9c0cb6d5",
+  "tests/unit/test_golive.py": "c9b265402f78a2e3573a307899299b6fa0ba8f16e73defbcba5aa8c6026601bb"
+ },
+ "applies_on_top_of": "Phase 6 package + deltas phase7, phase8, phase9, phase9b, phase9c",
+ "counts": {
+  "added": 17,
+  "deleted": 0,
+  "modified": 11
+ },
+ "deleted": [],
+ "modified": {
+  "README.md": {
+   "base_sha256": "f15c5b4c8190a8fa97dd8fbd9f847c1b41f16f8f27959c9dc7585e1b97f146fc",
+   "sha256": "dbd69ef50fc34f9603f23f4f5bf2b3d1dccc33fc2e3b665d09ee4ecb0741ebe9"
+  },
+  "config/app.yaml": {
+   "base_sha256": "0c80ad46be62bf9e96de6fcc84c556c588cff0e33e0ccc65814fd4e7a1c2590b",
+   "sha256": "7529d17334b64ddee0be7520c776137dd7136d03b10196da9c08f0103e8b71ae"
+  },
+  "docs/BUSINESS_RULES.md": {
+   "base_sha256": "255976f6c4f075a460fa3bd735a2fba3d629225b6b1db6e7b5c9fc3eb4ed2bf1",
+   "sha256": "b5582cb2da574edbd4fd81526b8d74471993bd913bde3d5b69bbfdc1978bba95"
+  },
+  "scripts/doctor.py": {
+   "base_sha256": "62d9c94df70c6ff31aeb30f2ff51717d6e2f760275b9f4019f96f18679f8278e",
+   "sha256": "ab227ed74a1e417c6736b365564c4349332a411d9af88e9c0910588087a89b1d"
+  },
+  "scripts/verify_delta.py": {
+   "base_sha256": "f0e6847e2f9cc4d636cab1bd655213f0e2d32d56967d23b5bdb6869d48ba70c5",
+   "sha256": "3b9ce261242fe9d854b187ee11438a866d9892da3e11b1d756a86c26cd29d6e7"
+  },
+  "src/mizan/dashboard/app.py": {
+   "base_sha256": "880b6218ecc585f67ac46436e3680147a702fbc670bf36d30720580ab98a6288",
+   "sha256": "71961056f160f2212521534410793feed86c15424e6ef94d9c5ff596e71a93cf"
+  },
+  "src/mizan/dashboard/pages.py": {
+   "base_sha256": "69bb8f8a18ef521affb5565542b74bbf222ff8ce5185a92b92428f52a8e0e117",
+   "sha256": "2eff7c667272617bc77d63dc8bebab4204dc4c82e08df67eae29ea1644aa797f"
+  },
+  "src/mizan/dashboard/views.py": {
+   "base_sha256": "d6e659c82784742191166e6ae570380565b8e6991a0ffd1ca80e4be1bdebc53e",
+   "sha256": "b470f89df9ff50c7be7e42b492000147f80175070778af822f097f1f93322311"
+  },
+  "src/mizan/data/manager.py": {
+   "base_sha256": "954aca825259c9df8dde14d1e219c88144bcd2be772ffe3b8215f4f0fd624ba9",
+   "sha256": "ffdbcb54e6b3cccfeae76cc2e49707e71afe8c560ba08c35b607631683159fa3"
+  },
+  "src/mizan/execution/__init__.py": {
+   "base_sha256": "1c9d97638431bc3a99537e312ccacd321f8e7e73f3167684006267251a6e45a3",
+   "sha256": "8714559be563854c07387ab6190c23af8f2bbd0c5fac845e53b2c640671ffe87"
+  },
+  "src/mizan/publish/__init__.py": {
+   "base_sha256": "e55ac8f38e04a7a9bf4f8f78d4f7f56db160c4e1120227e0014f9c57c52b6ce3",
+   "sha256": "b4750e3a5fa1b04dfe517405ed678bfc23e94dc3cfc684d8dadcc8a4ecf0ce10"
+  }
+ },
+ "name": "phase11_go_live_kit"
+}

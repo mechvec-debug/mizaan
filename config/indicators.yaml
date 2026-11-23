@@ -1,0 +1,24 @@
+# Technical indicator registry. core: true  => defines the strategy, cannot be disabled (parameters editable).
+# Pine defaults, except the scanner decisions below (cross_lookback_bars 3, min_bars 250, grade rules) - see docs/TECHNICAL_STATES.md.
+signal:
+  cross_lookback_bars: 3            # D5: cross on any of the last N bars (1 = original same-bar behaviour)
+  min_bars: 250                     # D3: fewer daily bars -> ticker skipped and reported
+  stale_bar_days: 7                 # D7: last bar older than this -> no grade
+grade:                              # D6: starting values, to be calibrated by the backtest module
+  min_rr_for_a: 1.2
+  min_conviction: 20                # Pine PLAN_STR_FLOOR
+output:
+  timezone: Asia/Kolkata            # D4
+indicators:
+  - { name: ema_fast,  core: true,  enabled: true, params: { length: 9 } }
+  - { name: ema_slow,  core: true,  enabled: true, params: { length: 21 } }
+  - { name: atr_risk,  core: true,  enabled: true, params: { length: 14, multiplier: 2.0 } }
+  - { name: rr_targets,core: true,  enabled: true, params: { tp1: 1.0, tp2: 2.0, tp3: 3.0 } }
+  - { name: swing_engine, core: true, enabled: true, params: { atr_length: 14, min_move_atr: 0.7, pivot_left: 8, pivot_right: 3, impulse_min_score: 55 } }
+  - { name: adx,       core: true,  enabled: true, params: { length: 14 } }
+  # optional extras: shipped disabled; usable as dashboard columns and/or filters
+  - { name: rsi,       core: false, enabled: false, usable_as_filter: true, params: { length: 14 } }
+  - { name: macd,      core: false, enabled: false, usable_as_filter: true, params: { fast: 12, slow: 26, signal: 9 } }
+  - { name: volume_ratio, core: false, enabled: false, usable_as_filter: true, params: { short: 10, long: 50 } }
+dashboard_defaults:
+  trade_plan_exclude: ["AVOID: Macro Downtrend"]   # T4: UI default only; user can re-tick

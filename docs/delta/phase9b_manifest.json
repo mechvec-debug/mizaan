@@ -1,0 +1,28 @@
+{
+ "added": {
+  "scripts/doctor.py": "300e4d8394940d171f2872f6137a292a45ff9de088cfc939dcafc5f60b5cd4d5",
+  "tests/unit/test_shariah_robustness.py": "2106651722aee53b0162e0f2419606175512d5e7bddc3250065dfa3c8b934015"
+ },
+ "applies_on_top_of": "Phase 6 + delta phase7 + phase8 + phase9",
+ "counts": {
+  "added": 2,
+  "deleted": 0,
+  "modified": 3
+ },
+ "deleted": [],
+ "modified": {
+  "docs/DASHBOARD.md": {
+   "base_sha256": "d26b8ca4f3fc7dc05ad72b25c3d9c676742f3c00b2c09c718d109186c3274882",
+   "sha256": "40e8f515d69303e12d4ad070ebfc5d3257548c7646f82e9fd632cbeaf3071df2"
+  },
+  "scripts/run_test_batch.py": {
+   "base_sha256": "a6f916f83f7d4c68c9fa8fe93fa599e7f9464db77c8025e407364d0583d31edc",
+   "sha256": "90329562fdfdbc91bc74469bb1326a4e215823c1533fb35ca109bbe3e4b4b490"
+  },
+  "src/mizan/screeners/shariah/scanner.py": {
+   "base_sha256": "324a9ec93f5b72e1d8c92d0bc0769726919c72001ac100b1deec7d2128cdc411",
+   "sha256": "04d94f68032293a4132f7d2cf869b1e620f0928b6a1bbbcdf3d5118bac666e88"
+  }
+ },
+ "name": "phase9b_fixes_and_doctor"
+}

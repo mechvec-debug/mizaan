@@ -1,0 +1,59 @@
+# Central settings. Secrets NEVER go here (use .env / GitHub Secrets).
+project: { name: Mizan Market Intelligence, timezone: Asia/Kolkata }
+paths:
+  universe: data/universe/stock_universe.txt      # on main branch (you edit this)
+  store: data_store                               # = checkout of the `data` branch (see docs/DATA_STORAGE.md)
+  # inside the store: raw/ ledger/ state/ results/ published/   (all committed to the data branch)
+data:
+  cache_freshness_hours: { ohlcv: 20, info: 20, statements: 168, xbrl: 8760, xbrl_missing: 168 }   # info daily; statements weekly; annual XBRL ~1 year; 'no filing found' re-checked weekly
+  ohlcv:
+    initial_history_years: 10         # first download; later runs only append the new day(s)
+    overlap_days: 7                   # re-fetched on every incremental run to detect dividend/split revisions
+    drift_tolerance: 0.0001           # >0.01% disagreement on the overlap => refresh that ticker's full history
+    max_bar_age_days: 7               # last bar older than this => result flagged stale
+    history_complete_tolerance_days: 7
+  throttle:
+    requests_per_minute: 30
+    max_retries: 3
+    base_delay_seconds: 2.0
+    rate_limit_delay_seconds: 20.0
+    breaker_threshold: 3              # consecutive rate-limit failures => stop for this run, resume next run
+    batch_size: 50
+    lock_timeout_seconds: 120
+    # Yahoo tolerates roughly 2,000-2,500 requests/hour/IP (observed, not published). 30 slots/min = 1,800/hour.
+    # Slots are counted per real HTTP request: a statements fetch costs 3, an info fetch 2, a 50-stock batch costs 50.
+    weights: { ohlcv: 1, info: 2, statements: 3, xbrl: 6 }
+    rpm_by_source: { bse: 20 }          # BSE is a separate service: its own, gentler budget
+annual_report:
+  # --- you must set these two from your AI provider's CURRENT limits; until then the batch refuses to run (it never guesses) ---
+  daily_token_budget: null           # total tokens (input + output) the batch may use per day
+  requests_per_minute: null          # AI requests per minute
+  # --- fixed by the requirements / sensible defaults ---
+  max_stocks_per_day: 100            # hard ceiling: values above 100 are clamped to 100
+  warn_at_fraction: 0.8              # monitor alert when 80% of the day's budget is used
+  model: gemini-2.5-flash            # the original auditor's model
+  max_output_tokens: 1024
+  max_input_chars: 32000             # only selected note sections are sent, never a whole report
+  chars_per_token: 3.0               # conservative pre-call estimate that protects the budget
+  max_pages: 8                       # PDF fallback: same page cap as the original
+  discovery_per_day: 200             # BSE report look-ups per day (separate from the AI budget)
+  discovery_requests_per_minute: 20
+  max_attempts: 5
+  retry_days: [1, 3, 7, 14]
+  recheck_missing_days: 30
+  recheck_done_days: 300             # an analysed stock is checked for a NEW annual report after this long
+  processing_timeout_hours: 6
+  llm_retries: 2
+  schedule_hour_utc: 11
+  allow_pdf_fallback: true           # PDF only as a workaround when the XML has no usable note text
+execution:
+  order: [annual_report, technical, fundamental, shariah]   # Shariah runs after the annual-report batch (it reads that evidence)
+  retries: 1                         # extra attempts for a module that crashed
+  retry_delay_seconds: 60
+  time_budget_minutes: null          # the GitHub workflow passes --time-budget-min 330 (a run stops starting new work, commits, resumes next time)
+  lock_stale_minutes: 480
+  schedule_cron_utc: "45 10 * * 1-5" # display only - the real schedule lives in .github/workflows/daily_pipeline.yml
+admin:
+  email: mechvec@gmail.com
+  name: Sami
+  password_hash_env: MIZAN_ADMIN_PASSWORD_HASH   # salted hash lives in env/secret, not in code

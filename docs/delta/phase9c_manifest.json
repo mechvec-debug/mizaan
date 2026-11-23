@@ -1,0 +1,40 @@
+{
+ "added": {
+  "src/mizan/core/env.py": "d3ebb8fb211fb2e17800c2225e8b41b56546398971335344e635ebf8353a78fe",
+  "tests/unit/test_env_and_admin_setup.py": "71e2ea6dd30b2814c97ce875d4e6fbbb760428576757a036aba3b4f3b35f7f55"
+ },
+ "applies_on_top_of": "Phase 6 + delta phase7 + phase8 + phase9 + phase9b",
+ "counts": {
+  "added": 2,
+  "deleted": 0,
+  "modified": 6
+ },
+ "deleted": [],
+ "modified": {
+  ".env.example": {
+   "base_sha256": "c86dee617a8c94378b4a02728ea90137cbde3b1abf8efbfb40fcf4db90337aeb",
+   "sha256": "858de3132f1a292985ee50f68ec5b62c6666c17b161a1aa547fda59886760b79"
+  },
+  "docs/DASHBOARD.md": {
+   "base_sha256": "40e8f515d69303e12d4ad070ebfc5d3257548c7646f82e9fd632cbeaf3071df2",
+   "sha256": "30e8d198dbb7f9723c8dd27f615a7a218f49fb4f77d8159a59553e265653742d"
+  },
+  "scripts/doctor.py": {
+   "base_sha256": "300e4d8394940d171f2872f6137a292a45ff9de088cfc939dcafc5f60b5cd4d5",
+   "sha256": "62d9c94df70c6ff31aeb30f2ff51717d6e2f760275b9f4019f96f18679f8278e"
+  },
+  "src/mizan/core/auth.py": {
+   "base_sha256": "47808654230dd3a397c7eaea06ebeebc1775b7054bd146b373a59b6948ac946e",
+   "sha256": "13f36bf647ecf3747ef945f77ca426b39155445e668b2099e84be3996c00d81e"
+  },
+  "src/mizan/core/config.py": {
+   "base_sha256": "13aceee824c0cfb7fccca0605607178fb71fb4753d58f88fb4936120c083065b",
+   "sha256": "15dc72b47c8d8d7bfa9c35b0e1b641bc1707f19741e63eb7e11c4a9806c22d87"
+  },
+  "src/mizan/dashboard/app.py": {
+   "base_sha256": "bb350fb6f4ed71c3c24229fc986bf10f3acceb52389f8f10dd31104d5d8a1932",
+   "sha256": "880b6218ecc585f67ac46436e3680147a702fbc670bf36d30720580ab98a6288"
+  }
+ },
+ "name": "phase9c_admin_login_env"
+}

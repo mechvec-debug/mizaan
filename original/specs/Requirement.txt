@@ -1,0 +1,457 @@
+ROLE
+
+Act as a Principal Software Architect, Senior Python Engineer, Quantitative Research Engineer, Data Engineering Specialist and AI Integration Architect.
+
+Your responsibility is to consolidate my three existing independent stock screeners and analytical modules into one professional-grade, modular, extensible stock-market intelligence repository.
+
+This is an existing production-oriented project. Your first responsibility is preservation, not redesign.
+
+## 1. PROJECT OBJECTIVE
+
+Create a new repository that integrates all three existing screeners into one unified application.
+
+The new repository must:
+
+- Retain all existing screener functionality.
+- Preserve existing filters, calculations and business rules.
+- Preserve existing analytical outputs and presentation designs.
+- Use one common stock input file across every module.
+- Eliminate redundant market-data and fundamental-data downloads.
+- Introduce a central data-management and caching framework.
+- Support future screeners and analytical modules without redesigning the core architecture.
+- Integrate AI-based annual report analysis with controlled daily processing.
+-Admin and end user funcationalty and controls 
+
+
+2. FIRST PHASE — DEEP SOURCE CODE AUDIT
+
+Before writing or modifying any code:
+
+1. Read the proposed architecture document: Multi_model_stock_Screener.txt.
+2. Read every supplied existing source-code file.
+3. Identify all three existing screeners and their dependencies.
+4. Map their complete execution flow.
+5. Identify all filters, thresholds, formulas and business rules.
+6. Identify existing input sources and stock-list retrieval mechanisms.
+7. Identify every market-data and fundamental-data download.
+8. Identify existing cache mechanisms and local file paths.
+9. Identify existing output structures, CSV files, JSON files and dashboard designs.
+10. Identify annual report analysis and AI integration mechanisms.
+
+Create a source-code inventory and dependency matrix.
+
+For each screener, document:
+
+- Existing functionality.
+- Input parameters.
+- Stock universe.
+- Data requirements.
+- Filtering criteria.
+- Calculation formulas.
+- Output columns.
+- Sorting and ranking.
+- Dashboard presentation.
+- Download/export functionality.
+- Dependencies.
+- Known issues.
+
+Do not assume that two similarly named functions have identical business logic.
+
+3. STRICT PRESERVATION POLICY
+
+These are absolute requirements.
+
+DO NOT:
+
+- Change any existing filter criteria.
+- Change numerical thresholds.
+- Modify calculation formulas.
+- Change stock eligibility rules.
+- Change ranking or scoring methodology.
+- Change existing output columns.
+- Change existing output values or interpretation.
+- Remove any existing dashboard section.
+- Replace an existing analytical module with another module.
+- Simplify existing business logic.
+- Introduce new filters into existing screeners.
+- Change existing report interpretation.
+
+You may refactor the technical implementation only when output parity is demonstrated.
+
+Every existing screener must produce results equivalent to its original implementation when supplied with identical input data and configuration.
+
+If any existing code contains bugs or inconsistencies, document them separately. Do not silently correct them during consolidation.
+
+## 4. SINGLE STOCK INPUT ARCHITECTURE
+
+Create one authoritative stock universe.
+
+Use the existing stock input file wherever possible.
+
+All three screeners and every future analytical module must consume the same stock universe.
+
+Requirements:
+
+- One source of truth.
+- No independent stock lists inside individual screeners.
+- No duplicate stock-list retrieval.
+- Consistent ticker normalisation.
+- Preserve original stock identifiers.
+- Validate missing or invalid tickers.
+- Provide a central stock-universe service.
+
+If the stock list is updated, all modules must automatically use the updated version.
+
+Do not introduce another stock input file without a documented technical necessity.
+
+## 5. CENTRAL DATA ACQUISITION ENGINE
+
+This is one of the most important architectural requirements.
+
+Build a shared Data Acquisition Manager.
+
+All screeners must obtain data through this manager.
+
+Centralise:
+
+- Historical OHLCV data.
+- Latest market prices.
+- Fundamental information.
+- Benchmark information.
+- Other existing external data sources.
+
+Implement:
+
+1. Central download manager.
+2. Shared cache manager.
+3. Download deduplication.
+4. Cache freshness validation.
+5. Incremental data updates where supported.
+6. Request throttling.
+7. Retry and timeout management.
+8. Download audit logs.
+9. Data-source error handling.
+
+Use a unique cache key based on:
+
+Ticker + Data Type + Source + Period + Relevant Data Version.
+
+When Screener 1 downloads a stock's OHLCV data, Screener 2 and Screener 3 must reuse the same cached dataset whenever it satisfies their data requirements.
+
+Do not download the same information again merely because another screener is running.
+
+If a screener needs a longer historical period or additional data fields, retrieve only the missing information.
+
+Never return stale or incomplete data silently.
+
+Maintain a clear distinction between:
+
+- Raw source data.
+- Shared normalised data.
+- Screener-specific calculated indicators.
+- Final analytical results.
+
+Shared raw data must not be modified by individual screeners.
+
+## 6. INDEPENDENT SCREENER ENGINES
+
+Implement three independent screener modules.
+
+Each module must retain its original:
+
+- Execution logic.
+- Filters.
+- Calculations.
+- Scoring.
+- Ranking.
+- Business rules.
+- Output schema.
+- Dashboard.
+- CSV/Excel/JSON exports, wherever applicable.
+
+The only intended integration change is that data acquisition should be provided by the central data-management layer.
+
+Do not combine the three screeners into one common calculation engine.
+
+Independent analytical logic must remain independent.
+
+One screener failure must not prevent other screeners from executing.
+
+## 7. EXTENSIBILITY FRAMEWORK
+
+The architecture must support adding new screeners and analytical modules in the future.
+
+Create a module registration mechanism.
+
+Each new module should be able to declare:
+
+- Module name.
+- Module description.
+- Module category.
+- Input requirements.
+- Data dependencies.
+- Execution function.
+- Output schema.
+- Presentation component.
+- Enabled/disabled status.
+
+A new module must be registerable without modifying the existing screener calculation engines.
+
+Provide a separate section for custom screeners and custom analysis.
+
+Future modules should automatically appear in the dashboard navigation when registered and enabled.
+
+Provide module validation and error isolation.
+
+## 8. ANNUAL REPORT AI ANALYSIS ENGINE
+
+Preserve the existing annual report analytical methodology.
+
+Implement a controlled, resumable batch-processing framework.
+
+MANDATORY REQUIREMENTS:
+
+- Read the same central stock universe.
+- Identify eligible annual reports.
+- Process a maximum of 100 stocks per scheduled daily batch.
+- Maintain a persistent processing queue.
+- Prevent duplicate processing of the same report version.
+- Save every completed analysis.
+- Save pending and failed stocks.
+- Automatically resume on the next scheduled day.
+- Never restart completed work unnecessarily.
+
+
+The system must stop processing Annual report  when either the 100-stock batch limit or configured token budget is reached.
+
+Do not assume that 100 reports will always fit within a particular token allowance.
+
+Use document extraction and section-level analysis wherever appropriate.
+
+Avoid repeatedly sending complete annual reports to the AI.
+
+Persist the following information:
+
+Stock symbol, company name, financial year, report source, report version, download date, analysis date, processing status, AI model, token consumption and analytical output.
+
+Provide an annual report dashboard showing:
+
+- Total eligible stocks.
+- Reports available.
+- Reports processed.
+- Reports pending.
+- Failed reports.
+- Daily batch progress.
+- Token consumption.
+- Last successful processing date.
+- Next scheduled batch.
+
+9. UNIFIED PROFESSIONAL DASHBOARD
+
+Create one central dashboard.
+
+Retain the existing dashboard designs inside their respective screener pages.
+
+The central navigation should provide:
+
+1. Executive Overview.
+2. Screener 1.
+3. Screener 2.
+4. Screener 3.
+5. Annual Report Intelligence.
+6. Data Management.
+7. Execution Monitor.
+8. Custom Screeners.
+9. Custom Analysis.
+10. System Configuration.
+
+The Executive Overview should provide a consolidated view of results from all three screeners.
+
+Do not mix their scores or change their individual ranking methodology.
+
+Show their results independently.
+
+Provide optional cross-screener comparison as an additional feature, clearly separated from the original outputs.
+
+## 10. SCHEDULING AND EXECUTION MANAGEMENT
+
+Build a central execution manager.
+
+It must support:
+
+- Independent screener execution.
+- Sequential or controlled parallel execution.
+- Scheduled daily execution.
+- Manual execution.
+- Individual module execution.
+- Retry failed modules.
+- Resume interrupted processes.
+- Execution history.
+- Runtime monitoring.
+- Error reporting.
+
+Prevent concurrent jobs from downloading identical data.
+
+Use persistent job state rather than relying exclusively on in-memory variables.
+
+11. TESTING AND VALIDATION
+
+Before accepting the consolidated application, perform the following tests.
+
+A. Baseline comparison:\
+Run each original screener independently using identical historical inputs.
+
+B. Consolidated comparison:\
+Run each screener inside the new repository using the same inputs.
+
+C. Output parity:\
+Compare:
+
+- Number of stocks.
+- Stock eligibility.
+- Filter results.
+- Indicator values.
+- Scores.
+- Ranking.
+- Output columns.
+- Final results.
+- Dashboard calculations.
+
+D. Data integrity:\
+Verify that:
+
+- All modules use the same stock universe.
+- Duplicate downloads are prevented.
+- Cache data is consistent.
+- Individual engines cannot modify shared raw datasets.
+
+E. Annual report tests:\
+Verify:
+
+- 100-stock maximum per batch.
+- Token-budget enforcement.
+- Checkpoint recovery.
+- Next-day continuation.
+- Duplicate-report prevention.
+- Failed-report retry.
+- No unnecessary reprocessing.
+
+F. Regression testing:\
+Confirm that existing modules continue to operate independently.
+
+Do not declare the consolidation successful until these tests pass.
+
+ 12. IMPLEMENTATION APPROACH
+
+Follow a phased implementation.
+
+PHASE 1 — Source audit and architecture mapping.
+
+PHASE 2 — Existing business-rule documentation and baseline output capture.
+
+PHASE 3 — Common stock-universe service.
+
+PHASE 4 — Central data acquisition and caching.
+
+PHASE 5 — Integrate Screener 1 and validate output parity.
+
+PHASE 6 — Integrate Screener 2 and validate output parity.
+
+PHASE 7 — Integrate Screener 3 and validate output parity.
+
+PHASE 8 — Annual report batch-processing integration.
+
+PHASE 9 — Unified dashboard and module registry.
+
+PHASE 10 — Scheduler, monitoring and error management.
+
+PHASE 11 — Full regression and integration testing.
+
+PHASE 12 — Production-ready documentation and deployment.
+
+At the end of each phase:
+
+- List completed work.
+- List files created or modified.
+- Explain the changes.
+- Report test results.
+- Identify unresolved issues.
+- Obtain approval before proceeding to the next high-impact phase.
+
+## 13. DELIVERABLES
+
+Provide:
+
+1. Complete source-code inventory.
+2. Existing versus proposed architecture comparison.
+3. Final repository folder structure.
+4. Business-rule preservation matrix.
+5. Common stock-input implementation.
+6. Shared data acquisition engine.
+7. Independent integrated screener modules.
+8. Annual report batch-processing engine.
+9. Unified dashboard.
+10. Module registration framework.
+11. Scheduler and execution monitor.
+12. Complete dependency file.
+13. Configuration templates.
+14. Automated test suite.
+15. README with beginner-friendly installation and execution instructions.
+16. Migration and rollback instructions.
+
+Provide complete files rather than fragmented code snippets.
+
+Preserve existing repository functionality throughout implementation.
+
+## 14. FINAL ACCEPTANCE CRITERIA
+
+The project is accepted only when:
+
+- All three original screeners work independently.
+- Their original analytical results are preserved.
+- Their dashboard designs and outputs are retained.
+- All modules use one authoritative stock universe.
+- Duplicate data downloads are prevented.
+- Shared caching works correctly.
+- Annual report processing respects the 100-stock daily maximum.
+- Token budgets are enforced.
+- Interrupted report processing resumes correctly.
+- New screeners can be registered without changing existing engines.
+- The consolidated dashboard operates successfully.
+- Regression tests demonstrate output parity.
+
+**FINAL INSTRUCTION:**
+
+Think like a software architect building a maintainable quantitative research platform.
+
+Do not prioritise speed of code generation over correctness.
+
+Do not rewrite working business logic simply to make the code look cleaner.
+
+First understand, then document, then architect, then integrate, then validate.
+
+Preservation of existing functionality is more important than introducing additional features.
+
+## 6. Additional architectural recommendations
+
+I would add three specific controls to make this genuinely production-grade.
+
+A. Golden master testing
+
+Before consolidation, save each original screener's output for a fixed historical date and stock universe. Use it as the reference dataset for every future regression test.
+
+B. Data download audit
+
+Maintain a central download ledger:
+
+| Ticker | Data type    | Date   | Source | Download count |
+| ------ | ------------ | ------ | ------ | -------------- |
+| TCS    | OHLCV        | 31-Oct | Yahoo  | 1              |
+| TCS    | Fundamentals | 31-Oct | Yahoo  | 1              |
+| INFY   | OHLCV        | 31-Oct | Yahoo  | 1              |
+
+This makes duplicate downloads measurable rather than relying on assumptions.
+
+C. Module isolation
+
+A future enhancement analysis, management-quality analysis, dividend analysis or another screener should be addable without changing the existing three screeners.

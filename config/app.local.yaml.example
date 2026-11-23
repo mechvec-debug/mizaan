@@ -1,0 +1,5 @@
+# Copy to config/app.local.yaml (git-ignored) to run everything on the 6-stock TEST universe in a SEPARATE data folder.
+# Delete the file to go back to the full list and the real data store.
+paths:
+  universe: data/universe/test_universe.txt
+  store: data_store_test

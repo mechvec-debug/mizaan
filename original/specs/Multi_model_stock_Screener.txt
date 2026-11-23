@@ -1,0 +1,39 @@
+Shariah_Screener/             <-- GitHub Repository Root
+│
+├── shariah_engine/           <-- THE SHARIAH PACKAGE
+│   ├── engine.py             <-- Your main driver/orchestrator
+│   │
+│   ├── helpers/              <-- Scripts that pull or process data
+│   │   ├── downloader.py     <-- e.g., downloads bhavcopy/financials
+│   │   ├── parser.py         <-- e.g., parses CSVs/PDFs/APIs
+│   │   └── symbol_mapper.py  <-- e.g., maps BSE/NSE symbols
+│   │
+│   ├── data/                 <-- JSON/CSV database assets
+│   │   ├── stage 1.json      <-- Intermediate data
+│   │   ├── symbol_map.json   <-- Offline mapping records
+│   │   └── mapper.json       
+│   │
+│   └── latest_results.json   <-- The FINAL scanner output file
+│
+├── technical_engine/         <-- THE TECHNICAL PACKAGE
+│   ├── tech_scanner.py       <-- Main driver
+│   ├── helpers/
+│   │   ├── indicator_calc.py
+│   │   └── fetcher.py
+│   ├── data/
+│   │   └── market_state.json
+│   └── tech_results.json     <-- Final output
+│
+├── fundamental_engine/       <-- THE FUNDAMENTAL PACKAGE
+│   ├── fund_scanner.py       <-- Main driver
+│   ├── helpers/
+│   │   ├── ratio_parser.py
+│   │   └── scraper.py
+│   ├── data/
+│   │   └── results_temp.json
+│   └── fund_results.json     <-- Final output
+│
+├── firebase_publisher.py     <-- Unified uploader (Global level)
+├── requirements.txt          <-- Global dependency list
+└── .github/workflows/
+    └── daily_screen.yml      <-- Workflow orchestration

@@ -1,0 +1,44 @@
+name: Data branch maintenance
+
+# Manual only. Reports the size of the data branch; optionally squashes its history (the history of data files has little value) when it
+# has grown large. Squashing rewrites the `data` branch (force push) - type SQUASH to confirm.
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: "Type SQUASH to squash the data branch history (leave empty to only report the size)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mizan-data
+  cancel-in-progress: false
+
+jobs:
+  maintain:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      GH_TOKEN: ${{ github.token }}
+      CONFIRM: ${{ inputs.confirm }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Clone the full data branch history
+        run: |
+          git clone --quiet --branch data --single-branch "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" data_store
+          echo "history size: $(du -sh data_store/.git | cut -f1) | working files: $(du -sh --exclude=.git data_store | cut -f1)" | tee -a "$GITHUB_STEP_SUMMARY"
+      - name: Squash the history (only when confirmed)
+        if: env.CONFIRM == 'SQUASH'
+        run: |
+          cd data_store
+          git config user.name "mizan-bot"
+          git config user.email "mizan-bot@users.noreply.github.com"
+          git checkout --orphan squashed
+          git add -A
+          git commit --quiet -m "squash history $(date -u +%F)"
+          git branch -M data
+          git push --force origin data
+          echo "history squashed" | tee -a "$GITHUB_STEP_SUMMARY"

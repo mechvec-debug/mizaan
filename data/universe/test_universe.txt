@@ -1,0 +1,17 @@
+# TEST universe - 6 large, liquid stocks for a quick end-to-end check (all are in the full list; 4 have seed BSE codes so the XBRL path is exercised).
+# Use it WITHOUT editing the real list:   copy config/app.local.yaml.example to config/app.local.yaml
+20MICRONS
+3BBLACKBIO
+63MOONS
+AARTIDRUGS
+AARTIIND
+AARTIPHARM
+ABFRL
+ABLBL
+ABREL
+ACC
+ACCELYA
+ACE
+ACI
+ACMESOLAR
+ADANIENSOL

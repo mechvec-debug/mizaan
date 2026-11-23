@@ -1,0 +1,10 @@
+# Lean install for the scheduled GitHub runs (no dashboard libraries: faster, and no Streamlit/starlette version clashes).
+pandas>=2.2
+numpy>=1.26
+yfinance>=0.2.40
+lxml>=5.0
+requests>=2.31
+pyyaml>=6.0
+python-dotenv>=1.0
+pypdf>=4.0
+google-genai>=0.3

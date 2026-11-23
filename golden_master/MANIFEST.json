@@ -1,0 +1,36 @@
+{
+ "purpose": "Read-only golden masters: original outputs as supplied. Never overwrite; add dated snapshots instead.",
+ "files": {
+  "fundamental_data.json": {
+   "sha256": "49468da4560185597e7b3ac1e32bdb50482fcf43f28f8a171c381d575ccbbaf0",
+   "bytes": 229552,
+   "records": 344,
+   "by_status": {
+    "👀 WATCH": 30,
+    "WAIT (Price)": 11,
+    "WAIT (Valuation)": 54,
+    "WAIT (Fund)": 249
+   },
+   "as_of": "2026-10-30 16:49 UTC"
+  },
+  "shariah_latest_results.json": {
+   "sha256": "f2143756d410767d42c44f23a4b6ebac7f70150c4275ffe3ece66ea8d3ec71af",
+   "bytes": 1454002,
+   "records": 1228,
+   "compliant": 811,
+   "as_of": "31 Oct 2026, 09:52 AM"
+  },
+  "technical_trading_alerts.json": {
+   "sha256": "4f241db96b31f309774b2abc36a3091cdeb0d223715be1697dfbba76996f1074",
+   "bytes": 71137,
+   "records": 217,
+   "by_action": {
+    "⚪ FORMING": 141,
+    "🔵 IN BUY ZONE": 69,
+    "🟢 BUY TRIGGERED": 4,
+    "🟡 WAIT FOR BUY ZONE": 3
+   },
+   "as_of": "mixed: 204 rows 2026-07-03, 10 rows 2026-10-30"
+  }
+ }
+}

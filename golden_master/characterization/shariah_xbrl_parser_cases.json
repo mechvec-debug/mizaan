@@ -1,0 +1,233 @@
+{
+ "xbrl_crore_scale": {
+  "tags": [
+   [
+    "Assets",
+    1000
+   ],
+   [
+    "RevenueFromOperations",
+    800
+   ],
+   [
+    "EquityAndLiabilities",
+    1000
+   ],
+   [
+    "PropertyPlantAndEquipment",
+    300
+   ],
+   [
+    "Inventories",
+    100
+   ],
+   [
+    "CashAndCashEquivalents",
+    50
+   ],
+   [
+    "TradeReceivablesCurrent",
+    60
+   ],
+   [
+    "BorrowingsCurrent",
+    20
+   ],
+   [
+    "BorrowingsNonCurrent",
+    80
+   ],
+   [
+    "InterestIncome",
+    12
+   ],
+   [
+    "CurrentInvestments",
+    40
+   ]
+  ],
+  "expected": {
+   "financial_date": "31 Mar 2026",
+   "total_assets": 1000.0,
+   "total_liabilities": 1000.0,
+   "ppe": 300.0,
+   "cwip": 0.0,
+   "investment_property": 0.0,
+   "intangible": 0.0,
+   "inventories": 100.0,
+   "cash_equivalents": 50.0,
+   "bank_balances": 0.0,
+   "trade_receivables": 60.0,
+   "other_current_financial_assets": 0.0,
+   "current_borrowings": 20.0,
+   "non_current_borrowings": 80.0,
+   "total_revenue": 800.0,
+   "non_compliant_investments": 40.0,
+   "impermissible_interest_income": 12.0,
+   "illiquid_assets": 400.0,
+   "liquid_assets": 110.0,
+   "interest_bearing_debt": 100.0
+  }
+ },
+ "xbrl_rupee_scale_gt_1e7": {
+  "tags": [
+   [
+    "Assets",
+    10000000000
+   ],
+   [
+    "RevenueFromOperations",
+    8000000000
+   ],
+   [
+    "EquityAndLiabilities",
+    10000000000
+   ],
+   [
+    "PropertyPlantAndEquipment",
+    3000000000
+   ],
+   [
+    "BorrowingsCurrent",
+    200000000
+   ]
+  ],
+  "expected": {
+   "financial_date": "31 Mar 2026",
+   "total_assets": 1000.0,
+   "total_liabilities": 1000.0,
+   "ppe": 300.0,
+   "cwip": 0.0,
+   "investment_property": 0.0,
+   "intangible": 0.0,
+   "inventories": 0.0,
+   "cash_equivalents": 0.0,
+   "bank_balances": 0.0,
+   "trade_receivables": 0.0,
+   "other_current_financial_assets": 0.0,
+   "current_borrowings": 20.0,
+   "non_current_borrowings": 0.0,
+   "total_revenue": 800.0,
+   "non_compliant_investments": 0.0,
+   "impermissible_interest_income": 0.0,
+   "illiquid_assets": 300.0,
+   "liquid_assets": 0.0,
+   "interest_bearing_debt": 20.0
+  }
+ },
+ "xbrl_value_exactly_1e7_not_scaled": {
+  "tags": [
+   [
+    "Assets",
+    10000000
+   ],
+   [
+    "RevenueFromOperations",
+    10000000
+   ]
+  ],
+  "expected": {
+   "financial_date": "31 Mar 2026",
+   "total_assets": 10000000.0,
+   "total_liabilities": 0.0,
+   "ppe": 0.0,
+   "cwip": 0.0,
+   "investment_property": 0.0,
+   "intangible": 0.0,
+   "inventories": 0.0,
+   "cash_equivalents": 0.0,
+   "bank_balances": 0.0,
+   "trade_receivables": 0.0,
+   "other_current_financial_assets": 0.0,
+   "current_borrowings": 0.0,
+   "non_current_borrowings": 0.0,
+   "total_revenue": 10000000.0,
+   "non_compliant_investments": 0.0,
+   "impermissible_interest_income": 0.0,
+   "illiquid_assets": 0.0,
+   "liquid_assets": 0.0,
+   "interest_bearing_debt": 0.0
+  }
+ },
+ "xbrl_liabilities_tag_priority": {
+  "tags": [
+   [
+    "Assets",
+    1000
+   ],
+   [
+    "RevenueFromOperations",
+    500
+   ],
+   [
+    "EquityAndLiabilities",
+    1000
+   ],
+   [
+    "Liabilities",
+    400
+   ]
+  ],
+  "expected": {
+   "financial_date": "31 Mar 2026",
+   "total_assets": 1000.0,
+   "total_liabilities": 1000.0,
+   "ppe": 0.0,
+   "cwip": 0.0,
+   "investment_property": 0.0,
+   "intangible": 0.0,
+   "inventories": 0.0,
+   "cash_equivalents": 0.0,
+   "bank_balances": 0.0,
+   "trade_receivables": 0.0,
+   "other_current_financial_assets": 0.0,
+   "current_borrowings": 0.0,
+   "non_current_borrowings": 0.0,
+   "total_revenue": 500.0,
+   "non_compliant_investments": 0.0,
+   "impermissible_interest_income": 0.0,
+   "illiquid_assets": 0.0,
+   "liquid_assets": 0.0,
+   "interest_bearing_debt": 0.0
+  }
+ },
+ "xbrl_empty": {
+  "tags": [],
+  "expected": {
+   "financial_date": "31 Mar 2026",
+   "total_assets": 0.0,
+   "total_liabilities": 0.0,
+   "ppe": 0.0,
+   "cwip": 0.0,
+   "investment_property": 0.0,
+   "intangible": 0.0,
+   "inventories": 0.0,
+   "cash_equivalents": 0.0,
+   "bank_balances": 0.0,
+   "trade_receivables": 0.0,
+   "other_current_financial_assets": 0.0,
+   "current_borrowings": 0.0,
+   "non_current_borrowings": 0.0,
+   "total_revenue": 0.0,
+   "non_compliant_investments": 0.0,
+   "impermissible_interest_income": 0.0,
+   "illiquid_assets": 0.0,
+   "liquid_assets": 0.0,
+   "interest_bearing_debt": 0.0
+  }
+ },
+ "yahoo_fallback_FAKE": {
+  "note": "balance_sheet/financials values in rupees; expected in crore",
+  "expected": {
+   "financial_date": "31 Mar 2026",
+   "total_assets": 2000.0,
+   "total_revenue": 1500.0,
+   "liquid_assets": 300.0,
+   "interest_bearing_debt": 400.0,
+   "total_liabilities": 900.0,
+   "illiquid_assets": 750.0,
+   "non_compliant_investments": 70.0,
+   "impermissible_interest_income": 20.0
+  }
+ }
+}

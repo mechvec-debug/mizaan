@@ -1,0 +1,52 @@
+{
+ "added": {
+  "config/app.local.yaml.example": "2c6f507a7107b8a541ba69f0206006beb07667ca101bd4aeddde3f7efa7c39cf",
+  "data/universe/test_universe.txt": "ffed6d048f82d7281ddab1dcb184c8fda3eae118c5396cbf714d6678776dcac7",
+  "docs/DASHBOARD.md": "d26b8ca4f3fc7dc05ad72b25c3d9c676742f3c00b2c09c718d109186c3274882",
+  "scripts/run_test_batch.py": "a6f916f83f7d4c68c9fa8fe93fa599e7f9464db77c8025e407364d0583d31edc",
+  "src/mizan/core/auth.py": "47808654230dd3a397c7eaea06ebeebc1775b7054bd146b373a59b6948ac946e",
+  "src/mizan/dashboard/app.py": "bb350fb6f4ed71c3c24229fc986bf10f3acceb52389f8f10dd31104d5d8a1932",
+  "src/mizan/dashboard/pages.py": "69bb8f8a18ef521affb5565542b74bbf222ff8ce5185a92b92428f52a8e0e117",
+  "src/mizan/dashboard/views.py": "d6e659c82784742191166e6ae570380565b8e6991a0ffd1ca80e4be1bdebc53e",
+  "src/mizan/execution/history.py": "b267e63f036ac2dc3c0cedeaa10eff125fc6e5300bd20068b087954a64f237e5",
+  "src/mizan/execution/runner.py": "83f7f46af93fc4302535ef9e604fe970476417ccc62630252256bb03acd91f38",
+  "src/mizan/modules/builtin.py": "54ab34d11b693bc072f176d46cb62ff1a702a761aac88f8a7ffb25f003f53f54",
+  "src/mizan/modules/context.py": "211f414ea072aaf0c98185396ccb3e619ae3ed8c44bbd52e8ad287dad2f524ab",
+  "src/mizan/modules/registry.py": "8e4613fededb0a2287b31a6d821ad1b775f6fbb30ec90e6ec5f662185a24be5c",
+  "src/mizan/screeners/custom/near_52w_high.py": "77528be7be303e09ace5ea81eea4298e9dd6bc7d1aae628545ed9f7249d776e3",
+  "tests/unit/dash_helpers.py": "cb726ba883bcd4c72da882ce35e143683b4ac69782e4f768428cd17e5441aace",
+  "tests/unit/fake_st.py": "f1e9e74c68f88f44e604381da7f90367df9401035cd4cdd8f61dd68057e49635",
+  "tests/unit/test_auth_registry.py": "52e7b7ea29265e7669b111c75fc29cc8d6d1152e0205309019f9f92fec5181c1",
+  "tests/unit/test_dashboard.py": "e7d464ca4a81d374e32e666f1a35e7b648c6d59571df6d8215cc1f1f6b3c8571"
+ },
+ "applies_on_top_of": "Phase 6 package + phase7 delta + phase8 delta",
+ "counts": {
+  "added": 18,
+  "deleted": 0,
+  "modified": 5
+ },
+ "deleted": [],
+ "modified": {
+  ".gitignore": {
+   "base_sha256": "8871851063500422bd159a66cb719f597cb0e2fe66e5b3877fd96cf21c73da0f",
+   "sha256": "6d36d3b569fa2dd1f03c0212de5230f38c5de8e7504369e750a79b6cf51be61f"
+  },
+  "README.md": {
+   "base_sha256": "f47cd59525170f62e5ede7f8ed0005078608a211bf007a889ee07297f771b284",
+   "sha256": "f15c5b4c8190a8fa97dd8fbd9f847c1b41f16f8f27959c9dc7585e1b97f146fc"
+  },
+  "config/modules.yaml": {
+   "base_sha256": "d878a01adbb1af472933a3d2fdc5defd00ff9f942bdb11542c4b9998adfec461",
+   "sha256": "d906671d0e66f165647ea257696522889a366074e3652f4030e51628aadadecb"
+  },
+  "docs/BUSINESS_RULES.md": {
+   "base_sha256": "04b21414cc1c17c3512856d71dc46588d0ed79bd7c6d919d4c5001912c9284ce",
+   "sha256": "255976f6c4f075a460fa3bd735a2fba3d629225b6b1db6e7b5c9fc3eb4ed2bf1"
+  },
+  "src/mizan/execution/__init__.py": {
+   "base_sha256": "6daecad48c8b7b5f287165740336c112588c61888c3e366bca1732e44b68328d",
+   "sha256": "1c9d97638431bc3a99537e312ccacd321f8e7e73f3167684006267251a6e45a3"
+  }
+ },
+ "name": "phase9_dashboard_delta"
+}

@@ -1,0 +1,58 @@
+{
+ "added": {
+  "docs/ANNUAL_REPORT.md": "2a24b339d405a6e86336d3ada76d899046fb36eda079f96ab53f9095a4862928",
+  "src/mizan/annual_report/__main__.py": "1a902922d2383783480ed66dc6c0ff763e6c52ef4093ff712cec1c8516aea6fd",
+  "src/mizan/annual_report/config.py": "ac116d6b994263d81a1bce66f172bc2d14638c8c7b1a11c78d762fc75ea73688",
+  "src/mizan/annual_report/dashboard.py": "d5180c84a23408c801cb9ebc7cfd58b1d57a1e03caeaac84bc34f2449f334f20",
+  "src/mizan/annual_report/engine.py": "21177237e447f020cbd973c74d8438091349d4bf9fcbabe4e57e1097bdc101a9",
+  "src/mizan/annual_report/extract.py": "c470102e6a9d8f506310061cefe3f7d2cc142b2a20a96a1c858e9d684f24a247",
+  "src/mizan/annual_report/llm.py": "9ded220f9cb1e32006c071a99f3b8a70dfa4d9ee424badf3eb5b9ce61ed6ab05",
+  "src/mizan/annual_report/prompt.py": "cb596d65e732793ac05c1982b1fedb3a8b457e3df4778d5f3a9b4b573ddd7513",
+  "src/mizan/annual_report/reports.py": "1ce318e7f17cb65c7ea1c8f0a56e1677116a24e31f30850c58f2f01a89b2dcf3",
+  "src/mizan/annual_report/state.py": "e441c2bc539589f47ebe63ab87664b145054ca77b4ee8370db13dc9680df78b6",
+  "tests/unit/test_annual_report.py": "acdcae0cd7e61df9b18f3b4efd023afb4d853782d6a38d2868b9af64ca04c422",
+  "tests/unit/test_rate_weights.py": "3a457bb71ea8840f2803d23ad85c2a4e06ae8ff77a688f6cf550a9f2d2f3de10"
+ },
+ "applies_on_top_of": "Phase 6 package + mizan_delta_phase7.zip",
+ "counts": {
+  "added": 12,
+  "deleted": 0,
+  "modified": 8
+ },
+ "deleted": [],
+ "modified": {
+  "README.md": {
+   "base_sha256": "0bd1b148749c8ef8882a0c5a354f89b4a191b82b4eac6ff2439dd568ad39151f",
+   "sha256": "f47cd59525170f62e5ede7f8ed0005078608a211bf007a889ee07297f771b284"
+  },
+  "config/app.yaml": {
+   "base_sha256": "f6bd1a952b46f9a3c10f7d057587b2941cb24356b6649321ebfdcaa5441f0e4b",
+   "sha256": "0c80ad46be62bf9e96de6fcc84c556c588cff0e33e0ccc65814fd4e7a1c2590b"
+  },
+  "docs/BUSINESS_RULES.md": {
+   "base_sha256": "9f8850d49d19555e9fdffc61069d495837b559eb70fd8abf50fe1a31e51d1d85",
+   "sha256": "04b21414cc1c17c3512856d71dc46588d0ed79bd7c6d919d4c5001912c9284ce"
+  },
+  "scripts/verify_delta.py": {
+   "base_sha256": "ba1c82c4b97c8770ace5a197e2d9201a5c7165ed1c5a888ee12fc6663ae13c52",
+   "sha256": "644af503bf632d5daee9994b88d653afd14e24d927511b513626467af879b923"
+  },
+  "src/mizan/annual_report/__init__.py": {
+   "base_sha256": "a4a1d4b6cbb604fecdf7bfd573bc35b7fad9b6b4fc462aaa285ba0dbdc992716",
+   "sha256": "a68adba2cc207fa09c2447a29be415adde8d0045a9e1562b2a362d6d76dcfa49"
+  },
+  "src/mizan/data/manager.py": {
+   "base_sha256": "35e8242903360eaa3545982e7063ce140915c3de2611603854e20ef2613a0caa",
+   "sha256": "954aca825259c9df8dde14d1e219c88144bcd2be772ffe3b8215f4f0fd624ba9"
+  },
+  "src/mizan/data/providers/bse.py": {
+   "base_sha256": "c4663e04227e02eb8bfe8e3b47c10cd1c0ffd519a87ff78cf8b8cdbb95c8c7c5",
+   "sha256": "bfedc67e383876f5581074a6514c5f55d707b8de19d6b40e214ef19bfc18fe9b"
+  },
+  "src/mizan/data/throttle.py": {
+   "base_sha256": "91fbddbd93de3edbabbe139594a6cc65977e199fef1fa595b88a23f331945478",
+   "sha256": "66d5e042baf5a42ffb9f051b92c3f6f8fe4b9fc54d3435ba5ae48bcfa22c3d7b"
+  }
+ },
+ "name": "phase8_annual_report_delta"
+}

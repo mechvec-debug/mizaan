@@ -1,0 +1,43 @@
+{
+ "rows_total": 217,
+ "rows_after_hidden_filters": 10,
+ "latest_date": "2026-10-30",
+ "tickers_after_filters": [
+  "AKUMS",
+  "HFCL",
+  "INDGN",
+  "JYOTICNC",
+  "LEMONTREE",
+  "MRPL",
+  "PETRONET",
+  "SYRMA",
+  "WELCORP",
+  "WHIRLPOOL"
+ ],
+ "action_counts_after": {
+  "🔵 IN BUY ZONE": 10
+ },
+ "aligned_counts_after": {
+  "ALIGNED ▲ LONGS": 7,
+  "ALIGNED ▼ SHORTS": 2,
+  "MIXED — WEAK EDGE": 1
+ },
+ "plan_counts_after": {
+  "low conviction — wait": 5,
+  "BUY pullbacks": 2,
+  "AVOID: Macro Downtrend": 2,
+  "CAUTION: Low Conviction": 1
+ },
+ "columns_displayed": [
+  "ticker",
+  "action",
+  "entry",
+  "sl",
+  "tp1",
+  "tp2",
+  "tp3",
+  "aligned",
+  "plan",
+  "time_received"
+ ]
+}

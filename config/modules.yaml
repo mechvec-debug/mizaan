@@ -1,0 +1,19 @@
+# Module registry. A new screener = a new file + ONE entry here; no existing engine is edited.
+# Built-in modules (technical, fundamental, shariah, annual_report) are registered in code; entries here tune them.
+#   universe_filter: all | shariah_compliant   (shariah_compliant needs the Shariah results to exist first)
+modules:
+  - { id: technical,     display_name: Swing Setup Radar,            enabled: true, universe_filter: all }
+  - { id: fundamental,   display_name: Quality Value Rebound,        enabled: true, universe_filter: all }
+  - { id: shariah,       display_name: Shariah Compliance Screener,  enabled: true, universe_filter: all }
+  - { id: annual_report, display_name: Annual Report Intelligence,   enabled: true }
+
+  # ---- custom modules: declare with an entrypoint. category: custom_screener | custom_analysis
+  - id: near_52w_high                       # EXAMPLE (disabled): stocks within 5% of their 52-week high
+    display_name: Near 52-Week High
+    description: Stocks trading within 5% of their 52-week high.
+    category: custom_screener
+    entrypoint: mizan.screeners.custom.near_52w_high:run
+    data_dependencies: [ohlcv]
+    results_file: results.json
+    required_columns: [ticker, close, high_52w, pct_below_high, near_high]
+    enabled: false
