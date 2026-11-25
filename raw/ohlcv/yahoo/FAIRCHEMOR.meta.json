@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:04:26Z",
+ "first_date": "2020-12-24",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:04:26Z",
+ "provider_symbol": "FAIRCHEMOR.NS",
+ "rows": 1460,
+ "source": "yahoo",
+ "symbol": "FAIRCHEMOR",
+ "version": "v1"
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:29:02Z",
+ "first_date": "2018-06-18",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:29:02Z",
+ "provider_symbol": "SVLL.NS",
+ "rows": 2081,
+ "source": "yahoo",
+ "symbol": "SVLL",
+ "version": "v1"
+}

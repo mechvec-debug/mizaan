@@ -1,0 +1,72 @@
+{
+ "schema": 1,
+ "generated_at": "2026-11-25T00:59:03Z",
+ "universe_version": "267cf075f1ed",
+ "universe_count": 1228,
+ "files": {
+  "technical.json": {
+   "path": "v1/technical.json",
+   "sha256": "b16a0d263279a1614fb6b1fcd447c0d98a5fd2aba1ccc5f040deab4d4acf491e",
+   "bytes": 813804,
+   "rows": 1124,
+   "as_of": "2026-11-25"
+  },
+  "fundamental.json": {
+   "path": "v1/fundamental.json",
+   "sha256": "1722ca65935d5ce8865a108eaef9388d1aab6314753f7505bc47314f94421ede",
+   "bytes": 531055,
+   "rows": 1171,
+   "as_of": "2026-11-24 21:34 UTC"
+  },
+  "shariah.json": {
+   "path": "v1/shariah.json",
+   "sha256": "78d2d8e5993b914b56e5ba9fef1ba337c77b6dab25dcd1c38d4efa2604fb8f86",
+   "bytes": 1544412,
+   "rows": 1228,
+   "as_of": "25 Nov 2026, 12:53 AM"
+  },
+  "universe.json": {
+   "path": "v1/universe.json",
+   "sha256": "82940b1f3b4ce47da4051dca4090938a59ea2a306c7b4d0c905da6336f3d4d76",
+   "bytes": 12687,
+   "rows": 1228,
+   "as_of": "2026-11-25"
+  },
+  "status.json": {
+   "path": "v1/status.json",
+   "sha256": "ca2462f091b2b37db8e28a85605d8938bd626fb5c4c13cfe67ebb1a8ddc08340",
+   "bytes": 1036,
+   "rows": null,
+   "as_of": "2026-11-25T00:59:03Z"
+  }
+ },
+ "modules": {
+  "technical": {
+   "status": "ok",
+   "as_of": "2026-11-25",
+   "published": true,
+   "stale": false
+  },
+  "fundamental": {
+   "status": "ok",
+   "as_of": "2026-11-24 21:34 UTC",
+   "published": true,
+   "stale": false
+  },
+  "shariah": {
+   "status": "ok",
+   "as_of": "25 Nov 2026, 12:53 AM",
+   "published": true,
+   "stale": false
+  },
+  "annual_report": {
+   "status": "not_configured",
+   "as_of": null,
+   "published": false,
+   "stale": false
+  }
+ },
+ "missing": [
+  "annual_report"
+ ]
+}

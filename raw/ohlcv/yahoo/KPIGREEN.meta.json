@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:13:30Z",
+ "first_date": "2021-07-27",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:13:30Z",
+ "provider_symbol": "KPIGREEN.NS",
+ "rows": 1317,
+ "source": "yahoo",
+ "symbol": "KPIGREEN",
+ "version": "v1"
+}

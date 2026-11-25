@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:00:46Z",
+ "first_date": "2026-03-30",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:00:46Z",
+ "provider_symbol": "CMPDI.NS",
+ "rows": 161,
+ "source": "yahoo",
+ "symbol": "CMPDI",
+ "version": "v1"
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:19:14Z",
+ "first_date": "2024-10-29",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:19:14Z",
+ "provider_symbol": "OCCLLTD.NS",
+ "rows": 510,
+ "source": "yahoo",
+ "symbol": "OCCLLTD",
+ "version": "v1"
+}

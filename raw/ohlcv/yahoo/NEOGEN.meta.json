@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:18:08Z",
+ "first_date": "2019-05-08",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:18:08Z",
+ "provider_symbol": "NEOGEN.NS",
+ "rows": 1867,
+ "source": "yahoo",
+ "symbol": "NEOGEN",
+ "version": "v1"
+}

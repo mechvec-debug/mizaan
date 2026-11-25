@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:10:06Z",
+ "first_date": "2023-12-29",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:10:06Z",
+ "provider_symbol": "INNOVACAP.NS",
+ "rows": 716,
+ "source": "yahoo",
+ "symbol": "INNOVACAP",
+ "version": "v1"
+}

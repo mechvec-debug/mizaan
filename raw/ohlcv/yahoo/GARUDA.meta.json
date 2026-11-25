@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:05:22Z",
+ "first_date": "2024-10-15",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:05:22Z",
+ "provider_symbol": "GARUDA.NS",
+ "rows": 522,
+ "source": "yahoo",
+ "symbol": "GARUDA",
+ "version": "v1"
+}

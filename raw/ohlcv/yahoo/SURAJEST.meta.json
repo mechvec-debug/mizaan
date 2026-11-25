@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:28:50Z",
+ "first_date": "2023-12-26",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:28:50Z",
+ "provider_symbol": "SURAJEST.NS",
+ "rows": 719,
+ "source": "yahoo",
+ "symbol": "SURAJEST",
+ "version": "v1"
+}

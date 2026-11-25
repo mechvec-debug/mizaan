@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:00:01Z",
+ "first_date": "2017-06-30",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:00:01Z",
+ "provider_symbol": "CDSL.NS",
+ "rows": 2322,
+ "source": "yahoo",
+ "symbol": "CDSL",
+ "version": "v1"
+}

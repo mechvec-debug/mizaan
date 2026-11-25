@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:24:44Z",
+ "first_date": "2017-03-16",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:24:44Z",
+ "provider_symbol": "SAKAR.NS",
+ "rows": 2392,
+ "source": "yahoo",
+ "symbol": "SAKAR",
+ "version": "v1"
+}

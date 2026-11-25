@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:33:59Z",
+ "first_date": "2023-08-07",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:33:59Z",
+ "provider_symbol": "YATHARTH.NS",
+ "rows": 813,
+ "source": "yahoo",
+ "symbol": "YATHARTH",
+ "version": "v1"
+}

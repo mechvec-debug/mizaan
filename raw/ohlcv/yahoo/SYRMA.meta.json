@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:29:22Z",
+ "first_date": "2022-08-26",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:29:22Z",
+ "provider_symbol": "SYRMA.NS",
+ "rows": 1047,
+ "source": "yahoo",
+ "symbol": "SYRMA",
+ "version": "v1"
+}

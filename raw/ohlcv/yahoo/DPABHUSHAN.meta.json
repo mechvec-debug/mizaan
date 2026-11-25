@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:02:40Z",
+ "first_date": "2017-10-23",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:02:40Z",
+ "provider_symbol": "DPABHUSHAN.NS",
+ "rows": 2243,
+ "source": "yahoo",
+ "symbol": "DPABHUSHAN",
+ "version": "v1"
+}

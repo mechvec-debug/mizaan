@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:18:30Z",
+ "first_date": "2023-08-08",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:18:30Z",
+ "provider_symbol": "NIITMTS.NS",
+ "rows": 809,
+ "source": "yahoo",
+ "symbol": "NIITMTS",
+ "version": "v1"
+}

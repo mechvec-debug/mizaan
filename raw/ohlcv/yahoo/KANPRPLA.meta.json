@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:12:30Z",
+ "first_date": "2021-01-04",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:12:30Z",
+ "provider_symbol": "KANPRPLA.NS",
+ "rows": 1454,
+ "source": "yahoo",
+ "symbol": "KANPRPLA",
+ "version": "v1"
+}

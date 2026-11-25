@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:10:46Z",
+ "first_date": "2021-05-05",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:10:46Z",
+ "provider_symbol": "ISGEC.NS",
+ "rows": 1374,
+ "source": "yahoo",
+ "symbol": "ISGEC",
+ "version": "v1"
+}

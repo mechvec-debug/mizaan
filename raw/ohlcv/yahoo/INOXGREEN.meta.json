@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:10:12Z",
+ "first_date": "2022-11-23",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:10:12Z",
+ "provider_symbol": "INOXGREEN.NS",
+ "rows": 988,
+ "source": "yahoo",
+ "symbol": "INOXGREEN",
+ "version": "v1"
+}

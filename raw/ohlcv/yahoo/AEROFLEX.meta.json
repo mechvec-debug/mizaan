@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T20:54:18Z",
+ "first_date": "2023-08-31",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T20:54:18Z",
+ "provider_symbol": "AEROFLEX.NS",
+ "rows": 796,
+ "source": "yahoo",
+ "symbol": "AEROFLEX",
+ "version": "v1"
+}

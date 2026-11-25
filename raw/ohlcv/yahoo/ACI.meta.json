@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T20:53:46Z",
+ "first_date": "2022-11-21",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T20:53:46Z",
+ "provider_symbol": "ACI.NS",
+ "rows": 989,
+ "source": "yahoo",
+ "symbol": "ACI",
+ "version": "v1"
+}

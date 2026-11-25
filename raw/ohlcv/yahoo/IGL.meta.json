@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:09:16Z",
+ "first_date": "2016-11-24",
+ "history_complete": false,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:09:16Z",
+ "provider_symbol": "IGL.NS",
+ "rows": 2471,
+ "source": "yahoo",
+ "symbol": "IGL",
+ "version": "v1"
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T20:55:52Z",
+ "first_date": "2025-06-25",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T20:55:52Z",
+ "provider_symbol": "ARIS.NS",
+ "rows": 350,
+ "source": "yahoo",
+ "symbol": "ARIS",
+ "version": "v1"
+}

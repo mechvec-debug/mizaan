@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:00:28Z",
+ "first_date": "2021-08-24",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:00:28Z",
+ "provider_symbol": "CHEMPLASTS.NS",
+ "rows": 1298,
+ "source": "yahoo",
+ "symbol": "CHEMPLASTS",
+ "version": "v1"
+}

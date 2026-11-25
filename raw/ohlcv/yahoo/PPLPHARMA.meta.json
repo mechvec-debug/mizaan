@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:21:24Z",
+ "first_date": "2022-10-19",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:21:24Z",
+ "provider_symbol": "PPLPHARMA.NS",
+ "rows": 1011,
+ "source": "yahoo",
+ "symbol": "PPLPHARMA",
+ "version": "v1"
+}

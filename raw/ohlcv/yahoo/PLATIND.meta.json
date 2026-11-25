@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:20:58Z",
+ "first_date": "2024-03-05",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:20:58Z",
+ "provider_symbol": "PLATIND.NS",
+ "rows": 671,
+ "source": "yahoo",
+ "symbol": "PLATIND",
+ "version": "v1"
+}

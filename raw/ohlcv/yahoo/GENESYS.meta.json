@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:05:30Z",
+ "first_date": "2016-11-24",
+ "history_complete": false,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:05:30Z",
+ "provider_symbol": "GENESYS.NS",
+ "rows": 2471,
+ "source": "yahoo",
+ "symbol": "GENESYS",
+ "version": "v1"
+}

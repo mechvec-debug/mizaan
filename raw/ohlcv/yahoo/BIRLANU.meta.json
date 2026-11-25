@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T20:58:42Z",
+ "first_date": "2016-11-24",
+ "history_complete": false,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T20:58:42Z",
+ "provider_symbol": "BIRLANU.NS",
+ "rows": 2470,
+ "source": "yahoo",
+ "symbol": "BIRLANU",
+ "version": "v1"
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:06:00Z",
+ "first_date": "2018-03-05",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:06:00Z",
+ "provider_symbol": "GMMPFAUDLR.NS",
+ "rows": 2153,
+ "source": "yahoo",
+ "symbol": "GMMPFAUDLR",
+ "version": "v1"
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:26:29Z",
+ "first_date": "2021-12-20",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:26:29Z",
+ "provider_symbol": "SHRIRAMPPS.NS",
+ "rows": 1218,
+ "source": "yahoo",
+ "symbol": "SHRIRAMPPS",
+ "version": "v1"
+}

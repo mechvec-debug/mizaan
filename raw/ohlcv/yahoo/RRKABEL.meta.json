@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:24:14Z",
+ "first_date": "2023-09-20",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:24:14Z",
+ "provider_symbol": "RRKABEL.NS",
+ "rows": 781,
+ "source": "yahoo",
+ "symbol": "RRKABEL",
+ "version": "v1"
+}

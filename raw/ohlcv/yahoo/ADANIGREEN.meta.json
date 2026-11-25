@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T20:53:52Z",
+ "first_date": "2018-06-18",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T20:53:52Z",
+ "provider_symbol": "ADANIGREEN.NS",
+ "rows": 2082,
+ "source": "yahoo",
+ "symbol": "ADANIGREEN",
+ "version": "v1"
+}

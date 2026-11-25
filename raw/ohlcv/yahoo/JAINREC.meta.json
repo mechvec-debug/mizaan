@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:11:02Z",
+ "first_date": "2025-10-06",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:11:02Z",
+ "provider_symbol": "JAINREC.NS",
+ "rows": 280,
+ "source": "yahoo",
+ "symbol": "JAINREC",
+ "version": "v1"
+}

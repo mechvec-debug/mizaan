@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:07:50Z",
+ "first_date": "2020-10-22",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:07:50Z",
+ "provider_symbol": "HEMIPROP.NS",
+ "rows": 1505,
+ "source": "yahoo",
+ "symbol": "HEMIPROP",
+ "version": "v1"
+}

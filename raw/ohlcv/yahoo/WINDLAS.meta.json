@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:33:42Z",
+ "first_date": "2021-08-16",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:33:42Z",
+ "provider_symbol": "WINDLAS.NS",
+ "rows": 1303,
+ "source": "yahoo",
+ "symbol": "WINDLAS",
+ "version": "v1"
+}

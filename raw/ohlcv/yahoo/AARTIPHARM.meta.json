@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T20:53:32Z",
+ "first_date": "2023-01-30",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T20:53:32Z",
+ "provider_symbol": "AARTIPHARM.NS",
+ "rows": 941,
+ "source": "yahoo",
+ "symbol": "AARTIPHARM",
+ "version": "v1"
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:24:22Z",
+ "first_date": "2025-10-16",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:24:22Z",
+ "provider_symbol": "RUBICON.NS",
+ "rows": 271,
+ "source": "yahoo",
+ "symbol": "RUBICON",
+ "version": "v1"
+}

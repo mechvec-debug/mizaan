@@ -1,0 +1,10 @@
+{
+ "data": {
+  "balance_sheet": null,
+  "financials": null,
+  "income_stmt": null
+ },
+ "fetched_at": "2026-11-24T21:47:16Z",
+ "key": "statements|yahoo|ARTEMISMED|annual|v1",
+ "version": "v1"
+}

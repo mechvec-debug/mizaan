@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:24:10Z",
+ "first_date": "2019-01-25",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:24:10Z",
+ "provider_symbol": "RPSGVENT.NS",
+ "rows": 1932,
+ "source": "yahoo",
+ "symbol": "RPSGVENT",
+ "version": "v1"
+}

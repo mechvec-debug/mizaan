@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:17:30Z",
+ "first_date": "2026-08-06",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:17:30Z",
+ "provider_symbol": "MVELECTRO.NS",
+ "rows": 74,
+ "source": "yahoo",
+ "symbol": "MVELECTRO",
+ "version": "v1"
+}

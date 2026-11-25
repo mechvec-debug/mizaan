@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:06:16Z",
+ "first_date": "2017-10-16",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:06:16Z",
+ "provider_symbol": "GODREJAGRO.NS",
+ "rows": 2249,
+ "source": "yahoo",
+ "symbol": "GODREJAGRO",
+ "version": "v1"
+}

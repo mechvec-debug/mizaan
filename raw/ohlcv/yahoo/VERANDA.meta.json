@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:32:18Z",
+ "first_date": "2022-04-11",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:32:18Z",
+ "provider_symbol": "VERANDA.NS",
+ "rows": 1141,
+ "source": "yahoo",
+ "symbol": "VERANDA",
+ "version": "v1"
+}

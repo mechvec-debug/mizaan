@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:24:33Z",
+ "first_date": "2019-09-12",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:24:33Z",
+ "provider_symbol": "SAFARI.NS",
+ "rows": 1780,
+ "source": "yahoo",
+ "symbol": "SAFARI",
+ "version": "v1"
+}

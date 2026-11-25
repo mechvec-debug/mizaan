@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:24:55Z",
+ "first_date": "2018-04-02",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:24:55Z",
+ "provider_symbol": "SANDHAR.NS",
+ "rows": 2136,
+ "source": "yahoo",
+ "symbol": "SANDHAR",
+ "version": "v1"
+}

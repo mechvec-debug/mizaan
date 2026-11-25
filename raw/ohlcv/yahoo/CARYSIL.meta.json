@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T20:59:54Z",
+ "first_date": "2021-01-14",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T20:59:54Z",
+ "provider_symbol": "CARYSIL.NS",
+ "rows": 1447,
+ "source": "yahoo",
+ "symbol": "CARYSIL",
+ "version": "v1"
+}

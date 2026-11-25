@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:12:26Z",
+ "first_date": "2021-03-26",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:12:26Z",
+ "provider_symbol": "KALYANKJIL.NS",
+ "rows": 1398,
+ "source": "yahoo",
+ "symbol": "KALYANKJIL",
+ "version": "v1"
+}

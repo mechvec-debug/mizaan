@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T20:54:12Z",
+ "first_date": "2025-06-02",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T20:54:12Z",
+ "provider_symbol": "AEGISVOPAK.NS",
+ "rows": 367,
+ "source": "yahoo",
+ "symbol": "AEGISVOPAK",
+ "version": "v1"
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:15:42Z",
+ "first_date": "2023-05-09",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:15:42Z",
+ "provider_symbol": "MANKIND.NS",
+ "rows": 876,
+ "source": "yahoo",
+ "symbol": "MANKIND",
+ "version": "v1"
+}

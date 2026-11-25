@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:10:30Z",
+ "first_date": "2022-02-22",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:10:30Z",
+ "provider_symbol": "IONEXCHANG.NS",
+ "rows": 1172,
+ "source": "yahoo",
+ "symbol": "IONEXCHANG",
+ "version": "v1"
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:21:10Z",
+ "first_date": "2021-11-15",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:21:10Z",
+ "provider_symbol": "POLICYBZR.NS",
+ "rows": 1241,
+ "source": "yahoo",
+ "symbol": "POLICYBZR",
+ "version": "v1"
+}

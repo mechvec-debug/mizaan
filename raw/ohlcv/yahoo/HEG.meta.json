@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:07:46Z",
+ "first_date": "2026-07-17",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:07:46Z",
+ "provider_symbol": "HEG.NS",
+ "rows": 88,
+ "source": "yahoo",
+ "symbol": "HEG",
+ "version": "v1"
+}

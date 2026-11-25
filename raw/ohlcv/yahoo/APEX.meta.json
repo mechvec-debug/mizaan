@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T20:55:26Z",
+ "first_date": "2017-09-05",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T20:55:26Z",
+ "provider_symbol": "APEX.NS",
+ "rows": 2277,
+ "source": "yahoo",
+ "symbol": "APEX",
+ "version": "v1"
+}

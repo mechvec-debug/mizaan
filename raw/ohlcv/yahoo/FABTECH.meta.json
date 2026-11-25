@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:04:22Z",
+ "first_date": "2025-10-07",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:04:22Z",
+ "provider_symbol": "FABTECH.NS",
+ "rows": 279,
+ "source": "yahoo",
+ "symbol": "FABTECH",
+ "version": "v1"
+}

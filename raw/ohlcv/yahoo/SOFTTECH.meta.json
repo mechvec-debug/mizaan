@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:27:16Z",
+ "first_date": "2018-05-25",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:27:16Z",
+ "provider_symbol": "SOFTTECH.NS",
+ "rows": 2095,
+ "source": "yahoo",
+ "symbol": "SOFTTECH",
+ "version": "v1"
+}

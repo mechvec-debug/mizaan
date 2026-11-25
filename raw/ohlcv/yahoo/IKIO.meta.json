@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:09:20Z",
+ "first_date": "2023-06-16",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:09:20Z",
+ "provider_symbol": "IKIO.NS",
+ "rows": 848,
+ "source": "yahoo",
+ "symbol": "IKIO",
+ "version": "v1"
+}

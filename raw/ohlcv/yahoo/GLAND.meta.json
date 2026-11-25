@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:05:46Z",
+ "first_date": "2020-11-20",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:05:46Z",
+ "provider_symbol": "GLAND.NS",
+ "rows": 1483,
+ "source": "yahoo",
+ "symbol": "GLAND",
+ "version": "v1"
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:11:14Z",
+ "first_date": "2025-12-03",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:11:14Z",
+ "provider_symbol": "JAYKAY.NS",
+ "rows": 240,
+ "source": "yahoo",
+ "symbol": "JAYKAY",
+ "version": "v1"
+}

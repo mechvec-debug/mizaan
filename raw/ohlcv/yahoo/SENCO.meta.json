@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:25:34Z",
+ "first_date": "2023-07-14",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:25:34Z",
+ "provider_symbol": "SENCO.NS",
+ "rows": 829,
+ "source": "yahoo",
+ "symbol": "SENCO",
+ "version": "v1"
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T20:57:14Z",
+ "first_date": "2023-12-28",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T20:57:14Z",
+ "provider_symbol": "AZAD.NS",
+ "rows": 717,
+ "source": "yahoo",
+ "symbol": "AZAD",
+ "version": "v1"
+}

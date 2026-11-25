@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:24:15Z",
+ "first_date": "2026-03-19",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:24:15Z",
+ "provider_symbol": "RSL.NS",
+ "rows": 167,
+ "source": "yahoo",
+ "symbol": "RSL",
+ "version": "v1"
+}

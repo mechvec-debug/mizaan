@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:29:28Z",
+ "first_date": "2020-12-18",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:29:28Z",
+ "provider_symbol": "TARC.NS",
+ "rows": 1465,
+ "source": "yahoo",
+ "symbol": "TARC",
+ "version": "v1"
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:05:04Z",
+ "first_date": "2018-02-08",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:05:04Z",
+ "provider_symbol": "GALAXYSURF.NS",
+ "rows": 2168,
+ "source": "yahoo",
+ "symbol": "GALAXYSURF",
+ "version": "v1"
+}

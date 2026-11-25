@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:21:52Z",
+ "first_date": "2025-06-03",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:21:52Z",
+ "provider_symbol": "PROSTARM.NS",
+ "rows": 365,
+ "source": "yahoo",
+ "symbol": "PROSTARM",
+ "version": "v1"
+}

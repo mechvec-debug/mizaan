@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:24:00Z",
+ "first_date": "2024-12-10",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:24:00Z",
+ "provider_symbol": "ROSSTECH.NS",
+ "rows": 483,
+ "source": "yahoo",
+ "symbol": "ROSSTECH",
+ "version": "v1"
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:28:48Z",
+ "first_date": "2021-12-28",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:28:48Z",
+ "provider_symbol": "SUPRIYA.NS",
+ "rows": 1211,
+ "source": "yahoo",
+ "symbol": "SUPRIYA",
+ "version": "v1"
+}

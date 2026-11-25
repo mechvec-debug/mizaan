@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:33:22Z",
+ "first_date": "2024-09-24",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:33:22Z",
+ "provider_symbol": "WCIL.NS",
+ "rows": 536,
+ "source": "yahoo",
+ "symbol": "WCIL",
+ "version": "v1"
+}

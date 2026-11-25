@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:12:34Z",
+ "first_date": "2018-04-18",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:12:34Z",
+ "provider_symbol": "KAPSTON.NS",
+ "rows": 2123,
+ "source": "yahoo",
+ "symbol": "KAPSTON",
+ "version": "v1"
+}

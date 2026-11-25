@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:16:34Z",
+ "first_date": "2019-04-15",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:16:34Z",
+ "provider_symbol": "METROPOLIS.NS",
+ "rows": 1880,
+ "source": "yahoo",
+ "symbol": "METROPOLIS",
+ "version": "v1"
+}

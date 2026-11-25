@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:24:07Z",
+ "first_date": "2024-08-08",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:24:07Z",
+ "provider_symbol": "RPEL.NS",
+ "rows": 568,
+ "source": "yahoo",
+ "symbol": "RPEL",
+ "version": "v1"
+}

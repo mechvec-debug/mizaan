@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:02:30Z",
+ "first_date": "2021-12-01",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:02:30Z",
+ "provider_symbol": "DMCC.NS",
+ "rows": 1230,
+ "source": "yahoo",
+ "symbol": "DMCC",
+ "version": "v1"
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T20:53:25Z",
+ "first_date": "2026-08-18",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T20:53:25Z",
+ "provider_symbol": "3BBLACKBIO.NS",
+ "rows": 66,
+ "source": "yahoo",
+ "symbol": "3BBLACKBIO",
+ "version": "v1"
+}

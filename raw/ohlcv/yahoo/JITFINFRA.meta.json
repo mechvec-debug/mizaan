@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:11:32Z",
+ "first_date": "2017-02-27",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:11:32Z",
+ "provider_symbol": "JITFINFRA.NS",
+ "rows": 2406,
+ "source": "yahoo",
+ "symbol": "JITFINFRA",
+ "version": "v1"
+}

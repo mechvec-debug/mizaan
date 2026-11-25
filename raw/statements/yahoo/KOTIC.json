@@ -1,0 +1,1497 @@
+{
+ "data": {
+  "balance_sheet": {
+   "columns": [
+    "2026-03-31T00:00:00",
+    "2025-03-31T00:00:00",
+    "2024-03-31T00:00:00",
+    "2023-03-31T00:00:00",
+    "2022-03-31T00:00:00"
+   ],
+   "columns_are_dates": true,
+   "data": [
+    [
+     108021773.0,
+     92718105.0,
+     12483885.0,
+     19110885.0,
+     null
+    ],
+    [
+     108021773.0,
+     92718105.0,
+     12483885.0,
+     19110885.0,
+     null
+    ],
+    [
+     532079000.0,
+     null,
+     325369000.0,
+     722801000.0,
+     623575000.0
+    ],
+    [
+     628251000.0,
+     50497000.0,
+     333095000.0,
+     726580000.0,
+     null
+    ],
+    [
+     2166996000.0,
+     1776247000.0,
+     77735000.0,
+     -475696000.0,
+     null
+    ],
+    [
+     2941701000.0,
+     1855986000.0,
+     411141000.0,
+     251206000.0,
+     null
+    ],
+    [
+     440225000.0,
+     1300113000.0,
+     -318487000.0,
+     -108742000.0,
+     null
+    ],
+    [
+     2166996000.0,
+     1776247000.0,
+     77735000.0,
+     -475696000.0,
+     null
+    ],
+    [
+     2313450000.0,
+     1805489000.0,
+     78046000.0,
+     -475374000.0,
+     null
+    ],
+    [
+     2345101000.0,
+     1808374000.0,
+     80201000.0,
+     251206000.0,
+     null
+    ],
+    [
+     2313450000.0,
+     1805489000.0,
+     78046000.0,
+     -475374000.0,
+     null
+    ],
+    [
+     2313450000.0,
+     1805489000.0,
+     78046000.0,
+     -475374000.0,
+     null
+    ],
+    [
+     2183286000.0,
+     1341898000.0,
+     15627000.0,
+     -570928000.0,
+     null
+    ],
+    [
+     218882000.0,
+     218882000.0,
+     218882000.0,
+     216472000.0,
+     null
+    ],
+    [
+     -1383144000.0,
+     -662655000.0,
+     -501380000.0,
+     -1052390000.0,
+     null
+    ],
+    [
+     2674413000.0,
+     1522481000.0,
+     34935000.0,
+     1800000.0,
+     null
+    ],
+    [
+     540109000.0,
+     463591000.0,
+     62419000.0,
+     95554000.0,
+     null
+    ],
+    [
+     540109000.0,
+     463591000.0,
+     62419000.0,
+     95554000.0,
+     null
+    ],
+    [
+     797725000.0,
+     194465000.0,
+     488264000.0,
+     955412000.0,
+     null
+    ],
+    [
+     38221000.0,
+     5884000.0,
+     4149000.0,
+     728509000.0,
+     null
+    ],
+    [
+     -119289000.0,
+     -1000.0,
+     1000.0,
+     1000.0,
+     null
+    ],
+    [
+     6570000.0,
+     2999000.0,
+     1994000.0,
+     1929000.0,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     null,
+     1603000.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     null
+    ],
+    [
+     31651000.0,
+     2885000.0,
+     2155000.0,
+     726580000.0,
+     null
+    ],
+    [
+     31651000.0,
+     2885000.0,
+     2155000.0,
+     726580000.0,
+     null
+    ],
+    [
+     7557000.0,
+     2999000.0,
+     1994000.0,
+     1929000.0,
+     null
+    ],
+    [
+     759504000.0,
+     188581000.0,
+     484115000.0,
+     226903000.0,
+     null
+    ],
+    [
+     -1000.0,
+     -1000.0,
+     15548000.0,
+     41000.0,
+     null
+    ],
+    [
+     0.0,
+     0.0,
+     13724000.0,
+     0.0,
+     null
+    ],
+    [
+     596600000.0,
+     47612000.0,
+     330940000.0,
+     0.0,
+     null
+    ],
+    [
+     596600000.0,
+     47612000.0,
+     330940000.0,
+     0.0,
+     null
+    ],
+    [
+     1690000.0,
+     716000.0,
+     584000.0,
+     10726000.0,
+     null
+    ],
+    [
+     null,
+     716000.0,
+     584000.0,
+     10726000.0,
+     null
+    ],
+    [
+     158853000.0,
+     101214000.0,
+     95864000.0,
+     56250000.0,
+     null
+    ],
+    [
+     58620000.0,
+     23581000.0,
+     57422000.0,
+     44155000.0,
+     null
+    ],
+    [
+     null,
+     null,
+     null,
+     0.0,
+     0.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     null
+    ],
+    [
+     100233000.0,
+     77633000.0,
+     38442000.0,
+     12095000.0,
+     null
+    ],
+    [
+     3111175000.0,
+     1999954000.0,
+     566310000.0,
+     480038000.0,
+     null
+    ],
+    [
+     1911446000.0,
+     511261000.0,
+     400680000.0,
+     362135000.0,
+     null
+    ],
+    [
+     1000.0,
+     1000.0,
+     1000.0,
+     3000.0,
+     null
+    ],
+    [
+     null,
+     null,
+     0.0,
+     0.0,
+     null
+    ],
+    [
+     142482000.0,
+     106301000.0,
+     null,
+     null,
+     13346000.0
+    ],
+    [
+     4539000.0,
+     4539000.0,
+     4539000.0,
+     77803000.0,
+     null
+    ],
+    [
+     19000.0,
+     19000.0,
+     1018000.0,
+     8366000.0,
+     null
+    ],
+    [
+     19000.0,
+     19000.0,
+     1018000.0,
+     8366000.0,
+     null
+    ],
+    [
+     979691000.0,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     979691000.0,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     0.0,
+     null,
+     null,
+     null,
+     null
+    ],
+    [
+     146454000.0,
+     29242000.0,
+     311000.0,
+     322000.0,
+     null
+    ],
+    [
+     27165000.0,
+     29242000.0,
+     311000.0,
+     322000.0,
+     null
+    ],
+    [
+     119289000.0,
+     0.0,
+     null,
+     null,
+     null
+    ],
+    [
+     549854000.0,
+     363081000.0,
+     296905000.0,
+     275640000.0,
+     null
+    ],
+    [
+     -158765000.0,
+     -46792000.0,
+     -36902000.0,
+     -86900000.0,
+     null
+    ],
+    [
+     708619000.0,
+     409873000.0,
+     333807000.0,
+     362540000.0,
+     null
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     null
+    ],
+    [
+     543129000.0,
+     362244000.0,
+     null,
+     null,
+     -1000.0
+    ],
+    [
+     427572000.0,
+     145787000.0,
+     70160000.0,
+     98385000.0,
+     null
+    ],
+    [
+     18004000.0,
+     1043000.0,
+     604000.0,
+     157000.0,
+     null
+    ],
+    [
+     263043000.0,
+     263043000.0,
+     263043000.0,
+     263998000.0,
+     null
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     null
+    ],
+    [
+     1199729000.0,
+     1488694000.0,
+     165628000.0,
+     118161000.0,
+     null
+    ],
+    [
+     10454000.0,
+     1000.0,
+     39847000.0,
+     45000.0,
+     null
+    ],
+    [
+     1372000.0,
+     4211000.0,
+     null,
+     null,
+     null
+    ],
+    [
+     357931000.0,
+     187132000.0,
+     14892000.0,
+     15344000.0,
+     null
+    ],
+    [
+     170239000.0,
+     77047000.0,
+     13875000.0,
+     16784000.0,
+     null
+    ],
+    [
+     4989000.0,
+     3812000.0,
+     3299000.0,
+     3339000.0,
+     null
+    ],
+    [
+     165250000.0,
+     73235000.0,
+     10576000.0,
+     13445000.0,
+     null
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     null
+    ],
+    [
+     null,
+     null,
+     73314000.0,
+     55100000.0,
+     32793000.0
+    ],
+    [
+     16464000.0,
+     15376000.0,
+     14892000.0,
+     0.0,
+     null
+    ],
+    [
+     342358000.0,
+     55254000.0,
+     17456000.0,
+     27154000.0,
+     null
+    ],
+    [
+     -5172000.0,
+     -1561000.0,
+     -1027000.0,
+     -27664000.0,
+     null
+    ],
+    [
+     347529000.0,
+     56815000.0,
+     18483000.0,
+     54818000.0,
+     null
+    ],
+    [
+     327829000.0,
+     1165049000.0,
+     79558000.0,
+     3779000.0,
+     null
+    ],
+    [
+     231657000.0,
+     957344000.0,
+     71832000.0,
+     70444000.0,
+     null
+    ],
+    [
+     96172000.0,
+     207705000.0,
+     7726000.0,
+     3779000.0,
+     null
+    ],
+    [
+     96172000.0,
+     207705000.0,
+     7726000.0,
+     3779000.0,
+     null
+    ]
+   ],
+   "index": [
+    "Ordinary Shares Number",
+    "Share Issued",
+    "Net Debt",
+    "Total Debt",
+    "Tangible Book Value",
+    "Invested Capital",
+    "Working Capital",
+    "Net Tangible Assets",
+    "Common Stock Equity",
+    "Total Capitalization",
+    "Total Equity Gross Minority Interest",
+    "Stockholders Equity",
+    "Other Equity Interest",
+    "Fixed Assets Revaluation Reserve",
+    "Retained Earnings",
+    "Additional Paid In Capital",
+    "Capital Stock",
+    "Common Stock",
+    "Total Liabilities Net Minority Interest",
+    "Total Non Current Liabilities Net Minority Interest",
+    "Other Non Current Liabilities",
+    "Non Current Pension And Other Postretirement Benefit Plans",
+    "Tradeand Other Payables Non Current",
+    "Non Current Deferred Taxes Liabilities",
+    "Long Term Debt And Capital Lease Obligation",
+    "Long Term Debt",
+    "Long Term Provisions",
+    "Current Liabilities",
+    "Other Current Liabilities",
+    "Current Deferred Taxes Liabilities",
+    "Current Debt And Capital Lease Obligation",
+    "Current Debt",
+    "Pensionand Other Post Retirement Benefit Plans Current",
+    "Current Provisions",
+    "Payables",
+    "Other Payable",
+    "Dividends Payable",
+    "Total Tax Payable",
+    "Accounts Payable",
+    "Total Assets",
+    "Total Non Current Assets",
+    "Other Non Current Assets",
+    "Defined Pension Benefit",
+    "Non Current Prepaid Assets",
+    "Non Current Deferred Taxes Assets",
+    "Investmentin Financial Assets",
+    "Available For Sale Securities",
+    "Long Term Equity Investment",
+    "Investmentsin Associatesat Cost",
+    "Investment Properties",
+    "Goodwill And Other Intangible Assets",
+    "Other Intangible Assets",
+    "Goodwill",
+    "Net PPE",
+    "Accumulated Depreciation",
+    "Gross PPE",
+    "Construction In Progress",
+    "Other Properties",
+    "Machinery Furniture Equipment",
+    "Buildings And Improvements",
+    "Land And Improvements",
+    "Properties",
+    "Current Assets",
+    "Other Current Assets",
+    "Restricted Cash",
+    "Prepaid Assets",
+    "Inventory",
+    "Other Inventories",
+    "Finished Goods",
+    "Work In Process",
+    "Other Receivables",
+    "Taxes Receivable",
+    "Accounts Receivable",
+    "Allowance For Doubtful Accounts Receivable",
+    "Gross Accounts Receivable",
+    "Cash Cash Equivalents And Short Term Investments",
+    "Other Short Term Investments",
+    "Cash And Cash Equivalents",
+    "Cash Financial"
+   ]
+  },
+  "financials": {
+   "columns": [
+    "2026-03-31T00:00:00",
+    "2025-03-31T00:00:00",
+    "2024-03-31T00:00:00",
+    "2023-03-31T00:00:00",
+    "2022-03-31T00:00:00"
+   ],
+   "columns_are_dates": true,
+   "data": [
+    [
+     0.0,
+     0.0,
+     105569438.968865,
+     0.0,
+     null
+    ],
+    [
+     0.0,
+     0.071977,
+     0.214046,
+     0.0,
+     null
+    ],
+    [
+     -160400000.0,
+     -143947000.0,
+     -60384000.0,
+     -60127000.0,
+     null
+    ],
+    [
+     0.0,
+     0.0,
+     493209000.0,
+     -23000000.0,
+     null
+    ],
+    [
+     0.0,
+     0.0,
+     493209000.0,
+     -23000000.0,
+     null
+    ],
+    [
+     -721853000.0,
+     -161682000.0,
+     316931000.0,
+     -197714000.0,
+     null
+    ],
+    [
+     115471000.0,
+     11276000.0,
+     2488000.0,
+     1126000.0,
+     null
+    ],
+    [
+     1240589000.0,
+     702595000.0,
+     92696000.0,
+     52902000.0,
+     null
+    ],
+    [
+     -160400000.0,
+     -143947000.0,
+     432825000.0,
+     -83127000.0,
+     null
+    ],
+    [
+     -275871000.0,
+     -155223000.0,
+     430337000.0,
+     -84253000.0,
+     null
+    ],
+    [
+     -37423000.0,
+     -18878000.0,
+     85859000.0,
+     -113656000.0,
+     null
+    ],
+    [
+     36036000.0,
+     18999000.0,
+     27092000.0,
+     113461000.0,
+     null
+    ],
+    [
+     168000.0,
+     436000.0,
+     112918000.0,
+     0.0,
+     null
+    ],
+    [
+     -721853000.0,
+     -161682000.0,
+     -70708561.031135,
+     -174714000.0,
+     null
+    ],
+    [
+     -721853000.0,
+     -161682000.0,
+     316931000.0,
+     -197714000.0,
+     null
+    ],
+    [
+     2073986000.0,
+     997246000.0,
+     325234000.0,
+     162969000.0,
+     null
+    ],
+    [
+     71946000.0,
+     29591000.0,
+     19179000.0,
+     12246000.0,
+     null
+    ],
+    [
+     103167438.0,
+     39756135.0,
+     12483885.0,
+     19110885.0,
+     null
+    ],
+    [
+     103167438.0,
+     39756135.0,
+     12483885.0,
+     19110885.0,
+     null
+    ],
+    [
+     -7.0,
+     -4.07,
+     26.27,
+     -15.05,
+     null
+    ],
+    [
+     -7.0,
+     -4.07,
+     26.27,
+     -10.42,
+     null
+    ],
+    [
+     -721853000.0,
+     -161682000.0,
+     316931000.0,
+     -197714000.0,
+     null
+    ],
+    [
+     -721853000.0,
+     -161682000.0,
+     316931000.0,
+     -197714000.0,
+     null
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     null
+    ],
+    [
+     -721853000.0,
+     -161682000.0,
+     316931000.0,
+     -197714000.0,
+     null
+    ],
+    [
+     -721853000.0,
+     -161682000.0,
+     316932000.0,
+     -197714000.0,
+     null
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     null
+    ],
+    [
+     -721853000.0,
+     -161682000.0,
+     316932000.0,
+     -197714000.0,
+     null
+    ],
+    [
+     0.0,
+     -12540000.0,
+     86313000.0,
+     0.0,
+     null
+    ],
+    [
+     -311907000.0,
+     -174222000.0,
+     403245000.0,
+     -197714000.0,
+     null
+    ],
+    [
+     34193000.0,
+     9228000.0,
+     20311000.0,
+     7348000.0,
+     null
+    ],
+    [
+     0.0,
+     0.0,
+     493209000.0,
+     -23000000.0,
+     null
+    ],
+    [
+     null,
+     null,
+     -496716000.0,
+     23000000.0,
+     -17462000.0
+    ],
+    [
+     null,
+     0.0,
+     3507000.0,
+     0.0,
+     508000.0
+    ],
+    [
+     -37423000.0,
+     -18878000.0,
+     85859000.0,
+     -113656000.0,
+     null
+    ],
+    [
+     1555000.0,
+     315000.0,
+     -33000.0,
+     195000.0,
+     null
+    ],
+    [
+     36036000.0,
+     18999000.0,
+     27092000.0,
+     113461000.0,
+     null
+    ],
+    [
+     168000.0,
+     436000.0,
+     112918000.0,
+     0.0,
+     null
+    ],
+    [
+     -308678000.0,
+     -164572000.0,
+     -196134000.0,
+     -68406000.0,
+     null
+    ],
+    [
+     833397000.0,
+     294651000.0,
+     232538000.0,
+     110067000.0,
+     null
+    ],
+    [
+     171113000.0,
+     87214000.0,
+     89517000.0,
+     44550000.0,
+     null
+    ],
+    [
+     115471000.0,
+     11276000.0,
+     2488000.0,
+     1126000.0,
+     null
+    ],
+    [
+     115471000.0,
+     11276000.0,
+     2488000.0,
+     1126000.0,
+     null
+    ],
+    [
+     130915000.0,
+     98250000.0,
+     35719000.0,
+     24456000.0,
+     null
+    ],
+    [
+     80160000.0,
+     64814000.0,
+     16549000.0,
+     15547000.0,
+     null
+    ],
+    [
+     50755000.0,
+     33436000.0,
+     19170000.0,
+     8909000.0,
+     null
+    ],
+    [
+     71946000.0,
+     29591000.0,
+     19179000.0,
+     12246000.0,
+     null
+    ],
+    [
+     524719000.0,
+     130079000.0,
+     36404000.0,
+     41661000.0,
+     null
+    ],
+    [
+     1240589000.0,
+     702595000.0,
+     92696000.0,
+     52902000.0,
+     null
+    ],
+    [
+     1765308000.0,
+     832674000.0,
+     129100000.0,
+     94563000.0,
+     null
+    ],
+    [
+     1765308000.0,
+     832674000.0,
+     129100000.0,
+     94563000.0,
+     null
+    ]
+   ],
+   "index": [
+    "Tax Effect Of Unusual Items",
+    "Tax Rate For Calcs",
+    "Normalized EBITDA",
+    "Total Unusual Items",
+    "Total Unusual Items Excluding Goodwill",
+    "Net Income From Continuing Operation Net Minority Interest",
+    "Reconciled Depreciation",
+    "Reconciled Cost Of Revenue",
+    "EBITDA",
+    "EBIT",
+    "Net Interest Income",
+    "Interest Expense",
+    "Interest Income",
+    "Normalized Income",
+    "Net Income From Continuing And Discontinued Operation",
+    "Total Expenses",
+    "Rent Expense Supplemental",
+    "Diluted Average Shares",
+    "Basic Average Shares",
+    "Diluted EPS",
+    "Basic EPS",
+    "Diluted NI Availto Com Stockholders",
+    "Net Income Common Stockholders",
+    "Otherunder Preferred Stock Dividend",
+    "Net Income",
+    "Net Income Including Noncontrolling Interests",
+    "Net Income Discontinuous Operations",
+    "Net Income Continuous Operations",
+    "Tax Provision",
+    "Pretax Income",
+    "Other Non Operating Income Expenses",
+    "Special Income Charges",
+    "Other Special Charges",
+    "Write Off",
+    "Net Non Operating Interest Income Expense",
+    "Total Other Finance Cost",
+    "Interest Expense Non Operating",
+    "Interest Income Non Operating",
+    "Operating Income",
+    "Operating Expense",
+    "Other Operating Expenses",
+    "Depreciation And Amortization In Income Statement",
+    "Depreciation Income Statement",
+    "Selling General And Administration",
+    "Selling And Marketing Expense",
+    "General And Administrative Expense",
+    "Rent And Landing Fees",
+    "Gross Profit",
+    "Cost Of Revenue",
+    "Total Revenue",
+    "Operating Revenue"
+   ]
+  },
+  "income_stmt": {
+   "columns": [
+    "2026-03-31T00:00:00",
+    "2025-03-31T00:00:00",
+    "2024-03-31T00:00:00",
+    "2023-03-31T00:00:00",
+    "2022-03-31T00:00:00"
+   ],
+   "columns_are_dates": true,
+   "data": [
+    [
+     0.0,
+     0.0,
+     105569438.968865,
+     0.0,
+     null
+    ],
+    [
+     0.0,
+     0.071977,
+     0.214046,
+     0.0,
+     null
+    ],
+    [
+     -160400000.0,
+     -143947000.0,
+     -60384000.0,
+     -60127000.0,
+     null
+    ],
+    [
+     0.0,
+     0.0,
+     493209000.0,
+     -23000000.0,
+     null
+    ],
+    [
+     0.0,
+     0.0,
+     493209000.0,
+     -23000000.0,
+     null
+    ],
+    [
+     -721853000.0,
+     -161682000.0,
+     316931000.0,
+     -197714000.0,
+     null
+    ],
+    [
+     115471000.0,
+     11276000.0,
+     2488000.0,
+     1126000.0,
+     null
+    ],
+    [
+     1240589000.0,
+     702595000.0,
+     92696000.0,
+     52902000.0,
+     null
+    ],
+    [
+     -160400000.0,
+     -143947000.0,
+     432825000.0,
+     -83127000.0,
+     null
+    ],
+    [
+     -275871000.0,
+     -155223000.0,
+     430337000.0,
+     -84253000.0,
+     null
+    ],
+    [
+     -37423000.0,
+     -18878000.0,
+     85859000.0,
+     -113656000.0,
+     null
+    ],
+    [
+     36036000.0,
+     18999000.0,
+     27092000.0,
+     113461000.0,
+     null
+    ],
+    [
+     168000.0,
+     436000.0,
+     112918000.0,
+     0.0,
+     null
+    ],
+    [
+     -721853000.0,
+     -161682000.0,
+     -70708561.031135,
+     -174714000.0,
+     null
+    ],
+    [
+     -721853000.0,
+     -161682000.0,
+     316931000.0,
+     -197714000.0,
+     null
+    ],
+    [
+     2073986000.0,
+     997246000.0,
+     325234000.0,
+     162969000.0,
+     null
+    ],
+    [
+     71946000.0,
+     29591000.0,
+     19179000.0,
+     12246000.0,
+     null
+    ],
+    [
+     103167438.0,
+     39756135.0,
+     12483885.0,
+     19110885.0,
+     null
+    ],
+    [
+     103167438.0,
+     39756135.0,
+     12483885.0,
+     19110885.0,
+     null
+    ],
+    [
+     -7.0,
+     -4.07,
+     26.27,
+     -15.05,
+     null
+    ],
+    [
+     -7.0,
+     -4.07,
+     26.27,
+     -10.42,
+     null
+    ],
+    [
+     -721853000.0,
+     -161682000.0,
+     316931000.0,
+     -197714000.0,
+     null
+    ],
+    [
+     -721853000.0,
+     -161682000.0,
+     316931000.0,
+     -197714000.0,
+     null
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     null
+    ],
+    [
+     -721853000.0,
+     -161682000.0,
+     316931000.0,
+     -197714000.0,
+     null
+    ],
+    [
+     -721853000.0,
+     -161682000.0,
+     316932000.0,
+     -197714000.0,
+     null
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     null
+    ],
+    [
+     -721853000.0,
+     -161682000.0,
+     316932000.0,
+     -197714000.0,
+     null
+    ],
+    [
+     0.0,
+     -12540000.0,
+     86313000.0,
+     0.0,
+     null
+    ],
+    [
+     -311907000.0,
+     -174222000.0,
+     403245000.0,
+     -197714000.0,
+     null
+    ],
+    [
+     34193000.0,
+     9228000.0,
+     20311000.0,
+     7348000.0,
+     null
+    ],
+    [
+     0.0,
+     0.0,
+     493209000.0,
+     -23000000.0,
+     null
+    ],
+    [
+     null,
+     null,
+     -496716000.0,
+     23000000.0,
+     -17462000.0
+    ],
+    [
+     null,
+     0.0,
+     3507000.0,
+     0.0,
+     508000.0
+    ],
+    [
+     -37423000.0,
+     -18878000.0,
+     85859000.0,
+     -113656000.0,
+     null
+    ],
+    [
+     1555000.0,
+     315000.0,
+     -33000.0,
+     195000.0,
+     null
+    ],
+    [
+     36036000.0,
+     18999000.0,
+     27092000.0,
+     113461000.0,
+     null
+    ],
+    [
+     168000.0,
+     436000.0,
+     112918000.0,
+     0.0,
+     null
+    ],
+    [
+     -308678000.0,
+     -164572000.0,
+     -196134000.0,
+     -68406000.0,
+     null
+    ],
+    [
+     833397000.0,
+     294651000.0,
+     232538000.0,
+     110067000.0,
+     null
+    ],
+    [
+     171113000.0,
+     87214000.0,
+     89517000.0,
+     44550000.0,
+     null
+    ],
+    [
+     115471000.0,
+     11276000.0,
+     2488000.0,
+     1126000.0,
+     null
+    ],
+    [
+     115471000.0,
+     11276000.0,
+     2488000.0,
+     1126000.0,
+     null
+    ],
+    [
+     130915000.0,
+     98250000.0,
+     35719000.0,
+     24456000.0,
+     null
+    ],
+    [
+     80160000.0,
+     64814000.0,
+     16549000.0,
+     15547000.0,
+     null
+    ],
+    [
+     50755000.0,
+     33436000.0,
+     19170000.0,
+     8909000.0,
+     null
+    ],
+    [
+     71946000.0,
+     29591000.0,
+     19179000.0,
+     12246000.0,
+     null
+    ],
+    [
+     524719000.0,
+     130079000.0,
+     36404000.0,
+     41661000.0,
+     null
+    ],
+    [
+     1240589000.0,
+     702595000.0,
+     92696000.0,
+     52902000.0,
+     null
+    ],
+    [
+     1765308000.0,
+     832674000.0,
+     129100000.0,
+     94563000.0,
+     null
+    ],
+    [
+     1765308000.0,
+     832674000.0,
+     129100000.0,
+     94563000.0,
+     null
+    ]
+   ],
+   "index": [
+    "Tax Effect Of Unusual Items",
+    "Tax Rate For Calcs",
+    "Normalized EBITDA",
+    "Total Unusual Items",
+    "Total Unusual Items Excluding Goodwill",
+    "Net Income From Continuing Operation Net Minority Interest",
+    "Reconciled Depreciation",
+    "Reconciled Cost Of Revenue",
+    "EBITDA",
+    "EBIT",
+    "Net Interest Income",
+    "Interest Expense",
+    "Interest Income",
+    "Normalized Income",
+    "Net Income From Continuing And Discontinued Operation",
+    "Total Expenses",
+    "Rent Expense Supplemental",
+    "Diluted Average Shares",
+    "Basic Average Shares",
+    "Diluted EPS",
+    "Basic EPS",
+    "Diluted NI Availto Com Stockholders",
+    "Net Income Common Stockholders",
+    "Otherunder Preferred Stock Dividend",
+    "Net Income",
+    "Net Income Including Noncontrolling Interests",
+    "Net Income Discontinuous Operations",
+    "Net Income Continuous Operations",
+    "Tax Provision",
+    "Pretax Income",
+    "Other Non Operating Income Expenses",
+    "Special Income Charges",
+    "Other Special Charges",
+    "Write Off",
+    "Net Non Operating Interest Income Expense",
+    "Total Other Finance Cost",
+    "Interest Expense Non Operating",
+    "Interest Income Non Operating",
+    "Operating Income",
+    "Operating Expense",
+    "Other Operating Expenses",
+    "Depreciation And Amortization In Income Statement",
+    "Depreciation Income Statement",
+    "Selling General And Administration",
+    "Selling And Marketing Expense",
+    "General And Administrative Expense",
+    "Rent And Landing Fees",
+    "Gross Profit",
+    "Cost Of Revenue",
+    "Total Revenue",
+    "Operating Revenue"
+   ]
+  }
+ },
+ "fetched_at": "2026-11-25T00:56:02Z",
+ "key": "statements|yahoo|KOTIC|annual|v1",
+ "version": "v1"
+}

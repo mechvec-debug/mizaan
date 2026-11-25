@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:14:20Z",
+ "first_date": "2016-12-19",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:14:20Z",
+ "provider_symbol": "LAURUSLABS.NS",
+ "rows": 2454,
+ "source": "yahoo",
+ "symbol": "LAURUSLABS",
+ "version": "v1"
+}

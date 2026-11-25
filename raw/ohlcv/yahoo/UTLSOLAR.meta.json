@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:31:50Z",
+ "first_date": "2025-11-20",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:31:50Z",
+ "provider_symbol": "UTLSOLAR.NS",
+ "rows": 249,
+ "source": "yahoo",
+ "symbol": "UTLSOLAR",
+ "version": "v1"
+}

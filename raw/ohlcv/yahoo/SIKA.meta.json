@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:26:41Z",
+ "first_date": "2026-08-18",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:26:41Z",
+ "provider_symbol": "SIKA.NS",
+ "rows": 66,
+ "source": "yahoo",
+ "symbol": "SIKA",
+ "version": "v1"
+}

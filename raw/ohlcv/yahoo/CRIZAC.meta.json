@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:01:20Z",
+ "first_date": "2025-07-09",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:01:20Z",
+ "provider_symbol": "CRIZAC.NS",
+ "rows": 340,
+ "source": "yahoo",
+ "symbol": "CRIZAC",
+ "version": "v1"
+}

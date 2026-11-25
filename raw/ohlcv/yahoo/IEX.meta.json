@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:09:06Z",
+ "first_date": "2017-10-23",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:09:06Z",
+ "provider_symbol": "IEX.NS",
+ "rows": 2245,
+ "source": "yahoo",
+ "symbol": "IEX",
+ "version": "v1"
+}

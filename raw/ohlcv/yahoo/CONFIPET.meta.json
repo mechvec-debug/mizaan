@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:01:08Z",
+ "first_date": "2020-10-23",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:01:08Z",
+ "provider_symbol": "CONFIPET.NS",
+ "rows": 1504,
+ "source": "yahoo",
+ "symbol": "CONFIPET",
+ "version": "v1"
+}

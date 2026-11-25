@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:08:04Z",
+ "first_date": "2018-03-09",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:08:04Z",
+ "provider_symbol": "HGINFRA.NS",
+ "rows": 2150,
+ "source": "yahoo",
+ "symbol": "HGINFRA",
+ "version": "v1"
+}

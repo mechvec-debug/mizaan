@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:04:02Z",
+ "first_date": "2022-05-30",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:04:02Z",
+ "provider_symbol": "ETHOSLTD.NS",
+ "rows": 1109,
+ "source": "yahoo",
+ "symbol": "ETHOSLTD",
+ "version": "v1"
+}

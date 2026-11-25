@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:31:37Z",
+ "first_date": "2018-06-27",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:31:37Z",
+ "provider_symbol": "UNIVASTU.NS",
+ "rows": 2074,
+ "source": "yahoo",
+ "symbol": "UNIVASTU",
+ "version": "v1"
+}

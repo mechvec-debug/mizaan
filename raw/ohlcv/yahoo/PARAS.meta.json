@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:20:10Z",
+ "first_date": "2021-10-01",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:20:10Z",
+ "provider_symbol": "PARAS.NS",
+ "rows": 1271,
+ "source": "yahoo",
+ "symbol": "PARAS",
+ "version": "v1"
+}

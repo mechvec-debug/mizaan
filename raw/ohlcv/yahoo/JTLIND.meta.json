@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:12:02Z",
+ "first_date": "2021-12-23",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:12:02Z",
+ "provider_symbol": "JTLIND.NS",
+ "rows": 1214,
+ "source": "yahoo",
+ "symbol": "JTLIND",
+ "version": "v1"
+}

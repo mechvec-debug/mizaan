@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T20:55:32Z",
+ "first_date": "2018-01-22",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T20:55:32Z",
+ "provider_symbol": "APOLLO.NS",
+ "rows": 2181,
+ "source": "yahoo",
+ "symbol": "APOLLO",
+ "version": "v1"
+}

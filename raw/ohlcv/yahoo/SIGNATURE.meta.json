@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:26:38Z",
+ "first_date": "2023-09-27",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:26:38Z",
+ "provider_symbol": "SIGNATURE.NS",
+ "rows": 777,
+ "source": "yahoo",
+ "symbol": "SIGNATURE",
+ "version": "v1"
+}

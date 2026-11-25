@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:02:10Z",
+ "first_date": "2022-12-08",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:02:10Z",
+ "provider_symbol": "DHARMAJ.NS",
+ "rows": 977,
+ "source": "yahoo",
+ "symbol": "DHARMAJ",
+ "version": "v1"
+}

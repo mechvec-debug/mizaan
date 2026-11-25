@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:05:24Z",
+ "first_date": "2022-03-22",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:05:24Z",
+ "provider_symbol": "GATEWAY.NS",
+ "rows": 1155,
+ "source": "yahoo",
+ "symbol": "GATEWAY",
+ "version": "v1"
+}

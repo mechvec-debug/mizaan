@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:33:02Z",
+ "first_date": "2016-11-24",
+ "history_complete": false,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:33:02Z",
+ "provider_symbol": "VSSL.NS",
+ "rows": 2471,
+ "source": "yahoo",
+ "symbol": "VSSL",
+ "version": "v1"
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:22:14Z",
+ "first_date": "2023-08-29",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:22:14Z",
+ "provider_symbol": "PYRAMID.NS",
+ "rows": 797,
+ "source": "yahoo",
+ "symbol": "PYRAMID",
+ "version": "v1"
+}

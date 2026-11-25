@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:00:44Z",
+ "first_date": "2026-07-24",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:00:44Z",
+ "provider_symbol": "CMLL.NS",
+ "rows": 83,
+ "source": "yahoo",
+ "symbol": "CMLL",
+ "version": "v1"
+}

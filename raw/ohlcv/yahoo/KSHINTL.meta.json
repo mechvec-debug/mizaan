@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:13:58Z",
+ "first_date": "2025-12-23",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:13:58Z",
+ "provider_symbol": "KSHINTL.NS",
+ "rows": 226,
+ "source": "yahoo",
+ "symbol": "KSHINTL",
+ "version": "v1"
+}

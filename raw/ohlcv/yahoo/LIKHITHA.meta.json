@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:14:36Z",
+ "first_date": "2020-10-15",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:14:36Z",
+ "provider_symbol": "LIKHITHA.NS",
+ "rows": 1510,
+ "source": "yahoo",
+ "symbol": "LIKHITHA",
+ "version": "v1"
+}

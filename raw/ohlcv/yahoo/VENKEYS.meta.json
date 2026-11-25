@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:32:11Z",
+ "first_date": "2016-11-24",
+ "history_complete": false,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:32:11Z",
+ "provider_symbol": "VENKEYS.NS",
+ "rows": 2470,
+ "source": "yahoo",
+ "symbol": "VENKEYS",
+ "version": "v1"
+}

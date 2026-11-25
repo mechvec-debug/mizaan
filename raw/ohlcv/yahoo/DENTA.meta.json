@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:02:06Z",
+ "first_date": "2025-01-29",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:02:06Z",
+ "provider_symbol": "DENTA.NS",
+ "rows": 449,
+ "source": "yahoo",
+ "symbol": "DENTA",
+ "version": "v1"
+}

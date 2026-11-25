@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:12:54Z",
+ "first_date": "2016-11-30",
+ "history_complete": false,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:12:54Z",
+ "provider_symbol": "KIOCL.NS",
+ "rows": 2467,
+ "source": "yahoo",
+ "symbol": "KIOCL",
+ "version": "v1"
+}

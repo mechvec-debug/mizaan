@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:12:58Z",
+ "first_date": "2019-11-13",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:12:58Z",
+ "provider_symbol": "KIRLFER.NS",
+ "rows": 1163,
+ "source": "yahoo",
+ "symbol": "KIRLFER",
+ "version": "v1"
+}

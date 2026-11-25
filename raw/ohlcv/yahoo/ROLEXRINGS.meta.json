@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:23:54Z",
+ "first_date": "2021-08-09",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:23:54Z",
+ "provider_symbol": "ROLEXRINGS.NS",
+ "rows": 1308,
+ "source": "yahoo",
+ "symbol": "ROLEXRINGS",
+ "version": "v1"
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:02:34Z",
+ "first_date": "2017-04-21",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:02:34Z",
+ "provider_symbol": "DOLLAR.NS",
+ "rows": 2369,
+ "source": "yahoo",
+ "symbol": "DOLLAR",
+ "version": "v1"
+}

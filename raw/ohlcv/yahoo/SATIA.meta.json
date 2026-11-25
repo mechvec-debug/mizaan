@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:25:12Z",
+ "first_date": "2019-07-17",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:25:12Z",
+ "provider_symbol": "SATIA.NS",
+ "rows": 1818,
+ "source": "yahoo",
+ "symbol": "SATIA",
+ "version": "v1"
+}

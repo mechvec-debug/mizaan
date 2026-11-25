@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:22:24Z",
+ "first_date": "2024-12-06",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:22:24Z",
+ "provider_symbol": "RACLGEAR.NS",
+ "rows": 485,
+ "source": "yahoo",
+ "symbol": "RACLGEAR",
+ "version": "v1"
+}

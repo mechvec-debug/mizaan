@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:11:50Z",
+ "first_date": "2022-05-04",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:11:50Z",
+ "provider_symbol": "JSLL.NS",
+ "rows": 1126,
+ "source": "yahoo",
+ "symbol": "JSLL",
+ "version": "v1"
+}

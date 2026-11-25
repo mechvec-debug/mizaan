@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:23:16Z",
+ "first_date": "2023-08-11",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:23:16Z",
+ "provider_symbol": "REDTAPE.NS",
+ "rows": 809,
+ "source": "yahoo",
+ "symbol": "REDTAPE",
+ "version": "v1"
+}

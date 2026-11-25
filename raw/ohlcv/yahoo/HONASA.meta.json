@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:08:42Z",
+ "first_date": "2023-11-07",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:08:42Z",
+ "provider_symbol": "HONASA.NS",
+ "rows": 750,
+ "source": "yahoo",
+ "symbol": "HONASA",
+ "version": "v1"
+}

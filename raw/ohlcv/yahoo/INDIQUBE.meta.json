@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:09:40Z",
+ "first_date": "2025-07-30",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:09:40Z",
+ "provider_symbol": "INDIQUBE.NS",
+ "rows": 324,
+ "source": "yahoo",
+ "symbol": "INDIQUBE",
+ "version": "v1"
+}

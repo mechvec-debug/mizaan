@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:26:31Z",
+ "first_date": "2021-06-24",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:26:31Z",
+ "provider_symbol": "SHYAMMETL.NS",
+ "rows": 1339,
+ "source": "yahoo",
+ "symbol": "SHYAMMETL",
+ "version": "v1"
+}

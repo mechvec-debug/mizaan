@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:25:28Z",
+ "first_date": "2026-03-11",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:25:28Z",
+ "provider_symbol": "SEDEMAC.NS",
+ "rows": 173,
+ "source": "yahoo",
+ "symbol": "SEDEMAC",
+ "version": "v1"
+}

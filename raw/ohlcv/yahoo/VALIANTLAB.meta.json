@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:31:56Z",
+ "first_date": "2023-10-06",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:31:56Z",
+ "provider_symbol": "VALIANTLAB.NS",
+ "rows": 772,
+ "source": "yahoo",
+ "symbol": "VALIANTLAB",
+ "version": "v1"
+}

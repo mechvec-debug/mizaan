@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T20:54:24Z",
+ "first_date": "2019-08-08",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T20:54:24Z",
+ "provider_symbol": "AFFLE.NS",
+ "rows": 1802,
+ "source": "yahoo",
+ "symbol": "AFFLE",
+ "version": "v1"
+}

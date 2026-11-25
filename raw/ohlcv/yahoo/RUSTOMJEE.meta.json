@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:24:28Z",
+ "first_date": "2022-11-24",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:24:28Z",
+ "provider_symbol": "RUSTOMJEE.NS",
+ "rows": 986,
+ "source": "yahoo",
+ "symbol": "RUSTOMJEE",
+ "version": "v1"
+}

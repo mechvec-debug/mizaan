@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:15:24Z",
+ "first_date": "2022-02-02",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:15:24Z",
+ "provider_symbol": "MALLCOM.NS",
+ "rows": 1186,
+ "source": "yahoo",
+ "symbol": "MALLCOM",
+ "version": "v1"
+}

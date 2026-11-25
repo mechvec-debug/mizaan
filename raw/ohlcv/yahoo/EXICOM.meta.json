@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:04:16Z",
+ "first_date": "2024-03-05",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:04:16Z",
+ "provider_symbol": "EXICOM.NS",
+ "rows": 671,
+ "source": "yahoo",
+ "symbol": "EXICOM",
+ "version": "v1"
+}

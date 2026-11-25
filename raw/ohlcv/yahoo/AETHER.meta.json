@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T20:54:20Z",
+ "first_date": "2022-06-03",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T20:54:20Z",
+ "provider_symbol": "AETHER.NS",
+ "rows": 1105,
+ "source": "yahoo",
+ "symbol": "AETHER",
+ "version": "v1"
+}

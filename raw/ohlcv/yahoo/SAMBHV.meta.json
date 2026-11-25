@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:24:52Z",
+ "first_date": "2025-07-02",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:24:52Z",
+ "provider_symbol": "SAMBHV.NS",
+ "rows": 344,
+ "source": "yahoo",
+ "symbol": "SAMBHV",
+ "version": "v1"
+}

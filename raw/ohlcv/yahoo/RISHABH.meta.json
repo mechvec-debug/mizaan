@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:23:46Z",
+ "first_date": "2023-09-11",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:23:46Z",
+ "provider_symbol": "RISHABH.NS",
+ "rows": 788,
+ "source": "yahoo",
+ "symbol": "RISHABH",
+ "version": "v1"
+}

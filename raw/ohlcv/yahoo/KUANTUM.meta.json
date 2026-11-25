@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:14:04Z",
+ "first_date": "2019-10-23",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:14:04Z",
+ "provider_symbol": "KUANTUM.NS",
+ "rows": 1754,
+ "source": "yahoo",
+ "symbol": "KUANTUM",
+ "version": "v1"
+}

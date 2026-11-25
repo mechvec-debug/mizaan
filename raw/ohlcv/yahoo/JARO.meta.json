@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:11:06Z",
+ "first_date": "2025-09-30",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:11:06Z",
+ "provider_symbol": "JARO.NS",
+ "rows": 282,
+ "source": "yahoo",
+ "symbol": "JARO",
+ "version": "v1"
+}

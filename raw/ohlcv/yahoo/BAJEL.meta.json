@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T20:57:28Z",
+ "first_date": "2023-12-19",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T20:57:28Z",
+ "provider_symbol": "BAJEL.NS",
+ "rows": 723,
+ "source": "yahoo",
+ "symbol": "BAJEL",
+ "version": "v1"
+}

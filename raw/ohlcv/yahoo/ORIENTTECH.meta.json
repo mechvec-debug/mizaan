@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:19:50Z",
+ "first_date": "2024-08-28",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:19:50Z",
+ "provider_symbol": "ORIENTTECH.NS",
+ "rows": 555,
+ "source": "yahoo",
+ "symbol": "ORIENTTECH",
+ "version": "v1"
+}

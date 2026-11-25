@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:19:08Z",
+ "first_date": "2021-11-10",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:19:08Z",
+ "provider_symbol": "NYKAA.NS",
+ "rows": 1245,
+ "source": "yahoo",
+ "symbol": "NYKAA",
+ "version": "v1"
+}

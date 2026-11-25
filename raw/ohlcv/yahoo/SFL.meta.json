@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:25:43Z",
+ "first_date": "2016-12-12",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:25:43Z",
+ "provider_symbol": "SFL.NS",
+ "rows": 2459,
+ "source": "yahoo",
+ "symbol": "SFL",
+ "version": "v1"
+}

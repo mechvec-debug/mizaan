@@ -1,0 +1,63 @@
+{
+ "module": "shariah",
+ "display_name": "Shariah Compliance Screener",
+ "run_at": "2026-11-25T00:53:21+00:00",
+ "requested": 1228,
+ "evaluated": 1228,
+ "carried_forward": 0,
+ "failed": 0,
+ "by_verdict": {
+  "UNDETERMINED": 932,
+  "NON_COMPLIANT": 296
+ },
+ "undetermined_by_criterion": {
+  "Criteria 1: Core Business": 1228,
+  "Criteria 6: Non-Compliant Inv": 1225,
+  "Criteria 4: Illiquid / Assets": 95,
+  "Criteria 2: Impermissible Income": 19,
+  "Criteria 3: Debt / Assets": 11,
+  "Criteria 5: Net Liquid < MCap": 25
+ },
+ "by_source": {
+  "yahoo": 1227,
+  "none": 1
+ },
+ "status": "ok",
+ "universe_version": "267cf075f1ed",
+ "universe_count": 1228,
+ "data_run_id": "20261124T205324Z-2d38d0",
+ "downloads": {
+  "ohlcv": 1228,
+  "info": 1228,
+  "statements": 1228,
+  "xbrl": 5
+ },
+ "cache_hits": {
+  "ohlcv": 2456,
+  "info": 1228,
+  "statements": 1171
+ },
+ "breaker_tripped": false,
+ "failed_detail": {},
+ "carried_forward_detail": [],
+ "data_notes": {
+  "ARTEMISMED": [
+   "no financial statements available"
+  ],
+  "BHARTIARTL": [
+   "no usable annual XBRL filing found"
+  ],
+  "HINDUNILVR": [
+   "no usable annual XBRL filing found"
+  ],
+  "INFY": [
+   "no usable annual XBRL filing found"
+  ],
+  "RELIANCE": [
+   "no usable annual XBRL filing found"
+  ],
+  "TCS": [
+   "no usable annual XBRL filing found"
+  ]
+ }
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:24:29Z",
+ "first_date": "2019-04-11",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:24:29Z",
+ "provider_symbol": "RVNL.NS",
+ "rows": 1882,
+ "source": "yahoo",
+ "symbol": "RVNL",
+ "version": "v1"
+}

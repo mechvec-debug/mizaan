@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:15:08Z",
+ "first_date": "2018-03-22",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:15:08Z",
+ "provider_symbol": "MACPOWER.NS",
+ "rows": 2139,
+ "source": "yahoo",
+ "symbol": "MACPOWER",
+ "version": "v1"
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:14:28Z",
+ "first_date": "2025-11-10",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:14:28Z",
+ "provider_symbol": "LENSKART.NS",
+ "rows": 257,
+ "source": "yahoo",
+ "symbol": "LENSKART",
+ "version": "v1"
+}

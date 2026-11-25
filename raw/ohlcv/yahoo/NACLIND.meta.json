@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:17:34Z",
+ "first_date": "2017-04-10",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:17:34Z",
+ "provider_symbol": "NACLIND.NS",
+ "rows": 2378,
+ "source": "yahoo",
+ "symbol": "NACLIND",
+ "version": "v1"
+}

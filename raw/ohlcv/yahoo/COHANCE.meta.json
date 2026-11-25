@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:00:58Z",
+ "first_date": "2020-03-09",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:00:58Z",
+ "provider_symbol": "COHANCE.NS",
+ "rows": 1660,
+ "source": "yahoo",
+ "symbol": "COHANCE",
+ "version": "v1"
+}

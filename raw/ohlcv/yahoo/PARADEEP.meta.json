@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:20:06Z",
+ "first_date": "2022-05-27",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:20:06Z",
+ "provider_symbol": "PARADEEP.NS",
+ "rows": 1110,
+ "source": "yahoo",
+ "symbol": "PARADEEP",
+ "version": "v1"
+}

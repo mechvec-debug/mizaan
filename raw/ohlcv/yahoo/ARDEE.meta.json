@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T20:55:40Z",
+ "first_date": "2026-08-12",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T20:55:40Z",
+ "provider_symbol": "ARDEE.NS",
+ "rows": 70,
+ "source": "yahoo",
+ "symbol": "ARDEE",
+ "version": "v1"
+}

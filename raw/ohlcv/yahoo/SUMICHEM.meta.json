@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:28:29Z",
+ "first_date": "2020-01-27",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:28:29Z",
+ "provider_symbol": "SUMICHEM.NS",
+ "rows": 1689,
+ "source": "yahoo",
+ "symbol": "SUMICHEM",
+ "version": "v1"
+}

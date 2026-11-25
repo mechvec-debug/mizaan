@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:14:54Z",
+ "first_date": "2016-11-24",
+ "history_complete": false,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:14:54Z",
+ "provider_symbol": "LTFOODS.NS",
+ "rows": 2471,
+ "source": "yahoo",
+ "symbol": "LTFOODS",
+ "version": "v1"
+}

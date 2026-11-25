@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:02:52Z",
+ "first_date": "2018-05-29",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:02:52Z",
+ "provider_symbol": "E2E.NS",
+ "rows": 2095,
+ "source": "yahoo",
+ "symbol": "E2E",
+ "version": "v1"
+}

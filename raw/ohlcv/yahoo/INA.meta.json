@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:09:28Z",
+ "first_date": "2026-03-09",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:09:28Z",
+ "provider_symbol": "INA.NS",
+ "rows": 175,
+ "source": "yahoo",
+ "symbol": "INA",
+ "version": "v1"
+}

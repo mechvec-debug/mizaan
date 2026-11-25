@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:19:06Z",
+ "first_date": "2021-08-23",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:19:06Z",
+ "provider_symbol": "NUVOCO.NS",
+ "rows": 1299,
+ "source": "yahoo",
+ "symbol": "NUVOCO",
+ "version": "v1"
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:04:50Z",
+ "first_date": "2026-02-16",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:04:50Z",
+ "provider_symbol": "FRACTAL.NS",
+ "rows": 189,
+ "source": "yahoo",
+ "symbol": "FRACTAL",
+ "version": "v1"
+}

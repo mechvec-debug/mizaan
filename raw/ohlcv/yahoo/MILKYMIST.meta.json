@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:16:42Z",
+ "first_date": "2026-08-18",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:16:42Z",
+ "provider_symbol": "MILKYMIST.NS",
+ "rows": 66,
+ "source": "yahoo",
+ "symbol": "MILKYMIST",
+ "version": "v1"
+}

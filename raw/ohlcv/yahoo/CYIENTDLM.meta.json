@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:01:28Z",
+ "first_date": "2023-07-10",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:01:28Z",
+ "provider_symbol": "CYIENTDLM.NS",
+ "rows": 833,
+ "source": "yahoo",
+ "symbol": "CYIENTDLM",
+ "version": "v1"
+}

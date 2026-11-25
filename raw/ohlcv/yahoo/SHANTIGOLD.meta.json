@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:26:02Z",
+ "first_date": "2025-08-01",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:26:02Z",
+ "provider_symbol": "SHANTIGOLD.NS",
+ "rows": 323,
+ "source": "yahoo",
+ "symbol": "SHANTIGOLD",
+ "version": "v1"
+}

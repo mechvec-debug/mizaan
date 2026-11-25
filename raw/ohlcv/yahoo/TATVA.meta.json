@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:29:47Z",
+ "first_date": "2021-07-29",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:29:47Z",
+ "provider_symbol": "TATVA.NS",
+ "rows": 1315,
+ "source": "yahoo",
+ "symbol": "TATVA",
+ "version": "v1"
+}

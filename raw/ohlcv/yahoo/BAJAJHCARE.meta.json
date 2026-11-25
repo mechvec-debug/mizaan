@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T20:57:22Z",
+ "first_date": "2021-11-25",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T20:57:22Z",
+ "provider_symbol": "BAJAJHCARE.NS",
+ "rows": 1235,
+ "source": "yahoo",
+ "symbol": "BAJAJHCARE",
+ "version": "v1"
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:06:34Z",
+ "first_date": "2024-03-14",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:06:34Z",
+ "provider_symbol": "GOPAL.NS",
+ "rows": 664,
+ "source": "yahoo",
+ "symbol": "GOPAL",
+ "version": "v1"
+}

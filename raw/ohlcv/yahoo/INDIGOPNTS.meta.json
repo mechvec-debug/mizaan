@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:09:38Z",
+ "first_date": "2021-02-02",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:09:38Z",
+ "provider_symbol": "INDIGOPNTS.NS",
+ "rows": 1435,
+ "source": "yahoo",
+ "symbol": "INDIGOPNTS",
+ "version": "v1"
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:25:58Z",
+ "first_date": "2026-08-25",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:25:58Z",
+ "provider_symbol": "SHANKESH.NS",
+ "rows": 61,
+ "source": "yahoo",
+ "symbol": "SHANKESH",
+ "version": "v1"
+}

@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:15:46Z",
+ "first_date": "2022-02-16",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:15:46Z",
+ "provider_symbol": "MANYAVAR.NS",
+ "rows": 1177,
+ "source": "yahoo",
+ "symbol": "MANYAVAR",
+ "version": "v1"
+}

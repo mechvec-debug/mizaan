@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T20:55:16Z",
+ "first_date": "2025-07-21",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T20:55:16Z",
+ "provider_symbol": "ANTHEM.NS",
+ "rows": 332,
+ "source": "yahoo",
+ "symbol": "ANTHEM",
+ "version": "v1"
+}

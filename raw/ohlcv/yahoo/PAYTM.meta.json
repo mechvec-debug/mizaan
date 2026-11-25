@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:20:24Z",
+ "first_date": "2021-11-18",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:20:24Z",
+ "provider_symbol": "PAYTM.NS",
+ "rows": 1239,
+ "source": "yahoo",
+ "symbol": "PAYTM",
+ "version": "v1"
+}

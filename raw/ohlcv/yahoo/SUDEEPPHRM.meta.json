@@ -1,0 +1,12 @@
+{
+ "fetched_at": "2026-11-24T21:28:28Z",
+ "first_date": "2025-11-28",
+ "history_complete": true,
+ "last_date": "2026-11-23",
+ "last_full_refresh_at": "2026-11-24T21:28:28Z",
+ "provider_symbol": "SUDEEPPHRM.NS",
+ "rows": 243,
+ "source": "yahoo",
+ "symbol": "SUDEEPPHRM",
+ "version": "v1"
+}
