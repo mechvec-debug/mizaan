@@ -273,5 +273,15 @@
    },
    "breaker_tripped": false
   }
+ },
+ {
+  "run_id": "20261125T221637Z-d9687f",
+  "module_id": "annual_report",
+  "status": "not_configured",
+  "started_at": "2026-11-25T22:16:37Z",
+  "seconds": 0.013234156000002884,
+  "error": "annual_report.daily_token_budget and annual_report.requests_per_minute must be set in config/app.yaml from your AI provider's current limits before the batch can run (it never guesses a limit).",
+  "output_problems": [],
+  "summary": {}
  }
 ]

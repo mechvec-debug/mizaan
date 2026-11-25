@@ -1,14 +1,11 @@
 {
- "run_id": "20261125T201315Z-0775a8",
+ "run_id": "20261125T221637Z-d9687f",
  "trigger": "schedule",
- "started_at": "2026-11-25T20:13:15Z",
- "finished_at": "2026-11-25T22:16:02Z",
+ "started_at": "2026-11-25T22:16:37Z",
+ "finished_at": "2026-11-25T22:16:38Z",
  "exit_code": 0,
  "selected": [
-  "annual_report",
-  "technical",
-  "fundamental",
-  "shariah"
+  "annual_report"
  ],
  "modules": {
   "annual_report": {
@@ -16,119 +13,6 @@
    "seconds": 0.0,
    "summary": {},
    "error": "annual_report.daily_token_budget and annual_report.requests_per_minute must be set in config/app.yaml from your AI provider's current limits before the batch can run (it never guesses a limit).",
-   "output_problems": []
-  },
-  "technical": {
-   "status": "ok",
-   "seconds": 2454.2,
-   "summary": {
-    "module": "technical",
-    "run_at": "2026-11-26T01:43:15+05:30",
-    "requested": 1228,
-    "scanned": 1124,
-    "skipped": 104,
-    "failed": 0,
-    "by_state": {
-     "🟢 BUY TRIGGERED": 3,
-     "🔵 IN BUY ZONE": 98,
-     "🟡 WAIT FOR BUY ZONE": 325,
-     "✖ VOID": 673,
-     "🏁 TARGET HIT": 24,
-     "⚪ FORMING": 1
-    },
-    "by_grade": {
-     "A": 31,
-     "B": 53,
-     "C": 277,
-     "none": 763
-    },
-    "cross_lookback_bars": 3,
-    "min_bars": 250
-   },
-   "error": null,
-   "output_problems": []
-  },
-  "fundamental": {
-   "status": "ok",
-   "seconds": 4910.5,
-   "summary": {
-    "module": "fundamental",
-    "display_name": "Quality Value Rebound",
-    "run_at": "2026-11-25T20:54:09+00:00",
-    "requested": 1228,
-    "evaluated": 1171,
-    "carried_forward": 0,
-    "skipped": 57,
-    "failed": 0,
-    "deferred": 0,
-    "degraded": 0,
-    "by_status": {
-     "WAIT (Fund)": 912,
-     "WAIT (Valuation)": 123,
-     "👀 WATCH": 94,
-     "WAIT (Price)": 42
-    },
-    "status": "ok",
-    "universe_version": "267cf075f1ed",
-    "universe_count": 1228,
-    "data_run_id": "20261125T201315Z-98d1ba",
-    "downloads": {
-     "ohlcv": 1228,
-     "info": 1228
-    },
-    "cache_hits": {
-     "ohlcv": 2456,
-     "statements": 1171
-    },
-    "breaker_tripped": false
-   },
-   "error": null,
-   "output_problems": []
-  },
-  "shariah": {
-   "status": "ok",
-   "seconds": 2.4,
-   "summary": {
-    "module": "shariah",
-    "display_name": "Shariah Compliance Screener",
-    "run_at": "2026-11-25T22:15:59+00:00",
-    "requested": 1228,
-    "evaluated": 1228,
-    "carried_forward": 0,
-    "failed": 0,
-    "by_verdict": {
-     "UNDETERMINED": 931,
-     "NON_COMPLIANT": 297
-    },
-    "undetermined_by_criterion": {
-     "Criteria 1: Core Business": 1228,
-     "Criteria 6: Non-Compliant Inv": 1225,
-     "Criteria 4: Illiquid / Assets": 95,
-     "Criteria 2: Impermissible Income": 19,
-     "Criteria 3: Debt / Assets": 11,
-     "Criteria 5: Net Liquid < MCap": 25
-    },
-    "by_source": {
-     "yahoo": 1227,
-     "none": 1
-    },
-    "status": "ok",
-    "universe_version": "267cf075f1ed",
-    "universe_count": 1228,
-    "data_run_id": "20261125T201315Z-98d1ba",
-    "downloads": {
-     "ohlcv": 1228,
-     "info": 1228
-    },
-    "cache_hits": {
-     "ohlcv": 2456,
-     "statements": 2399,
-     "info": 1228,
-     "xbrl": 5
-    },
-    "breaker_tripped": false
-   },
-   "error": null,
    "output_problems": []
   }
  },
@@ -141,5 +25,5 @@
  ],
  "deadline_hit": false,
  "locked": false,
- "time_budget_minutes": 330.0
+ "time_budget_minutes": 300.0
 }
