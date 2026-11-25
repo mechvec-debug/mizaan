@@ -1,8 +1,8 @@
 {
  "data": {
   "52WeekChange": 1.7745631,
-  "SandP52WeekChange": 0.06965685,
-  "_fast_market_cap": 34330084751.60266,
+  "SandP52WeekChange": 0.057023644,
+  "_fast_market_cap": 42527428752.8,
   "address1": "Inspire BKC",
   "address2": "7th Floor BKC Main Road, Bandra (E)",
   "allTimeHigh": 2588.8,
@@ -149,7 +149,7 @@
   "website": "https://evonilepharma.com",
   "zip": "400051"
  },
- "fetched_at": "2026-11-24T23:37:54Z",
+ "fetched_at": "2026-11-25T21:45:03Z",
  "key": "info|yahoo|NOVARTIND|snapshot|v1",
  "version": "v1"
 }

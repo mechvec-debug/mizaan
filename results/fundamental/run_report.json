@@ -1,7 +1,7 @@
 {
  "module": "fundamental",
  "display_name": "Quality Value Rebound",
- "run_at": "2026-11-24T21:34:26+00:00",
+ "run_at": "2026-11-25T20:54:09+00:00",
  "requested": 1228,
  "evaluated": 1171,
  "carried_forward": 0,
@@ -10,29 +10,29 @@
  "deferred": 0,
  "degraded": 0,
  "by_status": {
-  "WAIT (Fund)": 910,
-  "👀 WATCH": 122,
-  "WAIT (Valuation)": 83,
-  "WAIT (Price)": 56
+  "WAIT (Fund)": 912,
+  "WAIT (Valuation)": 123,
+  "👀 WATCH": 94,
+  "WAIT (Price)": 42
  },
  "status": "ok",
  "universe_version": "267cf075f1ed",
  "universe_count": 1228,
- "data_run_id": "20261124T205324Z-2d38d0",
+ "data_run_id": "20261125T201315Z-98d1ba",
  "downloads": {
   "ohlcv": 1228,
-  "info": 1228,
-  "statements": 1171
+  "info": 1228
  },
  "cache_hits": {
-  "ohlcv": 2456
+  "ohlcv": 2456,
+  "statements": 1171
  },
  "breaker_tripped": false,
  "failed_detail": {},
  "skipped_detail": {
   "3BBLACKBIO": "only 66 daily bars (< 120)",
   "ARDEE": "only 70 daily bars (< 120)",
-  "ASTAR": "only 66 daily bars (< 120)",
+  "ASTAR": "only 67 daily bars (< 120)",
   "AUGMONT": "only 57 daily bars (< 120)",
   "BAJAJST": "only 66 daily bars (< 120)",
   "BEEKAY": "only 66 daily bars (< 120)",

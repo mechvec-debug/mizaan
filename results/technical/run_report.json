@@ -1,6 +1,6 @@
 {
  "module": "technical",
- "run_at": "2026-11-25T02:23:24+05:30",
+ "run_at": "2026-11-26T01:43:15+05:30",
  "requested": 1228,
  "scanned": 1124,
  "skipped": 104,
@@ -28,7 +28,7 @@
   "AEQUS": "only 235 daily bars (< 250)",
   "AMAGI": "only 206 daily bars (< 250)",
   "ARDEE": "only 70 daily bars (< 250)",
-  "ASTAR": "only 66 daily bars (< 250)",
+  "ASTAR": "only 67 daily bars (< 250)",
   "AUGMONT": "only 57 daily bars (< 250)",
   "BAJAJST": "only 66 daily bars (< 250)",
   "BEEKAY": "only 66 daily bars (< 250)",

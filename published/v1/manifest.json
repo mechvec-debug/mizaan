@@ -1,29 +1,29 @@
 {
  "schema": 1,
- "generated_at": "2026-11-25T00:59:57Z",
+ "generated_at": "2026-11-25T22:16:02Z",
  "universe_version": "267cf075f1ed",
  "universe_count": 1228,
  "files": {
   "technical.json": {
    "path": "v1/technical.json",
-   "sha256": "b16a0d263279a1614fb6b1fcd447c0d98a5fd2aba1ccc5f040deab4d4acf491e",
-   "bytes": 813804,
+   "sha256": "de36fe99c7fc73e1cccf9d63cda38eeb62bfd9ad8aa65d71a59b7453ae95e37e",
+   "bytes": 827206,
    "rows": 1124,
-   "as_of": "2026-11-25"
+   "as_of": "2026-11-26"
   },
   "fundamental.json": {
    "path": "v1/fundamental.json",
-   "sha256": "1722ca65935d5ce8865a108eaef9388d1aab6314753f7505bc47314f94421ede",
-   "bytes": 531055,
+   "sha256": "eee51ca61ad1278cddc4d4c331a8cc2a049d1b91cd3013e019cf15fd35c03e93",
+   "bytes": 531419,
    "rows": 1171,
-   "as_of": "2026-11-24 21:34 UTC"
+   "as_of": "2026-11-25 20:54 UTC"
   },
   "shariah.json": {
    "path": "v1/shariah.json",
-   "sha256": "78d2d8e5993b914b56e5ba9fef1ba337c77b6dab25dcd1c38d4efa2604fb8f86",
-   "bytes": 1544412,
+   "sha256": "c68e7c3dd475dc1d94929214c2cd699500dec637ff7fe92161028bb3d25c088f",
+   "bytes": 1544413,
    "rows": 1228,
-   "as_of": "25 Nov 2026, 12:53 AM"
+   "as_of": "25 Nov 2026, 10:15 PM"
   },
   "universe.json": {
    "path": "v1/universe.json",
@@ -34,28 +34,28 @@
   },
   "status.json": {
    "path": "v1/status.json",
-   "sha256": "1197252840f93efa20ab67b4b695ba3b650470ac33deb9ad60d02904c9f78cce",
-   "bytes": 985,
+   "sha256": "c54b3d0e270bd1ba17664e5285f7a352f96a5d731529657874050ffb7029b35f",
+   "bytes": 1036,
    "rows": null,
-   "as_of": "2026-11-25T00:59:57Z"
+   "as_of": "2026-11-25T22:16:02Z"
   }
  },
  "modules": {
   "technical": {
-   "status": null,
-   "as_of": "2026-11-25",
+   "status": "ok",
+   "as_of": "2026-11-26",
    "published": true,
    "stale": false
   },
   "fundamental": {
-   "status": null,
-   "as_of": "2026-11-24 21:34 UTC",
+   "status": "ok",
+   "as_of": "2026-11-25 20:54 UTC",
    "published": true,
    "stale": false
   },
   "shariah": {
-   "status": null,
-   "as_of": "25 Nov 2026, 12:53 AM",
+   "status": "ok",
+   "as_of": "25 Nov 2026, 10:15 PM",
    "published": true,
    "stale": false
   },
