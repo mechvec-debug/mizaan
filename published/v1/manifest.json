@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-26T21:53:42Z",
+ "generated_at": "2026-11-26T21:54:48Z",
  "universe_version": "267cf075f1ed",
  "universe_count": 1228,
  "files": {
@@ -34,27 +34,27 @@
   },
   "status.json": {
    "path": "v1/status.json",
-   "sha256": "b41ecc81799763ae92aecbae046fadcc11b0fe2c6f591790dd9f7ebf45e4a41c",
-   "bytes": 1036,
+   "sha256": "6c98a9fe21eb9af7291a3ac36eb06a9cc634ee16610a1c0d800b5e7c2d6655e3",
+   "bytes": 985,
    "rows": null,
-   "as_of": "2026-11-26T21:53:42Z"
+   "as_of": "2026-11-26T21:54:48Z"
   }
  },
  "modules": {
   "technical": {
-   "status": "ok",
+   "status": null,
    "as_of": "2026-11-27",
    "published": true,
    "stale": false
   },
   "fundamental": {
-   "status": "ok",
+   "status": null,
    "as_of": "2026-11-26 20:31 UTC",
    "published": true,
    "stale": false
   },
   "shariah": {
-   "status": "ok",
+   "status": null,
    "as_of": "26 Nov 2026, 09:53 PM",
    "published": true,
    "stale": false
