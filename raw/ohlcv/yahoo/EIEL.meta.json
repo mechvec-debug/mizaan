@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:22:53Z",
+ "fetched_at": "2026-11-26T20:00:32Z",
  "first_date": "2024-11-29",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:03:02Z",
  "provider_symbol": "EIEL.NS",
- "rows": 491,
+ "rows": 492,
  "source": "yahoo",
  "symbol": "EIEL",
  "version": "v1"

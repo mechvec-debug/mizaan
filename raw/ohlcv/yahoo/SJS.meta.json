@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:46:37Z",
+ "fetched_at": "2026-11-26T20:24:16Z",
  "first_date": "2021-11-15",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:26:54Z",
  "provider_symbol": "SJS.NS",
- "rows": 1242,
+ "rows": 1243,
  "source": "yahoo",
  "symbol": "SJS",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:16:45Z",
+ "fetched_at": "2026-11-26T19:54:24Z",
  "first_date": "2023-04-18",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T20:56:54Z",
  "provider_symbol": "AVALON.NS",
- "rows": 890,
+ "rows": 891,
  "source": "yahoo",
  "symbol": "AVALON",
  "version": "v1"

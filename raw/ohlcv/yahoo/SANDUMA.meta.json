@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:44:41Z",
+ "fetched_at": "2026-11-26T20:22:20Z",
  "first_date": "2023-09-07",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:24:58Z",
  "provider_symbol": "SANDUMA.NS",
- "rows": 791,
+ "rows": 792,
  "source": "yahoo",
  "symbol": "SANDUMA",
  "version": "v1"

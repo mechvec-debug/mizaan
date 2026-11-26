@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:39:15Z",
+ "fetched_at": "2026-11-26T20:16:54Z",
  "first_date": "2026-03-05",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:19:24Z",
  "provider_symbol": "OMNI.NS",
- "rows": 177,
+ "rows": 178,
  "source": "yahoo",
  "symbol": "OMNI",
  "version": "v1"

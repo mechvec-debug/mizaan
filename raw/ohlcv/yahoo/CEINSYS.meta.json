@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:19:55Z",
+ "fetched_at": "2026-11-26T19:57:34Z",
  "first_date": "2026-02-19",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:00:04Z",
  "provider_symbol": "CEINSYS.NS",
- "rows": 186,
+ "rows": 187,
  "source": "yahoo",
  "symbol": "CEINSYS",
  "version": "v1"

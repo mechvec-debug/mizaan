@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:14:47Z",
+ "fetched_at": "2026-11-26T19:52:26Z",
  "first_date": "2025-09-11",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T20:54:56Z",
  "provider_symbol": "AMANTA.NS",
- "rows": 295,
+ "rows": 296,
  "source": "yahoo",
  "symbol": "AMANTA",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:48:07Z",
+ "fetched_at": "2026-11-26T20:25:46Z",
  "first_date": "2016-11-24",
  "history_complete": false,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:28:24Z",
  "provider_symbol": "SUDARCOLOR.NS",
- "rows": 2471,
+ "rows": 2472,
  "source": "yahoo",
  "symbol": "SUDARCOLOR",
  "version": "v1"

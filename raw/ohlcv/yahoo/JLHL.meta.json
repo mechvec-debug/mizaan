@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:31:33Z",
+ "fetched_at": "2026-11-26T20:09:12Z",
  "first_date": "2023-09-18",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:11:42Z",
  "provider_symbol": "JLHL.NS",
- "rows": 784,
+ "rows": 785,
  "source": "yahoo",
  "symbol": "JLHL",
  "version": "v1"

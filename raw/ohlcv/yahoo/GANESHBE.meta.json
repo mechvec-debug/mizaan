@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:25:05Z",
+ "fetched_at": "2026-11-26T20:02:44Z",
  "first_date": "2021-09-16",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:05:14Z",
  "provider_symbol": "GANESHBE.NS",
- "rows": 1281,
+ "rows": 1282,
  "source": "yahoo",
  "symbol": "GANESHBE",
  "version": "v1"

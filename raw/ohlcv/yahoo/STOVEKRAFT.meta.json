@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:47:55Z",
+ "fetched_at": "2026-11-26T20:25:34Z",
  "first_date": "2021-02-08",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:28:12Z",
  "provider_symbol": "STOVEKRAFT.NS",
- "rows": 1430,
+ "rows": 1431,
  "source": "yahoo",
  "symbol": "STOVEKRAFT",
  "version": "v1"

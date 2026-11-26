@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:53:47Z",
+ "fetched_at": "2026-11-26T20:31:26Z",
  "first_date": "2021-09-02",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:34:03Z",
  "provider_symbol": "YUKEN.NS",
- "rows": 1291,
+ "rows": 1292,
  "source": "yahoo",
  "symbol": "YUKEN",
  "version": "v1"

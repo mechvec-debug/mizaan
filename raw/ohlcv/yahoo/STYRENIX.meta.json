@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:48:03Z",
+ "fetched_at": "2026-11-26T20:25:42Z",
  "first_date": "2016-11-24",
  "history_complete": false,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:28:19Z",
  "provider_symbol": "STYRENIX.NS",
- "rows": 2471,
+ "rows": 2472,
  "source": "yahoo",
  "symbol": "STYRENIX",
  "version": "v1"

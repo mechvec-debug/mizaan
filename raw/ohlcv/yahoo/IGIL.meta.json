@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:29:05Z",
+ "fetched_at": "2026-11-26T20:06:44Z",
  "first_date": "2024-12-30",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:09:14Z",
  "provider_symbol": "IGIL.NS",
- "rows": 470,
+ "rows": 471,
  "source": "yahoo",
  "symbol": "IGIL",
  "version": "v1"

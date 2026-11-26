@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:46:17Z",
+ "fetched_at": "2026-11-26T20:23:56Z",
  "first_date": "2016-11-24",
  "history_complete": false,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:26:33Z",
  "provider_symbol": "SICALLOG.NS",
- "rows": 2469,
+ "rows": 2470,
  "source": "yahoo",
  "symbol": "SICALLOG",
  "version": "v1"

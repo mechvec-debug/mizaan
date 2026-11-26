@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:45:59Z",
+ "fetched_at": "2026-11-26T20:23:38Z",
  "first_date": "2019-10-17",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:26:15Z",
  "provider_symbol": "SHIVAUM.NS",
- "rows": 1754,
+ "rows": 1755,
  "source": "yahoo",
  "symbol": "SHIVAUM",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:14:13Z",
+ "fetched_at": "2026-11-26T19:51:52Z",
  "first_date": "2024-11-04",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T20:54:22Z",
  "provider_symbol": "AFCONS.NS",
- "rows": 508,
+ "rows": 509,
  "source": "yahoo",
  "symbol": "AFCONS",
  "version": "v1"

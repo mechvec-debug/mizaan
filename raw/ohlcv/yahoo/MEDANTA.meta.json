@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:36:11Z",
+ "fetched_at": "2026-11-26T20:13:50Z",
  "first_date": "2022-11-18",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:16:20Z",
  "provider_symbol": "MEDANTA.NS",
- "rows": 991,
+ "rows": 992,
  "source": "yahoo",
  "symbol": "MEDANTA",
  "version": "v1"

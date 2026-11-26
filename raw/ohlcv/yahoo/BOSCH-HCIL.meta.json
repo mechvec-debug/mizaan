@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:19:13Z",
+ "fetched_at": "2026-11-26T19:56:52Z",
  "first_date": "2016-11-24",
  "history_complete": false,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T20:59:22Z",
  "provider_symbol": "BOSCH-HCIL.NS",
- "rows": 2471,
+ "rows": 2472,
  "source": "yahoo",
  "symbol": "BOSCH-HCIL",
  "version": "v1"

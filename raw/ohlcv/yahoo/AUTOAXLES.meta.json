@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:16:43Z",
+ "fetched_at": "2026-11-26T19:54:22Z",
  "first_date": "2016-11-24",
  "history_complete": false,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T20:56:52Z",
  "provider_symbol": "AUTOAXLES.NS",
- "rows": 2470,
+ "rows": 2471,
  "source": "yahoo",
  "symbol": "AUTOAXLES",
  "version": "v1"

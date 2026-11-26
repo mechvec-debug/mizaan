@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:31:05Z",
+ "fetched_at": "2026-11-26T20:08:44Z",
  "first_date": "2025-12-03",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:11:14Z",
  "provider_symbol": "JAYKAY.NS",
- "rows": 240,
+ "rows": 241,
  "source": "yahoo",
  "symbol": "JAYKAY",
  "version": "v1"

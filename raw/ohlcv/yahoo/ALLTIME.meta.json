@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:14:43Z",
+ "fetched_at": "2026-11-26T19:52:22Z",
  "first_date": "2025-08-14",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T20:54:52Z",
  "provider_symbol": "ALLTIME.NS",
- "rows": 314,
+ "rows": 315,
  "source": "yahoo",
  "symbol": "ALLTIME",
  "version": "v1"

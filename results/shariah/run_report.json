@@ -1,14 +1,14 @@
 {
  "module": "shariah",
  "display_name": "Shariah Compliance Screener",
- "run_at": "2026-11-25T22:15:59+00:00",
+ "run_at": "2026-11-26T21:53:39+00:00",
  "requested": 1228,
  "evaluated": 1228,
  "carried_forward": 0,
  "failed": 0,
  "by_verdict": {
-  "UNDETERMINED": 931,
-  "NON_COMPLIANT": 297
+  "UNDETERMINED": 932,
+  "NON_COMPLIANT": 296
  },
  "undetermined_by_criterion": {
   "Criteria 1: Core Business": 1228,
@@ -25,7 +25,7 @@
  "status": "ok",
  "universe_version": "267cf075f1ed",
  "universe_count": 1228,
- "data_run_id": "20261125T201315Z-98d1ba",
+ "data_run_id": "20261126T195054Z-618f2d",
  "downloads": {
   "ohlcv": 1228,
   "info": 1228

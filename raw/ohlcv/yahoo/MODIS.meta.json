@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:36:47Z",
+ "fetched_at": "2026-11-26T20:14:26Z",
  "first_date": "2025-11-14",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:16:56Z",
  "provider_symbol": "MODIS.NS",
- "rows": 252,
+ "rows": 253,
  "source": "yahoo",
  "symbol": "MODIS",
  "version": "v1"

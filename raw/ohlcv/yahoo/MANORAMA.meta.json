@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:35:35Z",
+ "fetched_at": "2026-11-26T20:13:14Z",
  "first_date": "2022-07-01",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:15:44Z",
  "provider_symbol": "MANORAMA.NS",
- "rows": 1085,
+ "rows": 1086,
  "source": "yahoo",
  "symbol": "MANORAMA",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:52:39Z",
+ "fetched_at": "2026-11-26T20:30:18Z",
  "first_date": "2026-07-01",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:32:55Z",
  "provider_symbol": "VOEPL.NS",
- "rows": 100,
+ "rows": 101,
  "source": "yahoo",
  "symbol": "VOEPL",
  "version": "v1"

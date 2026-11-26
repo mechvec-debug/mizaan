@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:17:49Z",
+ "fetched_at": "2026-11-26T19:55:28Z",
  "first_date": "2025-05-28",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T20:57:58Z",
  "provider_symbol": "BELRISE.NS",
- "rows": 370,
+ "rows": 371,
  "source": "yahoo",
  "symbol": "BELRISE",
  "version": "v1"

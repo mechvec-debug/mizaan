@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:16:51Z",
+ "fetched_at": "2026-11-26T19:54:30Z",
  "first_date": "2024-11-06",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T20:57:00Z",
  "provider_symbol": "AVL.NS",
- "rows": 504,
+ "rows": 505,
  "source": "yahoo",
  "symbol": "AVL",
  "version": "v1"

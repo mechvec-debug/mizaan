@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:28:49Z",
+ "fetched_at": "2026-11-26T20:06:28Z",
  "first_date": "2024-10-22",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:08:58Z",
  "provider_symbol": "HYUNDAI.NS",
- "rows": 517,
+ "rows": 518,
  "source": "yahoo",
  "symbol": "HYUNDAI",
  "version": "v1"

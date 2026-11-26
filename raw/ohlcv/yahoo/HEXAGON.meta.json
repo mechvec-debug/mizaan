@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:27:51Z",
+ "fetched_at": "2026-11-26T20:05:30Z",
  "first_date": "2026-06-12",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:08:00Z",
  "provider_symbol": "HEXAGON.NS",
- "rows": 112,
+ "rows": 113,
  "source": "yahoo",
  "symbol": "HEXAGON",
  "version": "v1"

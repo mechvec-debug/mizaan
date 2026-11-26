@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:33:13Z",
+ "fetched_at": "2026-11-26T20:10:52Z",
  "first_date": "2016-11-24",
  "history_complete": false,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:13:22Z",
  "provider_symbol": "KOPRAN.NS",
- "rows": 2471,
+ "rows": 2472,
  "source": "yahoo",
  "symbol": "KOPRAN",
  "version": "v1"

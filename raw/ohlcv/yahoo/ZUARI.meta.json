@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:54:03Z",
+ "fetched_at": "2026-11-26T20:31:42Z",
  "first_date": "2016-11-24",
  "history_complete": false,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:34:20Z",
  "provider_symbol": "ZUARI.NS",
- "rows": 2471,
+ "rows": 2472,
  "source": "yahoo",
  "symbol": "ZUARI",
  "version": "v1"

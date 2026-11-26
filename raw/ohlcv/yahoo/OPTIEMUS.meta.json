@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:39:27Z",
+ "fetched_at": "2026-11-26T20:17:06Z",
  "first_date": "2017-08-08",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:19:36Z",
  "provider_symbol": "OPTIEMUS.NS",
- "rows": 2294,
+ "rows": 2295,
  "source": "yahoo",
  "symbol": "OPTIEMUS",
  "version": "v1"

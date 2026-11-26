@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:42:27Z",
+ "fetched_at": "2026-11-26T20:20:06Z",
  "first_date": "2025-05-29",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:22:36Z",
  "provider_symbol": "RAJOOENG.NS",
- "rows": 369,
+ "rows": 370,
  "source": "yahoo",
  "symbol": "RAJOOENG",
  "version": "v1"

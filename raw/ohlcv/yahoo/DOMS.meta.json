@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:22:29Z",
+ "fetched_at": "2026-11-26T20:00:08Z",
  "first_date": "2023-12-20",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:02:38Z",
  "provider_symbol": "DOMS.NS",
- "rows": 722,
+ "rows": 723,
  "source": "yahoo",
  "symbol": "DOMS",
  "version": "v1"

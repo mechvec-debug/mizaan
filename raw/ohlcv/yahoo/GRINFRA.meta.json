@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:26:53Z",
+ "fetched_at": "2026-11-26T20:04:32Z",
  "first_date": "2021-07-19",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:07:02Z",
  "provider_symbol": "GRINFRA.NS",
- "rows": 1322,
+ "rows": 1323,
  "source": "yahoo",
  "symbol": "GRINFRA",
  "version": "v1"

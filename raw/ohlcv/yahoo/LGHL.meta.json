@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:34:25Z",
+ "fetched_at": "2026-11-26T20:12:04Z",
  "first_date": "2020-05-05",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:14:34Z",
  "provider_symbol": "LGHL.NS",
- "rows": 1623,
+ "rows": 1624,
  "source": "yahoo",
  "symbol": "LGHL",
  "version": "v1"

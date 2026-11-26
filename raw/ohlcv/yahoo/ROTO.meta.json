@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:43:45Z",
+ "fetched_at": "2026-11-26T20:21:24Z",
  "first_date": "2022-04-21",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:24:01Z",
  "provider_symbol": "ROTO.NS",
- "rows": 1135,
+ "rows": 1136,
  "source": "yahoo",
  "symbol": "ROTO",
  "version": "v1"

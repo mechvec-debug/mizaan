@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:14:45Z",
+ "fetched_at": "2026-11-26T19:52:24Z",
  "first_date": "2026-01-21",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T20:54:54Z",
  "provider_symbol": "AMAGI.NS",
- "rows": 206,
+ "rows": 207,
  "source": "yahoo",
  "symbol": "AMAGI",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:36:07Z",
+ "fetched_at": "2026-11-26T20:13:46Z",
  "first_date": "2025-08-06",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:16:16Z",
  "provider_symbol": "MBEL.NS",
- "rows": 320,
+ "rows": 321,
  "source": "yahoo",
  "symbol": "MBEL",
  "version": "v1"

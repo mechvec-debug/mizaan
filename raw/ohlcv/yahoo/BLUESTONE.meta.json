@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:18:55Z",
+ "fetched_at": "2026-11-26T19:56:34Z",
  "first_date": "2025-08-19",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T20:59:04Z",
  "provider_symbol": "BLUESTONE.NS",
- "rows": 312,
+ "rows": 313,
  "source": "yahoo",
  "symbol": "BLUESTONE",
  "version": "v1"

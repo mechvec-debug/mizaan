@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:53:49Z",
+ "fetched_at": "2026-11-26T20:31:28Z",
  "first_date": "2023-09-22",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:34:06Z",
  "provider_symbol": "ZAGGLE.NS",
- "rows": 781,
+ "rows": 782,
  "source": "yahoo",
  "symbol": "ZAGGLE",
  "version": "v1"

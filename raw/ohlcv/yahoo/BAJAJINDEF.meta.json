@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:17:15Z",
+ "fetched_at": "2026-11-26T19:54:54Z",
  "first_date": "2025-02-21",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T20:57:24Z",
  "provider_symbol": "BAJAJINDEF.NS",
- "rows": 431,
+ "rows": 432,
  "source": "yahoo",
  "symbol": "BAJAJINDEF",
  "version": "v1"

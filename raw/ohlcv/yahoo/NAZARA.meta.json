@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:37:45Z",
+ "fetched_at": "2026-11-26T20:15:24Z",
  "first_date": "2021-03-30",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:17:54Z",
  "provider_symbol": "NAZARA.NS",
- "rows": 1397,
+ "rows": 1398,
  "source": "yahoo",
  "symbol": "NAZARA",
  "version": "v1"

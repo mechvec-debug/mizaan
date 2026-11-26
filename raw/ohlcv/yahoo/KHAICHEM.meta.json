@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:32:39Z",
+ "fetched_at": "2026-11-26T20:10:18Z",
  "first_date": "2020-10-30",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:12:48Z",
  "provider_symbol": "KHAICHEM.NS",
- "rows": 1499,
+ "rows": 1500,
  "source": "yahoo",
  "symbol": "KHAICHEM",
  "version": "v1"

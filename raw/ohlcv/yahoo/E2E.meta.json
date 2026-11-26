@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:22:43Z",
+ "fetched_at": "2026-11-26T20:00:22Z",
  "first_date": "2018-05-29",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:02:52Z",
  "provider_symbol": "E2E.NS",
- "rows": 2095,
+ "rows": 2096,
  "source": "yahoo",
  "symbol": "E2E",
  "version": "v1"

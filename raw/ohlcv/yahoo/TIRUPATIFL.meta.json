@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:50:25Z",
+ "fetched_at": "2026-11-26T20:28:04Z",
  "first_date": "2017-10-12",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:30:42Z",
  "provider_symbol": "TIRUPATIFL.NS",
- "rows": 2250,
+ "rows": 2251,
  "source": "yahoo",
  "symbol": "TIRUPATIFL",
  "version": "v1"

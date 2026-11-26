@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:16:27Z",
+ "fetched_at": "2026-11-26T19:54:06Z",
  "first_date": "2018-11-05",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T20:56:36Z",
  "provider_symbol": "ATGL.NS",
- "rows": 1988,
+ "rows": 1989,
  "source": "yahoo",
  "symbol": "ATGL",
  "version": "v1"

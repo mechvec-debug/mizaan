@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:42:31Z",
+ "fetched_at": "2026-11-26T20:20:10Z",
  "first_date": "2020-05-22",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:22:40Z",
  "provider_symbol": "RAJRATAN.NS",
- "rows": 1612,
+ "rows": 1613,
  "source": "yahoo",
  "symbol": "RAJRATAN",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:41:51Z",
+ "fetched_at": "2026-11-26T20:19:30Z",
  "first_date": "2017-05-29",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:22:00Z",
  "provider_symbol": "PSPPROJECT.NS",
- "rows": 2344,
+ "rows": 2345,
  "source": "yahoo",
  "symbol": "PSPPROJECT",
  "version": "v1"

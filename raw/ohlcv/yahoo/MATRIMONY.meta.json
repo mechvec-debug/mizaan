@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:35:53Z",
+ "fetched_at": "2026-11-26T20:13:32Z",
  "first_date": "2017-09-21",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:16:02Z",
  "provider_symbol": "MATRIMONY.NS",
- "rows": 2265,
+ "rows": 2266,
  "source": "yahoo",
  "symbol": "MATRIMONY",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:29:53Z",
+ "fetched_at": "2026-11-26T20:07:32Z",
  "first_date": "2017-07-24",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:10:02Z",
  "provider_symbol": "INFOBEAN.NS",
- "rows": 2306,
+ "rows": 2307,
  "source": "yahoo",
  "symbol": "INFOBEAN",
  "version": "v1"

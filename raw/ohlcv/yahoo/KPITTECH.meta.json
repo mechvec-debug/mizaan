@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:33:25Z",
+ "fetched_at": "2026-11-26T20:11:04Z",
  "first_date": "2019-04-22",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:13:34Z",
  "provider_symbol": "KPITTECH.NS",
- "rows": 1877,
+ "rows": 1878,
  "source": "yahoo",
  "symbol": "KPITTECH",
  "version": "v1"

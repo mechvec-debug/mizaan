@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:22:31Z",
+ "fetched_at": "2026-11-26T20:00:10Z",
  "first_date": "2017-10-23",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:02:40Z",
  "provider_symbol": "DPABHUSHAN.NS",
- "rows": 2243,
+ "rows": 2244,
  "source": "yahoo",
  "symbol": "DPABHUSHAN",
  "version": "v1"

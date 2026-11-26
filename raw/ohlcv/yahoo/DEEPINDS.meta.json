@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:21:53Z",
+ "fetched_at": "2026-11-26T19:59:32Z",
  "first_date": "2021-04-27",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:02:02Z",
  "provider_symbol": "DEEPINDS.NS",
- "rows": 1380,
+ "rows": 1381,
  "source": "yahoo",
  "symbol": "DEEPINDS",
  "version": "v1"

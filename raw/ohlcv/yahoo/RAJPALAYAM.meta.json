@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:42:29Z",
+ "fetched_at": "2026-11-26T20:20:08Z",
  "first_date": "2026-04-15",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:22:38Z",
  "provider_symbol": "RAJPALAYAM.NS",
- "rows": 152,
+ "rows": 153,
  "source": "yahoo",
  "symbol": "RAJPALAYAM",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:42:47Z",
+ "fetched_at": "2026-11-26T20:20:26Z",
  "first_date": "2021-12-17",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:22:56Z",
  "provider_symbol": "RATEGAIN.NS",
- "rows": 1218,
+ "rows": 1219,
  "source": "yahoo",
  "symbol": "RATEGAIN",
  "version": "v1"

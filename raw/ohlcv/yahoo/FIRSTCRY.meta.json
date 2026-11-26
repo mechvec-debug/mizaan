@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:24:33Z",
+ "fetched_at": "2026-11-26T20:02:12Z",
  "first_date": "2024-08-13",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:04:42Z",
  "provider_symbol": "FIRSTCRY.NS",
- "rows": 565,
+ "rows": 566,
  "source": "yahoo",
  "symbol": "FIRSTCRY",
  "version": "v1"

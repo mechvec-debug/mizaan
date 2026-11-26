@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:51:45Z",
+ "fetched_at": "2026-11-26T20:29:24Z",
  "first_date": "2018-07-09",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:32:01Z",
  "provider_symbol": "VARROC.NS",
- "rows": 2067,
+ "rows": 2068,
  "source": "yahoo",
  "symbol": "VARROC",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:21:35Z",
+ "fetched_at": "2026-11-26T19:59:14Z",
  "first_date": "2026-02-17",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:01:44Z",
  "provider_symbol": "DCMSIL.NS",
- "rows": 188,
+ "rows": 189,
  "source": "yahoo",
  "symbol": "DCMSIL",
  "version": "v1"

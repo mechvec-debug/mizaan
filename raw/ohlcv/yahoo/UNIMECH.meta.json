@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:51:17Z",
+ "fetched_at": "2026-11-26T20:28:56Z",
  "first_date": "2024-12-31",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:31:34Z",
  "provider_symbol": "UNIMECH.NS",
- "rows": 470,
+ "rows": 471,
  "source": "yahoo",
  "symbol": "UNIMECH",
  "version": "v1"

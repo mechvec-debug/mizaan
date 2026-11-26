@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:35:39Z",
+ "fetched_at": "2026-11-26T20:13:18Z",
  "first_date": "2021-12-21",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:15:48Z",
  "provider_symbol": "MAPMYINDIA.NS",
- "rows": 1217,
+ "rows": 1218,
  "source": "yahoo",
  "symbol": "MAPMYINDIA",
  "version": "v1"

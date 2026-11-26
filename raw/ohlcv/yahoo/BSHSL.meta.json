@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:19:19Z",
+ "fetched_at": "2026-11-26T19:56:58Z",
  "first_date": "2018-05-10",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T20:59:28Z",
  "provider_symbol": "BSHSL.NS",
- "rows": 2107,
+ "rows": 2108,
  "source": "yahoo",
  "symbol": "BSHSL",
  "version": "v1"

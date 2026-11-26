@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:23:23Z",
+ "fetched_at": "2026-11-26T20:01:02Z",
  "first_date": "2025-11-18",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:03:32Z",
  "provider_symbol": "EMMVEE.NS",
- "rows": 251,
+ "rows": 252,
  "source": "yahoo",
  "symbol": "EMMVEE",
  "version": "v1"

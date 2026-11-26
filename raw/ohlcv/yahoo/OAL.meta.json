@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:39:01Z",
+ "fetched_at": "2026-11-26T20:16:40Z",
  "first_date": "2020-04-15",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:19:10Z",
  "provider_symbol": "OAL.NS",
- "rows": 1637,
+ "rows": 1638,
  "source": "yahoo",
  "symbol": "OAL",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:42:55Z",
+ "fetched_at": "2026-11-26T20:20:34Z",
  "first_date": "2024-09-05",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:23:06Z",
  "provider_symbol": "RAYMONDLSL.NS",
- "rows": 549,
+ "rows": 550,
  "source": "yahoo",
  "symbol": "RAYMONDLSL",
  "version": "v1"

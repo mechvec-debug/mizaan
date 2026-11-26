@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:36:53Z",
+ "fetched_at": "2026-11-26T20:14:32Z",
  "first_date": "2021-08-18",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:17:02Z",
  "provider_symbol": "MOL.NS",
- "rows": 1301,
+ "rows": 1302,
  "source": "yahoo",
  "symbol": "MOL",
  "version": "v1"

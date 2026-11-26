@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:53:57Z",
+ "fetched_at": "2026-11-26T20:31:36Z",
  "first_date": "2026-04-21",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:34:14Z",
  "provider_symbol": "ZFSTEERING.NS",
- "rows": 148,
+ "rows": 149,
  "source": "yahoo",
  "symbol": "ZFSTEERING",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:27:25Z",
+ "fetched_at": "2026-11-26T20:05:04Z",
  "first_date": "2022-09-26",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:07:34Z",
  "provider_symbol": "HARSHA.NS",
- "rows": 1026,
+ "rows": 1027,
  "source": "yahoo",
  "symbol": "HARSHA",
  "version": "v1"

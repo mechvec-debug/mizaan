@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:23:57Z",
+ "fetched_at": "2026-11-26T20:01:36Z",
  "first_date": "2025-09-23",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:04:06Z",
  "provider_symbol": "EUROPRATIK.NS",
- "rows": 288,
+ "rows": 289,
  "source": "yahoo",
  "symbol": "EUROPRATIK",
  "version": "v1"

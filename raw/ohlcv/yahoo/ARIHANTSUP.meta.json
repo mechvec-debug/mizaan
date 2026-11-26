@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:15:41Z",
+ "fetched_at": "2026-11-26T19:53:20Z",
  "first_date": "2017-03-29",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T20:55:50Z",
  "provider_symbol": "ARIHANTSUP.NS",
- "rows": 2384,
+ "rows": 2385,
  "source": "yahoo",
  "symbol": "ARIHANTSUP",
  "version": "v1"

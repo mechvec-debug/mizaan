@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:52:59Z",
+ "fetched_at": "2026-11-26T20:30:38Z",
  "first_date": "2025-12-15",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:33:16Z",
  "provider_symbol": "WAKEFIT.NS",
- "rows": 231,
+ "rows": 232,
  "source": "yahoo",
  "symbol": "WAKEFIT",
  "version": "v1"

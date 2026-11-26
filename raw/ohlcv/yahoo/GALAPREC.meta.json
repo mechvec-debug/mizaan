@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:24:53Z",
+ "fetched_at": "2026-11-26T20:02:32Z",
  "first_date": "2024-09-09",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:05:02Z",
  "provider_symbol": "GALAPREC.NS",
- "rows": 546,
+ "rows": 547,
  "source": "yahoo",
  "symbol": "GALAPREC",
  "version": "v1"

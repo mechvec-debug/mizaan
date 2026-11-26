@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:21:37Z",
+ "fetched_at": "2026-11-26T19:59:16Z",
  "first_date": "2022-11-11",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:01:46Z",
  "provider_symbol": "DCXINDIA.NS",
- "rows": 996,
+ "rows": 997,
  "source": "yahoo",
  "symbol": "DCXINDIA",
  "version": "v1"

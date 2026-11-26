@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:30:29Z",
+ "fetched_at": "2026-11-26T20:08:08Z",
  "first_date": "2019-10-14",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:10:38Z",
  "provider_symbol": "IRCTC.NS",
- "rows": 1761,
+ "rows": 1762,
  "source": "yahoo",
  "symbol": "IRCTC",
  "version": "v1"

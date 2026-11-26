@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:53:19Z",
+ "fetched_at": "2026-11-26T20:30:58Z",
  "first_date": "2025-10-10",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:33:36Z",
  "provider_symbol": "WEWORK.NS",
- "rows": 275,
+ "rows": 276,
  "source": "yahoo",
  "symbol": "WEWORK",
  "version": "v1"

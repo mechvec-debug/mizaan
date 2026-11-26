@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:39:39Z",
+ "fetched_at": "2026-11-26T20:17:18Z",
  "first_date": "2018-05-14",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:19:48Z",
  "provider_symbol": "ORIENTELEC.NS",
- "rows": 2107,
+ "rows": 2108,
  "source": "yahoo",
  "symbol": "ORIENTELEC",
  "version": "v1"

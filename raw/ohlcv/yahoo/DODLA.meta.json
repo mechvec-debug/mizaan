@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:22:23Z",
+ "fetched_at": "2026-11-26T20:00:02Z",
  "first_date": "2021-06-28",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:02:32Z",
  "provider_symbol": "DODLA.NS",
- "rows": 1336,
+ "rows": 1337,
  "source": "yahoo",
  "symbol": "DODLA",
  "version": "v1"

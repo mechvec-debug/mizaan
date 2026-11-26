@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:33:31Z",
+ "fetched_at": "2026-11-26T20:11:10Z",
  "first_date": "2017-02-27",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:13:40Z",
  "provider_symbol": "KRISHANA.NS",
- "rows": 2404,
+ "rows": 2405,
  "source": "yahoo",
  "symbol": "KRISHANA",
  "version": "v1"

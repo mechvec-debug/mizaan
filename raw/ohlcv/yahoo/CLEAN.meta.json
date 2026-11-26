@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:20:29Z",
+ "fetched_at": "2026-11-26T19:58:08Z",
  "first_date": "2021-07-19",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:00:38Z",
  "provider_symbol": "CLEAN.NS",
- "rows": 1322,
+ "rows": 1323,
  "source": "yahoo",
  "symbol": "CLEAN",
  "version": "v1"

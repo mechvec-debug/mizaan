@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:52:11Z",
+ "fetched_at": "2026-11-26T20:29:50Z",
  "first_date": "2021-09-14",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:32:27Z",
  "provider_symbol": "VIJAYA.NS",
- "rows": 1283,
+ "rows": 1284,
  "source": "yahoo",
  "symbol": "VIJAYA",
  "version": "v1"

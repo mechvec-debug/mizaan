@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:53:59Z",
+ "fetched_at": "2026-11-26T20:31:38Z",
  "first_date": "2022-11-25",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:34:15Z",
  "provider_symbol": "ZIMLAB.NS",
- "rows": 986,
+ "rows": 987,
  "source": "yahoo",
  "symbol": "ZIMLAB",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:41:47Z",
+ "fetched_at": "2026-11-26T20:19:26Z",
  "first_date": "2016-11-24",
  "history_complete": false,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:21:56Z",
  "provider_symbol": "PROZONER.NS",
- "rows": 2470,
+ "rows": 2471,
  "source": "yahoo",
  "symbol": "PROZONER",
  "version": "v1"

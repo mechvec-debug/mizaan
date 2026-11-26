@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:37:13Z",
+ "fetched_at": "2026-11-26T20:14:52Z",
  "first_date": "2019-04-01",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:17:22Z",
  "provider_symbol": "MSTCLTD.NS",
- "rows": 1890,
+ "rows": 1891,
  "source": "yahoo",
  "symbol": "MSTCLTD",
  "version": "v1"

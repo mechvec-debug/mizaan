@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:21:55Z",
+ "fetched_at": "2026-11-26T19:59:34Z",
  "first_date": "2022-05-24",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:02:04Z",
  "provider_symbol": "DELHIVERY.NS",
- "rows": 1113,
+ "rows": 1114,
  "source": "yahoo",
  "symbol": "DELHIVERY",
  "version": "v1"

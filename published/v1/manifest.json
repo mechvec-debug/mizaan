@@ -1,61 +1,61 @@
 {
  "schema": 1,
- "generated_at": "2026-11-25T22:16:38Z",
+ "generated_at": "2026-11-26T21:53:42Z",
  "universe_version": "267cf075f1ed",
  "universe_count": 1228,
  "files": {
   "technical.json": {
    "path": "v1/technical.json",
-   "sha256": "de36fe99c7fc73e1cccf9d63cda38eeb62bfd9ad8aa65d71a59b7453ae95e37e",
-   "bytes": 827206,
-   "rows": 1124,
-   "as_of": "2026-11-26"
+   "sha256": "70a31967e50a519b856dd818cde7c8c570fefb808e96688423ec643eb93bf4ff",
+   "bytes": 827550,
+   "rows": 1125,
+   "as_of": "2026-11-27"
   },
   "fundamental.json": {
    "path": "v1/fundamental.json",
-   "sha256": "eee51ca61ad1278cddc4d4c331a8cc2a049d1b91cd3013e019cf15fd35c03e93",
-   "bytes": 531419,
+   "sha256": "d1cdafa9841ebf2c6a99f44a6d05773fa5595608d5819318e294637ca22774fd",
+   "bytes": 531348,
    "rows": 1171,
-   "as_of": "2026-11-25 20:54 UTC"
+   "as_of": "2026-11-26 20:31 UTC"
   },
   "shariah.json": {
    "path": "v1/shariah.json",
-   "sha256": "c68e7c3dd475dc1d94929214c2cd699500dec637ff7fe92161028bb3d25c088f",
-   "bytes": 1544413,
+   "sha256": "ba0a6ca5e050e4fe3dd60eae8add5424453da400e941e98041224d01205d8485",
+   "bytes": 1544407,
    "rows": 1228,
-   "as_of": "25 Nov 2026, 10:15 PM"
+   "as_of": "26 Nov 2026, 09:53 PM"
   },
   "universe.json": {
    "path": "v1/universe.json",
-   "sha256": "82940b1f3b4ce47da4051dca4090938a59ea2a306c7b4d0c905da6336f3d4d76",
+   "sha256": "bba5b8b4b66d783bb9ab5840a7e019b5c91820f12e654825ff1d89e975ff36cd",
    "bytes": 12687,
    "rows": 1228,
-   "as_of": "2026-11-25"
+   "as_of": "2026-11-26"
   },
   "status.json": {
    "path": "v1/status.json",
-   "sha256": "b871a596b2f927fc3d8c1c478e01ad9cdec45b753eca51602157f5c03438d043",
-   "bytes": 985,
+   "sha256": "b41ecc81799763ae92aecbae046fadcc11b0fe2c6f591790dd9f7ebf45e4a41c",
+   "bytes": 1036,
    "rows": null,
-   "as_of": "2026-11-25T22:16:38Z"
+   "as_of": "2026-11-26T21:53:42Z"
   }
  },
  "modules": {
   "technical": {
-   "status": null,
-   "as_of": "2026-11-26",
+   "status": "ok",
+   "as_of": "2026-11-27",
    "published": true,
    "stale": false
   },
   "fundamental": {
-   "status": null,
-   "as_of": "2026-11-25 20:54 UTC",
+   "status": "ok",
+   "as_of": "2026-11-26 20:31 UTC",
    "published": true,
    "stale": false
   },
   "shariah": {
-   "status": null,
-   "as_of": "25 Nov 2026, 10:15 PM",
+   "status": "ok",
+   "as_of": "26 Nov 2026, 09:53 PM",
    "published": true,
    "stale": false
   },

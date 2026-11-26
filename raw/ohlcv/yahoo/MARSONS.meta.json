@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:35:49Z",
+ "fetched_at": "2026-11-26T20:13:28Z",
  "first_date": "2026-03-13",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:15:58Z",
  "provider_symbol": "MARSONS.NS",
- "rows": 171,
+ "rows": 172,
  "source": "yahoo",
  "symbol": "MARSONS",
  "version": "v1"

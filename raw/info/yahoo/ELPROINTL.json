@@ -1,16 +1,16 @@
 {
  "data": {
   "52WeekChange": 0.6711912,
-  "SandP52WeekChange": 0.057023644,
-  "_fast_market_cap": 29838495214.032593,
+  "SandP52WeekChange": 0.04872036,
+  "_fast_market_cap": 29838495627.8,
   "address1": "Nirmal",
   "address2": "17th Floor Nariman Point",
   "allTimeHigh": 180.89,
   "allTimeLow": 102.0,
   "ask": 0.0,
   "averageDailyVolume10Day": 48170,
-  "averageDailyVolume3Month": 14507,
-  "averageVolume": 14507,
+  "averageDailyVolume3Month": 14577,
+  "averageVolume": 14577,
   "averageVolume10days": 48170,
   "beta": 0.626,
   "bid": 0.0,
@@ -170,7 +170,7 @@
   "website": "https://www.elpro.co.in",
   "zip": "400 021"
  },
- "fetched_at": "2026-11-25T21:14:03Z",
+ "fetched_at": "2026-11-26T20:51:42Z",
  "key": "info|yahoo|ELPROINTL|snapshot|v1",
  "version": "v1"
 }

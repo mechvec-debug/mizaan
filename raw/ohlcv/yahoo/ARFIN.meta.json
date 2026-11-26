@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:15:35Z",
+ "fetched_at": "2026-11-26T19:53:14Z",
  "first_date": "2025-07-22",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T20:55:44Z",
  "provider_symbol": "ARFIN.NS",
- "rows": 330,
+ "rows": 331,
  "source": "yahoo",
  "symbol": "ARFIN",
  "version": "v1"

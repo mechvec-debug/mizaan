@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:20:23Z",
+ "fetched_at": "2026-11-26T19:58:02Z",
  "first_date": "2022-06-20",
  "history_complete": true,
- "last_date": "2026-11-23",
+ "last_date": "2026-11-25",
  "last_full_refresh_at": "2026-11-24T21:00:32Z",
  "provider_symbol": "CHEVIOT.NS",
- "rows": 1094,
+ "rows": 1095,
  "source": "yahoo",
  "symbol": "CHEVIOT",
  "version": "v1"

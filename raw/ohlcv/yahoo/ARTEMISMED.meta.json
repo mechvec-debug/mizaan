@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-25T20:15:49Z",
+ "fetched_at": "2026-11-26T19:53:28Z",
  "first_date": "2020-01-24",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-26",
  "last_full_refresh_at": "2026-11-24T20:55:58Z",
  "provider_symbol": "ARTEMISMED.NS",
- "rows": 1669,
+ "rows": 1670,
  "source": "yahoo",
  "symbol": "ARTEMISMED",
  "version": "v1"
