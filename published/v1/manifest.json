@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-26T21:54:48Z",
+ "generated_at": "2026-11-27T17:46:48Z",
  "universe_version": "267cf075f1ed",
  "universe_count": 1228,
  "files": {
@@ -27,17 +27,17 @@
   },
   "universe.json": {
    "path": "v1/universe.json",
-   "sha256": "bba5b8b4b66d783bb9ab5840a7e019b5c91820f12e654825ff1d89e975ff36cd",
+   "sha256": "04662c20f8dbebfc4e078899a0c2993c560d8178ad93a876cf63bc9d1fa65ea8",
    "bytes": 12687,
    "rows": 1228,
-   "as_of": "2026-11-26"
+   "as_of": "2026-11-27"
   },
   "status.json": {
    "path": "v1/status.json",
-   "sha256": "6c98a9fe21eb9af7291a3ac36eb06a9cc634ee16610a1c0d800b5e7c2d6655e3",
+   "sha256": "34d3625294a7f46b230241326f8e2f4412639316c50a89c127d7b806cb1ecf17",
    "bytes": 985,
    "rows": null,
-   "as_of": "2026-11-26T21:54:48Z"
+   "as_of": "2026-11-27T17:46:48Z"
   }
  },
  "modules": {
