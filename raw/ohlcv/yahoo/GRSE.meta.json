@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:04:38Z",
+ "fetched_at": "2026-11-27T18:06:52Z",
  "first_date": "2018-10-24",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:07:08Z",
  "provider_symbol": "GRSE.NS",
- "rows": 1997,
+ "rows": 1999,
  "source": "yahoo",
  "symbol": "GRSE",
  "version": "v1"

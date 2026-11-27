@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:05:00Z",
+ "fetched_at": "2026-11-27T18:07:14Z",
  "first_date": "2023-12-27",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:07:30Z",
  "provider_symbol": "HAPPYFORGE.NS",
- "rows": 719,
+ "rows": 721,
  "source": "yahoo",
  "symbol": "HAPPYFORGE",
  "version": "v1"

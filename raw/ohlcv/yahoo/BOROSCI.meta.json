@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:56:50Z",
+ "fetched_at": "2026-11-27T17:59:04Z",
  "first_date": "2024-06-07",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:59:20Z",
  "provider_symbol": "BOROSCI.NS",
- "rows": 610,
+ "rows": 612,
  "source": "yahoo",
  "symbol": "BOROSCI",
  "version": "v1"

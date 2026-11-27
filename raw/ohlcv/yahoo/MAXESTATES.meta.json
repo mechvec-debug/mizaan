@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:13:34Z",
+ "fetched_at": "2026-11-27T18:15:48Z",
  "first_date": "2023-10-30",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:16:04Z",
  "provider_symbol": "MAXESTATES.NS",
- "rows": 757,
+ "rows": 759,
  "source": "yahoo",
  "symbol": "MAXESTATES",
  "version": "v1"

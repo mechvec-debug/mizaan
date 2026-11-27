@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:08:12Z",
+ "fetched_at": "2026-11-27T18:10:26Z",
  "first_date": "2018-11-16",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:10:42Z",
  "provider_symbol": "IRISDOREME.NS",
- "rows": 1979,
+ "rows": 1981,
  "source": "yahoo",
  "symbol": "IRISDOREME",
  "version": "v1"

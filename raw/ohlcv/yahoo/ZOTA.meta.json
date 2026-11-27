@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:31:40Z",
+ "fetched_at": "2026-11-27T18:33:54Z",
  "first_date": "2017-05-10",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-26",
  "last_full_refresh_at": "2026-11-24T21:34:17Z",
  "provider_symbol": "ZOTA.NS",
- "rows": 2357,
+ "rows": 2358,
  "source": "yahoo",
  "symbol": "ZOTA",
  "version": "v1"

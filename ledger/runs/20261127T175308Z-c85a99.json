@@ -1,0 +1,14 @@
+{
+ "cache_hits": {
+  "info": 1228,
+  "ohlcv": 2456,
+  "statements": 2399,
+  "xbrl": 5
+ },
+ "downloads": {
+  "info": 1228,
+  "ohlcv": 1228
+ },
+ "failures": {},
+ "run_id": "20261127T175308Z-c85a99"
+}

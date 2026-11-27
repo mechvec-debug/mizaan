@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:13:36Z",
+ "fetched_at": "2026-11-27T18:15:50Z",
  "first_date": "2020-08-21",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:16:06Z",
  "provider_symbol": "MAXHEALTH.NS",
- "rows": 1549,
+ "rows": 1551,
  "source": "yahoo",
  "symbol": "MAXHEALTH",
  "version": "v1"

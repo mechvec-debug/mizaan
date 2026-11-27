@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:23:44Z",
+ "fetched_at": "2026-11-27T18:25:59Z",
  "first_date": "2019-08-19",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:26:22Z",
  "provider_symbol": "SHREDIGCEM.NS",
- "rows": 1798,
+ "rows": 1800,
  "source": "yahoo",
  "symbol": "SHREDIGCEM",
  "version": "v1"

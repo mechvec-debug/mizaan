@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:56:18Z",
+ "fetched_at": "2026-11-27T17:58:32Z",
  "first_date": "2023-04-19",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:58:48Z",
  "provider_symbol": "BLAL.NS",
- "rows": 890,
+ "rows": 892,
  "source": "yahoo",
  "symbol": "BLAL",
  "version": "v1"

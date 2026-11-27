@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:11:14Z",
+ "fetched_at": "2026-11-27T18:13:28Z",
  "first_date": "2024-10-03",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:13:44Z",
  "provider_symbol": "KRN.NS",
- "rows": 531,
+ "rows": 533,
  "source": "yahoo",
  "symbol": "KRN",
  "version": "v1"

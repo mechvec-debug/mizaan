@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:58:14Z",
+ "fetched_at": "2026-11-27T18:00:28Z",
  "first_date": "2026-07-24",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:00:44Z",
  "provider_symbol": "CMLL.NS",
- "rows": 84,
+ "rows": 86,
  "source": "yahoo",
  "symbol": "CMLL",
  "version": "v1"

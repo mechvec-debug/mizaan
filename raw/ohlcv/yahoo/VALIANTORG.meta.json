@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:29:20Z",
+ "fetched_at": "2026-11-27T18:31:34Z",
  "first_date": "2020-10-05",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-26",
  "last_full_refresh_at": "2026-11-24T21:31:58Z",
  "provider_symbol": "VALIANTORG.NS",
- "rows": 1518,
+ "rows": 1519,
  "source": "yahoo",
  "symbol": "VALIANTORG",
  "version": "v1"

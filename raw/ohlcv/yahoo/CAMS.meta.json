@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:57:10Z",
+ "fetched_at": "2026-11-27T17:59:24Z",
  "first_date": "2020-10-05",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:59:40Z",
  "provider_symbol": "CAMS.NS",
- "rows": 1519,
+ "rows": 1521,
  "source": "yahoo",
  "symbol": "CAMS",
  "version": "v1"

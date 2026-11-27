@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:21:44Z",
+ "fetched_at": "2026-11-27T18:23:58Z",
  "first_date": "2025-10-16",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:24:22Z",
  "provider_symbol": "RUBICON.NS",
- "rows": 272,
+ "rows": 274,
  "source": "yahoo",
  "symbol": "RUBICON",
  "version": "v1"

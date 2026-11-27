@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:18:20Z",
+ "fetched_at": "2026-11-27T18:20:34Z",
  "first_date": "2025-11-14",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:20:50Z",
  "provider_symbol": "PINELABS.NS",
- "rows": 254,
+ "rows": 256,
  "source": "yahoo",
  "symbol": "PINELABS",
  "version": "v1"

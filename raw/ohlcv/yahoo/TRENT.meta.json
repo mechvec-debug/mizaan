@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:28:24Z",
+ "fetched_at": "2026-11-27T18:30:38Z",
  "first_date": "2016-11-24",
  "history_complete": false,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-26",
  "last_full_refresh_at": "2026-11-24T21:31:01Z",
  "provider_symbol": "TRENT.NS",
- "rows": 2472,
+ "rows": 2473,
  "source": "yahoo",
  "symbol": "TRENT",
  "version": "v1"

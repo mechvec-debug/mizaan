@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:21:26Z",
+ "fetched_at": "2026-11-27T18:23:40Z",
  "first_date": "2020-09-21",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:24:04Z",
  "provider_symbol": "ROUTE.NS",
- "rows": 1528,
+ "rows": 1530,
  "source": "yahoo",
  "symbol": "ROUTE",
  "version": "v1"

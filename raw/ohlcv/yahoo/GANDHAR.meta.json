@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:02:38Z",
+ "fetched_at": "2026-11-27T18:04:52Z",
  "first_date": "2023-11-30",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:05:08Z",
  "provider_symbol": "GANDHAR.NS",
- "rows": 737,
+ "rows": 739,
  "source": "yahoo",
  "symbol": "GANDHAR",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:11:38Z",
+ "fetched_at": "2026-11-27T18:13:52Z",
  "first_date": "2026-08-24",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:14:08Z",
  "provider_symbol": "LALITHAA.NS",
- "rows": 63,
+ "rows": 65,
  "source": "yahoo",
  "symbol": "LALITHAA",
  "version": "v1"

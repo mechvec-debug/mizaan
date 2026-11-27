@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:53:24Z",
+ "fetched_at": "2026-11-27T17:55:38Z",
  "first_date": "2024-09-24",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:55:54Z",
  "provider_symbol": "ARKADE.NS",
- "rows": 537,
+ "rows": 539,
  "source": "yahoo",
  "symbol": "ARKADE",
  "version": "v1"

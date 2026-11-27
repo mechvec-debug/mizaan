@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:24:54Z",
+ "fetched_at": "2026-11-27T18:27:09Z",
  "first_date": "2018-02-19",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:27:32Z",
  "provider_symbol": "SOUTHWEST.NS",
- "rows": 2164,
+ "rows": 2166,
  "source": "yahoo",
  "symbol": "SOUTHWEST",
  "version": "v1"

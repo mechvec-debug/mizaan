@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:12:22Z",
+ "fetched_at": "2026-11-27T18:14:36Z",
  "first_date": "2025-08-06",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:14:52Z",
  "provider_symbol": "LOTUSDEV.NS",
- "rows": 321,
+ "rows": 323,
  "source": "yahoo",
  "symbol": "LOTUSDEV",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:23:12Z",
+ "fetched_at": "2026-11-27T18:25:26Z",
  "first_date": "2026-01-28",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:25:49Z",
  "provider_symbol": "SHADOWFAX.NS",
- "rows": 203,
+ "rows": 205,
  "source": "yahoo",
  "symbol": "SHADOWFAX",
  "version": "v1"

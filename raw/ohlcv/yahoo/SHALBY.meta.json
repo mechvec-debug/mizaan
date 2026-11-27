@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:23:16Z",
+ "fetched_at": "2026-11-27T18:25:30Z",
  "first_date": "2017-12-15",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:25:54Z",
  "provider_symbol": "SHALBY.NS",
- "rows": 2207,
+ "rows": 2209,
  "source": "yahoo",
  "symbol": "SHALBY",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:12:28Z",
+ "fetched_at": "2026-11-27T18:14:42Z",
  "first_date": "2026-09-03",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:14:58Z",
  "provider_symbol": "LUMINO.NS",
- "rows": 55,
+ "rows": 57,
  "source": "yahoo",
  "symbol": "LUMINO",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:54:26Z",
+ "fetched_at": "2026-11-27T17:56:40Z",
  "first_date": "2024-07-31",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:56:56Z",
  "provider_symbol": "AVANTEL.NS",
- "rows": 574,
+ "rows": 576,
  "source": "yahoo",
  "symbol": "AVANTEL",
  "version": "v1"

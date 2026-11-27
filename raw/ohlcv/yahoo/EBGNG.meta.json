@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:00:24Z",
+ "fetched_at": "2026-11-27T18:02:38Z",
  "first_date": "2025-07-30",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:02:54Z",
  "provider_symbol": "EBGNG.NS",
- "rows": 325,
+ "rows": 327,
  "source": "yahoo",
  "symbol": "EBGNG",
  "version": "v1"

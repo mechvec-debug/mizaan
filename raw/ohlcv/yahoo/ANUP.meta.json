@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:52:50Z",
+ "fetched_at": "2026-11-27T17:55:04Z",
  "first_date": "2019-03-01",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:55:20Z",
  "provider_symbol": "ANUP.NS",
- "rows": 1909,
+ "rows": 1911,
  "source": "yahoo",
  "symbol": "ANUP",
  "version": "v1"

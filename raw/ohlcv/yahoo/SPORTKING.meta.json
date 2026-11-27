@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:25:06Z",
+ "fetched_at": "2026-11-27T18:27:20Z",
  "first_date": "2022-08-24",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:27:44Z",
  "provider_symbol": "SPORTKING.NS",
- "rows": 1049,
+ "rows": 1051,
  "source": "yahoo",
  "symbol": "SPORTKING",
  "version": "v1"

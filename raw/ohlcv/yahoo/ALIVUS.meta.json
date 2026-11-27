@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:52:16Z",
+ "fetched_at": "2026-11-27T17:54:30Z",
  "first_date": "2021-08-06",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:54:46Z",
  "provider_symbol": "ALIVUS.NS",
- "rows": 1309,
+ "rows": 1311,
  "source": "yahoo",
  "symbol": "ALIVUS",
  "version": "v1"

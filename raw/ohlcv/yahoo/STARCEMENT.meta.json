@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:25:24Z",
+ "fetched_at": "2026-11-27T18:27:38Z",
  "first_date": "2017-06-19",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:28:02Z",
  "provider_symbol": "STARCEMENT.NS",
- "rows": 2330,
+ "rows": 2332,
  "source": "yahoo",
  "symbol": "STARCEMENT",
  "version": "v1"

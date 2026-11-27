@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:04:18Z",
+ "fetched_at": "2026-11-27T18:06:32Z",
  "first_date": "2021-08-05",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:06:48Z",
  "provider_symbol": "GRAUWEIL.NS",
- "rows": 733,
+ "rows": 735,
  "source": "yahoo",
  "symbol": "GRAUWEIL",
  "version": "v1"

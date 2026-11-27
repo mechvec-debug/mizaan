@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:17:22Z",
+ "fetched_at": "2026-11-27T18:19:36Z",
  "first_date": "2025-11-06",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:19:52Z",
  "provider_symbol": "ORKLAINDIA.NS",
- "rows": 260,
+ "rows": 262,
  "source": "yahoo",
  "symbol": "ORKLAINDIA",
  "version": "v1"

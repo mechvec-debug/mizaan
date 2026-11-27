@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:10:22Z",
+ "fetched_at": "2026-11-27T18:12:36Z",
  "first_date": "2021-06-28",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:12:52Z",
  "provider_symbol": "KIMS.NS",
- "rows": 1338,
+ "rows": 1340,
  "source": "yahoo",
  "symbol": "KIMS",
  "version": "v1"

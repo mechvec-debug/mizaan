@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:30:48Z",
+ "fetched_at": "2026-11-27T18:33:02Z",
  "first_date": "2019-08-22",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-26",
  "last_full_refresh_at": "2026-11-24T21:33:26Z",
  "provider_symbol": "WEL.NS",
- "rows": 1794,
+ "rows": 1795,
  "source": "yahoo",
  "symbol": "WEL",
  "version": "v1"

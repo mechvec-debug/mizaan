@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:59:50Z",
+ "fetched_at": "2026-11-27T18:02:04Z",
  "first_date": "2025-06-11",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:02:20Z",
  "provider_symbol": "DIGITIDE.NS",
- "rows": 360,
+ "rows": 362,
  "source": "yahoo",
  "symbol": "DIGITIDE",
  "version": "v1"

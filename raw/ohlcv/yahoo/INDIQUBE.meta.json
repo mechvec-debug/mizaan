@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:07:10Z",
+ "fetched_at": "2026-11-27T18:09:24Z",
  "first_date": "2025-07-30",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:09:40Z",
  "provider_symbol": "INDIQUBE.NS",
- "rows": 325,
+ "rows": 327,
  "source": "yahoo",
  "symbol": "INDIQUBE",
  "version": "v1"

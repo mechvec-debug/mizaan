@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:07:04Z",
+ "fetched_at": "2026-11-27T18:09:18Z",
  "first_date": "2019-07-04",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:09:34Z",
  "provider_symbol": "INDIAMART.NS",
- "rows": 1828,
+ "rows": 1830,
  "source": "yahoo",
  "symbol": "INDIAMART",
  "version": "v1"

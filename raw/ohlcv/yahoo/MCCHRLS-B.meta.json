@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:13:48Z",
+ "fetched_at": "2026-11-27T18:16:02Z",
  "first_date": "2026-08-18",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:16:18Z",
  "provider_symbol": "MCCHRLS-B.NS",
- "rows": 67,
+ "rows": 69,
  "source": "yahoo",
  "symbol": "MCCHRLS-B",
  "version": "v1"

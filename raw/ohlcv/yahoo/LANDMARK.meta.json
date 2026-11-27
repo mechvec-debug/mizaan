@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:11:42Z",
+ "fetched_at": "2026-11-27T18:13:56Z",
  "first_date": "2022-12-23",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:14:12Z",
  "provider_symbol": "LANDMARK.NS",
- "rows": 966,
+ "rows": 968,
  "source": "yahoo",
  "symbol": "LANDMARK",
  "version": "v1"

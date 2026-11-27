@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:29:22Z",
+ "fetched_at": "2026-11-27T18:31:36Z",
  "first_date": "2026-06-15",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-26",
  "last_full_refresh_at": "2026-11-24T21:31:59Z",
  "provider_symbol": "VAML.NS",
- "rows": 112,
+ "rows": 113,
  "source": "yahoo",
  "symbol": "VAML",
  "version": "v1"

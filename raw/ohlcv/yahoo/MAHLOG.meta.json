@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:12:48Z",
+ "fetched_at": "2026-11-27T18:15:02Z",
  "first_date": "2017-11-10",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:15:18Z",
  "provider_symbol": "MAHLOG.NS",
- "rows": 2232,
+ "rows": 2234,
  "source": "yahoo",
  "symbol": "MAHLOG",
  "version": "v1"

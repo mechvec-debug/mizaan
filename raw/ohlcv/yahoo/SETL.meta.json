@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:23:04Z",
+ "fetched_at": "2026-11-27T18:25:18Z",
  "first_date": "2025-01-13",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:25:42Z",
  "provider_symbol": "SETL.NS",
- "rows": 462,
+ "rows": 464,
  "source": "yahoo",
  "symbol": "SETL",
  "version": "v1"

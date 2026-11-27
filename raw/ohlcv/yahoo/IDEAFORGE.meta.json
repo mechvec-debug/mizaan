@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:06:34Z",
+ "fetched_at": "2026-11-27T18:08:49Z",
  "first_date": "2023-07-07",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:09:04Z",
  "provider_symbol": "IDEAFORGE.NS",
- "rows": 835,
+ "rows": 837,
  "source": "yahoo",
  "symbol": "IDEAFORGE",
  "version": "v1"

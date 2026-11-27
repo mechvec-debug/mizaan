@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:02:46Z",
+ "fetched_at": "2026-11-27T18:05:00Z",
  "first_date": "2025-09-29",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:05:16Z",
  "provider_symbol": "GANESHCP.NS",
- "rows": 284,
+ "rows": 286,
  "source": "yahoo",
  "symbol": "GANESHCP",
  "version": "v1"

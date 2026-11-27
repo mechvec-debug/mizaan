@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:24:44Z",
+ "fetched_at": "2026-11-27T18:26:58Z",
  "first_date": "2018-02-06",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:27:21Z",
  "provider_symbol": "SOLEX.NS",
- "rows": 2168,
+ "rows": 2170,
  "source": "yahoo",
  "symbol": "SOLEX",
  "version": "v1"

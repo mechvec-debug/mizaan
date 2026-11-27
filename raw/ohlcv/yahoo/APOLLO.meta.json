@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:53:02Z",
+ "fetched_at": "2026-11-27T17:55:17Z",
  "first_date": "2018-01-22",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:55:32Z",
  "provider_symbol": "APOLLO.NS",
- "rows": 2182,
+ "rows": 2184,
  "source": "yahoo",
  "symbol": "APOLLO",
  "version": "v1"

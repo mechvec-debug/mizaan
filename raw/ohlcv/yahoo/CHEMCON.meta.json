@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:57:54Z",
+ "fetched_at": "2026-11-27T18:00:08Z",
  "first_date": "2020-10-01",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:00:24Z",
  "provider_symbol": "CHEMCON.NS",
- "rows": 1519,
+ "rows": 1521,
  "source": "yahoo",
  "symbol": "CHEMCON",
  "version": "v1"

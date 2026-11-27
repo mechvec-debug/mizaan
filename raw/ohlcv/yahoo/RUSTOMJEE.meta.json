@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:21:50Z",
+ "fetched_at": "2026-11-27T18:24:04Z",
  "first_date": "2022-11-24",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:24:28Z",
  "provider_symbol": "RUSTOMJEE.NS",
- "rows": 987,
+ "rows": 989,
  "source": "yahoo",
  "symbol": "RUSTOMJEE",
  "version": "v1"

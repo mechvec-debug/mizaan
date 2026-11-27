@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:14:20Z",
+ "fetched_at": "2026-11-27T18:16:34Z",
  "first_date": "2018-04-26",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:16:50Z",
  "provider_symbol": "MMP.NS",
- "rows": 2117,
+ "rows": 2119,
  "source": "yahoo",
  "symbol": "MMP",
  "version": "v1"

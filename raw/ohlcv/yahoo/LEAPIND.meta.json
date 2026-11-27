@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:11:56Z",
+ "fetched_at": "2026-11-27T18:14:10Z",
  "first_date": "2026-08-14",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:14:26Z",
  "provider_symbol": "LEAPIND.NS",
- "rows": 69,
+ "rows": 71,
  "source": "yahoo",
  "symbol": "LEAPIND",
  "version": "v1"

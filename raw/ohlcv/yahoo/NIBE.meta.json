@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:15:56Z",
+ "fetched_at": "2026-11-27T18:18:10Z",
  "first_date": "2025-02-07",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:18:26Z",
  "provider_symbol": "NIBE.NS",
- "rows": 442,
+ "rows": 444,
  "source": "yahoo",
  "symbol": "NIBE",
  "version": "v1"

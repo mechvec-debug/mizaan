@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:51:54Z",
+ "fetched_at": "2026-11-27T17:54:08Z",
  "first_date": "2019-08-08",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:54:24Z",
  "provider_symbol": "AFFLE.NS",
- "rows": 1803,
+ "rows": 1805,
  "source": "yahoo",
  "symbol": "AFFLE",
  "version": "v1"

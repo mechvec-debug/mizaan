@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:54:08Z",
+ "fetched_at": "2026-11-27T17:56:22Z",
  "first_date": "2025-05-06",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:56:38Z",
  "provider_symbol": "ATHERENERG.NS",
- "rows": 387,
+ "rows": 389,
  "source": "yahoo",
  "symbol": "ATHERENERG",
  "version": "v1"

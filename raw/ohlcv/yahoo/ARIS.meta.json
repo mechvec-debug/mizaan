@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:53:22Z",
+ "fetched_at": "2026-11-27T17:55:36Z",
  "first_date": "2025-06-25",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:55:52Z",
  "provider_symbol": "ARIS.NS",
- "rows": 351,
+ "rows": 353,
  "source": "yahoo",
  "symbol": "ARIS",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:55:20Z",
+ "fetched_at": "2026-11-27T17:57:35Z",
  "first_date": "2018-03-23",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:57:50Z",
  "provider_symbol": "BDL.NS",
- "rows": 2141,
+ "rows": 2143,
  "source": "yahoo",
  "symbol": "BDL",
  "version": "v1"

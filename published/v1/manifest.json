@@ -1,29 +1,29 @@
 {
  "schema": 1,
- "generated_at": "2026-11-27T17:46:48Z",
+ "generated_at": "2026-11-27T19:55:58Z",
  "universe_version": "267cf075f1ed",
  "universe_count": 1228,
  "files": {
   "technical.json": {
    "path": "v1/technical.json",
-   "sha256": "70a31967e50a519b856dd818cde7c8c570fefb808e96688423ec643eb93bf4ff",
-   "bytes": 827550,
-   "rows": 1125,
+   "sha256": "c5bda5ebd3dc0f759b97cbaa2720c3b5b2fe9785506abb302938fd97ecad94cf",
+   "bytes": 828325,
+   "rows": 1126,
    "as_of": "2026-11-27"
   },
   "fundamental.json": {
    "path": "v1/fundamental.json",
-   "sha256": "d1cdafa9841ebf2c6a99f44a6d05773fa5595608d5819318e294637ca22774fd",
-   "bytes": 531348,
+   "sha256": "f22e90dd8d4b72966460e15cf1053933e5db2e59c390a2e5053d8bfdf7daf11b",
+   "bytes": 531269,
    "rows": 1171,
-   "as_of": "2026-11-26 20:31 UTC"
+   "as_of": "2026-11-27 18:34 UTC"
   },
   "shariah.json": {
    "path": "v1/shariah.json",
-   "sha256": "ba0a6ca5e050e4fe3dd60eae8add5424453da400e941e98041224d01205d8485",
-   "bytes": 1544407,
+   "sha256": "2c1a44d49607f8952dbaba9895921e41b57d287b1003f69f695856de13bd44a1",
+   "bytes": 1544450,
    "rows": 1228,
-   "as_of": "26 Nov 2026, 09:53 PM"
+   "as_of": "27 Nov 2026, 07:55 PM"
   },
   "universe.json": {
    "path": "v1/universe.json",
@@ -34,28 +34,28 @@
   },
   "status.json": {
    "path": "v1/status.json",
-   "sha256": "34d3625294a7f46b230241326f8e2f4412639316c50a89c127d7b806cb1ecf17",
-   "bytes": 985,
+   "sha256": "cf2525de0419abcc03f055700f1ff0bba5968affe8c61e3fcf6f8383bcf96280",
+   "bytes": 1036,
    "rows": null,
-   "as_of": "2026-11-27T17:46:48Z"
+   "as_of": "2026-11-27T19:55:58Z"
   }
  },
  "modules": {
   "technical": {
-   "status": null,
+   "status": "ok",
    "as_of": "2026-11-27",
    "published": true,
    "stale": false
   },
   "fundamental": {
-   "status": null,
-   "as_of": "2026-11-26 20:31 UTC",
+   "status": "ok",
+   "as_of": "2026-11-27 18:34 UTC",
    "published": true,
    "stale": false
   },
   "shariah": {
-   "status": null,
-   "as_of": "26 Nov 2026, 09:53 PM",
+   "status": "ok",
+   "as_of": "27 Nov 2026, 07:55 PM",
    "published": true,
    "stale": false
   },

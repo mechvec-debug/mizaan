@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:01:12Z",
+ "fetched_at": "2026-11-27T18:03:26Z",
  "first_date": "2024-02-16",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:03:42Z",
  "provider_symbol": "ENTERO.NS",
- "rows": 684,
+ "rows": 686,
  "source": "yahoo",
  "symbol": "ENTERO",
  "version": "v1"

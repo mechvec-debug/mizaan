@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:12:02Z",
+ "fetched_at": "2026-11-27T18:14:17Z",
  "first_date": "2025-10-14",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:14:32Z",
  "provider_symbol": "LGEINDIA.NS",
- "rows": 275,
+ "rows": 277,
  "source": "yahoo",
  "symbol": "LGEINDIA",
  "version": "v1"

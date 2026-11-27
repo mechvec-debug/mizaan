@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:05:54Z",
+ "fetched_at": "2026-11-27T18:08:09Z",
  "first_date": "2019-12-26",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:08:24Z",
  "provider_symbol": "HINDWAREAP.NS",
- "rows": 1712,
+ "rows": 1714,
  "source": "yahoo",
  "symbol": "HINDWAREAP",
  "version": "v1"

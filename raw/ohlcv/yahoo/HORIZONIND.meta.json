@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:06:16Z",
+ "fetched_at": "2026-11-27T18:08:30Z",
  "first_date": "2026-08-24",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:08:46Z",
  "provider_symbol": "HORIZONIND.NS",
- "rows": 63,
+ "rows": 65,
  "source": "yahoo",
  "symbol": "HORIZONIND",
  "version": "v1"

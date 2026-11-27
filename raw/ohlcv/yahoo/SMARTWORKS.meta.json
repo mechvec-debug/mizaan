@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:24:32Z",
+ "fetched_at": "2026-11-27T18:26:46Z",
  "first_date": "2025-07-17",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:27:09Z",
  "provider_symbol": "SMARTWORKS.NS",
- "rows": 334,
+ "rows": 336,
  "source": "yahoo",
  "symbol": "SMARTWORKS",
  "version": "v1"

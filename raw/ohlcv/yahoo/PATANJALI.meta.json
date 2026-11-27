@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:17:48Z",
+ "fetched_at": "2026-11-27T18:20:02Z",
  "first_date": "2016-11-24",
  "history_complete": false,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:20:18Z",
  "provider_symbol": "PATANJALI.NS",
- "rows": 2472,
+ "rows": 2474,
  "source": "yahoo",
  "symbol": "PATANJALI",
  "version": "v1"

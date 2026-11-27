@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:59:02Z",
+ "fetched_at": "2026-11-27T18:01:16Z",
  "first_date": "2018-12-21",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:01:32Z",
  "provider_symbol": "DALBHARAT.NS",
- "rows": 1957,
+ "rows": 1959,
  "source": "yahoo",
  "symbol": "DALBHARAT",
  "version": "v1"

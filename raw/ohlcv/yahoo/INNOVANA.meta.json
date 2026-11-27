@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:07:38Z",
+ "fetched_at": "2026-11-27T18:09:52Z",
  "first_date": "2017-12-12",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:10:08Z",
  "provider_symbol": "INNOVANA.NS",
- "rows": 2207,
+ "rows": 2209,
  "source": "yahoo",
  "symbol": "INNOVANA",
  "version": "v1"

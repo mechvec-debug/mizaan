@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:27:18Z",
+ "fetched_at": "2026-11-27T18:29:32Z",
  "first_date": "2016-12-15",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:29:56Z",
  "provider_symbol": "TCIEXP.NS",
- "rows": 2456,
+ "rows": 2458,
  "source": "yahoo",
  "symbol": "TCIEXP",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:28:20Z",
+ "fetched_at": "2026-11-27T18:30:34Z",
  "first_date": "2026-04-22",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-26",
  "last_full_refresh_at": "2026-11-24T21:30:58Z",
  "provider_symbol": "TRANSPEK.NS",
- "rows": 148,
+ "rows": 149,
  "source": "yahoo",
  "symbol": "TRANSPEK",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:05:26Z",
+ "fetched_at": "2026-11-27T18:07:40Z",
  "first_date": "2016-11-24",
  "history_complete": false,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:07:56Z",
  "provider_symbol": "HEROMOTOCO.NS",
- "rows": 2472,
+ "rows": 2474,
  "source": "yahoo",
  "symbol": "HEROMOTOCO",
  "version": "v1"

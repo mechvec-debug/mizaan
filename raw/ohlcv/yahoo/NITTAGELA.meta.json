@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:16:12Z",
+ "fetched_at": "2026-11-27T18:18:26Z",
  "first_date": "2026-04-23",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:18:42Z",
  "provider_symbol": "NITTAGELA.NS",
- "rows": 147,
+ "rows": 149,
  "source": "yahoo",
  "symbol": "NITTAGELA",
  "version": "v1"

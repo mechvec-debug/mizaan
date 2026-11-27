@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:29:08Z",
+ "fetched_at": "2026-11-27T18:31:22Z",
  "first_date": "2025-09-17",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-26",
  "last_full_refresh_at": "2026-11-24T21:31:46Z",
  "provider_symbol": "URBANCO.NS",
- "rows": 293,
+ "rows": 294,
  "source": "yahoo",
  "symbol": "URBANCO",
  "version": "v1"

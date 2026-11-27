@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:23:46Z",
+ "fetched_at": "2026-11-27T18:26:00Z",
  "first_date": "2025-08-26",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:26:24Z",
  "provider_symbol": "SHREEJISPG.NS",
- "rows": 308,
+ "rows": 310,
  "source": "yahoo",
  "symbol": "SHREEJISPG",
  "version": "v1"

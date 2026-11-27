@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:56:10Z",
+ "fetched_at": "2026-11-27T17:58:24Z",
  "first_date": "2016-11-24",
  "history_complete": false,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:58:40Z",
  "provider_symbol": "BIRLACORPN.NS",
- "rows": 2471,
+ "rows": 2473,
  "source": "yahoo",
  "symbol": "BIRLACORPN",
  "version": "v1"

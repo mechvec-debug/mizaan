@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:09:26Z",
+ "fetched_at": "2026-11-27T18:11:40Z",
  "first_date": "2023-10-03",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:11:56Z",
  "provider_symbol": "JSWINFRA.NS",
- "rows": 776,
+ "rows": 778,
  "source": "yahoo",
  "symbol": "JSWINFRA",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:56:46Z",
+ "fetched_at": "2026-11-27T17:59:00Z",
  "first_date": "2020-07-22",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:59:16Z",
  "provider_symbol": "BOROLTD.NS",
- "rows": 1571,
+ "rows": 1573,
  "source": "yahoo",
  "symbol": "BOROLTD",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:58:36Z",
+ "fetched_at": "2026-11-27T18:00:51Z",
  "first_date": "2023-08-18",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:01:06Z",
  "provider_symbol": "CONCORDBIO.NS",
- "rows": 806,
+ "rows": 808,
  "source": "yahoo",
  "symbol": "CONCORDBIO",
  "version": "v1"

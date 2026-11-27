@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:56:20Z",
+ "fetched_at": "2026-11-27T17:58:34Z",
  "first_date": "2026-08-19",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:58:50Z",
  "provider_symbol": "BLEL.NS",
- "rows": 66,
+ "rows": 68,
  "source": "yahoo",
  "symbol": "BLEL",
  "version": "v1"

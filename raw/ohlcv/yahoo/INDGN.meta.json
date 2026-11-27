@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:07:00Z",
+ "fetched_at": "2026-11-27T18:09:14Z",
  "first_date": "2024-05-13",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:09:30Z",
  "provider_symbol": "INDGN.NS",
- "rows": 629,
+ "rows": 631,
  "source": "yahoo",
  "symbol": "INDGN",
  "version": "v1"

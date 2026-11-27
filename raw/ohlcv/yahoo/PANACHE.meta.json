@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:17:30Z",
+ "fetched_at": "2026-11-27T18:19:44Z",
  "first_date": "2017-04-28",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:20:00Z",
  "provider_symbol": "PANACHE.NS",
- "rows": 2364,
+ "rows": 2366,
  "source": "yahoo",
  "symbol": "PANACHE",
  "version": "v1"

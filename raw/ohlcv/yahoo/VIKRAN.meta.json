@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:29:54Z",
+ "fetched_at": "2026-11-27T18:32:08Z",
  "first_date": "2025-09-03",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-26",
  "last_full_refresh_at": "2026-11-24T21:32:31Z",
  "provider_symbol": "VIKRAN.NS",
- "rows": 303,
+ "rows": 304,
  "source": "yahoo",
  "symbol": "VIKRAN",
  "version": "v1"

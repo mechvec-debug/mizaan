@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:12:38Z",
+ "fetched_at": "2026-11-27T18:14:52Z",
  "first_date": "2018-03-22",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:15:08Z",
  "provider_symbol": "MACPOWER.NS",
- "rows": 2140,
+ "rows": 2142,
  "source": "yahoo",
  "symbol": "MACPOWER",
  "version": "v1"

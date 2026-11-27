@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:57:08Z",
+ "fetched_at": "2026-11-27T17:59:22Z",
  "first_date": "2022-05-09",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:59:38Z",
  "provider_symbol": "CAMPUS.NS",
- "rows": 1125,
+ "rows": 1127,
  "source": "yahoo",
  "symbol": "CAMPUS",
  "version": "v1"

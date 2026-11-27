@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:20:30Z",
+ "fetched_at": "2026-11-27T18:22:44Z",
  "first_date": "2023-09-11",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:23:02Z",
  "provider_symbol": "RATNAVEER.NS",
- "rows": 789,
+ "rows": 791,
  "source": "yahoo",
  "symbol": "RATNAVEER",
  "version": "v1"

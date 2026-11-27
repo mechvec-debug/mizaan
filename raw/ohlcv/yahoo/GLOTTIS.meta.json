@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:03:26Z",
+ "fetched_at": "2026-11-27T18:05:40Z",
  "first_date": "2025-10-07",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:05:56Z",
  "provider_symbol": "GLOTTIS.NS",
- "rows": 280,
+ "rows": 282,
  "source": "yahoo",
  "symbol": "GLOTTIS",
  "version": "v1"

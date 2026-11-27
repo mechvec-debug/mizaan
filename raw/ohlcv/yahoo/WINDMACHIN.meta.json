@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:31:06Z",
+ "fetched_at": "2026-11-27T18:33:20Z",
  "first_date": "2016-11-24",
  "history_complete": false,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-26",
  "last_full_refresh_at": "2026-11-24T21:33:44Z",
  "provider_symbol": "WINDMACHIN.NS",
- "rows": 2471,
+ "rows": 2472,
  "source": "yahoo",
  "symbol": "WINDMACHIN",
  "version": "v1"

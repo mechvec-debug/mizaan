@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:14:42Z",
+ "fetched_at": "2026-11-27T18:16:56Z",
  "first_date": "2025-02-05",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:17:12Z",
  "provider_symbol": "MOSCHIP.NS",
- "rows": 444,
+ "rows": 446,
  "source": "yahoo",
  "symbol": "MOSCHIP",
  "version": "v1"

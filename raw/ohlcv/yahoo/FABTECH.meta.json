@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:01:52Z",
+ "fetched_at": "2026-11-27T18:04:06Z",
  "first_date": "2025-10-07",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:04:22Z",
  "provider_symbol": "FABTECH.NS",
- "rows": 280,
+ "rows": 282,
  "source": "yahoo",
  "symbol": "FABTECH",
  "version": "v1"

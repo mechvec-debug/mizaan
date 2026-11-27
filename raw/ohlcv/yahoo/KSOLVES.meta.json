@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:11:32Z",
+ "fetched_at": "2026-11-27T18:13:47Z",
  "first_date": "2020-08-07",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:14:02Z",
  "provider_symbol": "KSOLVES.NS",
- "rows": 1559,
+ "rows": 1561,
  "source": "yahoo",
  "symbol": "KSOLVES",
  "version": "v1"

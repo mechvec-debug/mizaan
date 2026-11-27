@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:54:44Z",
+ "fetched_at": "2026-11-27T17:56:58Z",
  "first_date": "2023-12-28",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:57:14Z",
  "provider_symbol": "AZAD.NS",
- "rows": 718,
+ "rows": 720,
  "source": "yahoo",
  "symbol": "AZAD",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:57:56Z",
+ "fetched_at": "2026-11-27T18:00:10Z",
  "first_date": "2018-04-25",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:00:26Z",
  "provider_symbol": "CHEMFAB.NS",
- "rows": 2119,
+ "rows": 2121,
  "source": "yahoo",
  "symbol": "CHEMFAB",
  "version": "v1"

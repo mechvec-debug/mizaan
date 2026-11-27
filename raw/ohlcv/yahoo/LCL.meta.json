@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:11:54Z",
+ "fetched_at": "2026-11-27T18:14:08Z",
  "first_date": "2026-07-30",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:14:24Z",
  "provider_symbol": "LCL.NS",
- "rows": 80,
+ "rows": 82,
  "source": "yahoo",
  "symbol": "LCL",
  "version": "v1"

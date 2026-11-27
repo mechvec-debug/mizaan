@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:13:42Z",
+ "fetched_at": "2026-11-27T18:15:56Z",
  "first_date": "2020-10-12",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:16:12Z",
  "provider_symbol": "MAZDOCK.NS",
- "rows": 1514,
+ "rows": 1516,
  "source": "yahoo",
  "symbol": "MAZDOCK",
  "version": "v1"

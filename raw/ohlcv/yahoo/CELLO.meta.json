@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:57:36Z",
+ "fetched_at": "2026-11-27T17:59:50Z",
  "first_date": "2023-11-06",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:00:06Z",
  "provider_symbol": "CELLO.NS",
- "rows": 752,
+ "rows": 754,
  "source": "yahoo",
  "symbol": "CELLO",
  "version": "v1"

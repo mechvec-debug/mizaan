@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:59:52Z",
+ "fetched_at": "2026-11-27T18:02:06Z",
  "first_date": "2023-03-14",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:02:22Z",
  "provider_symbol": "DIVGIITTS.NS",
- "rows": 911,
+ "rows": 913,
  "source": "yahoo",
  "symbol": "DIVGIITTS",
  "version": "v1"

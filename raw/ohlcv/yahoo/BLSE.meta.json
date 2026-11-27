@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:56:28Z",
+ "fetched_at": "2026-11-27T17:58:42Z",
  "first_date": "2024-02-06",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:58:58Z",
  "provider_symbol": "BLSE.NS",
- "rows": 692,
+ "rows": 694,
  "source": "yahoo",
  "symbol": "BLSE",
  "version": "v1"

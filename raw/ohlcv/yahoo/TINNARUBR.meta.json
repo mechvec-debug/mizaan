@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:28:00Z",
+ "fetched_at": "2026-11-27T18:30:14Z",
  "first_date": "2025-04-17",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-26",
  "last_full_refresh_at": "2026-11-24T21:30:37Z",
  "provider_symbol": "TINNARUBR.NS",
- "rows": 398,
+ "rows": 399,
  "source": "yahoo",
  "symbol": "TINNARUBR",
  "version": "v1"

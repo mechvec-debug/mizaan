@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:10:04Z",
+ "fetched_at": "2026-11-27T18:12:18Z",
  "first_date": "2018-04-18",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:12:34Z",
  "provider_symbol": "KAPSTON.NS",
- "rows": 2124,
+ "rows": 2126,
  "source": "yahoo",
  "symbol": "KAPSTON",
  "version": "v1"

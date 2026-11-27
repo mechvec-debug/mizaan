@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:03:12Z",
+ "fetched_at": "2026-11-27T18:05:27Z",
  "first_date": "2025-09-26",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:05:42Z",
  "provider_symbol": "GKENERGY.NS",
- "rows": 286,
+ "rows": 288,
  "source": "yahoo",
  "symbol": "GKENERGY",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:03:08Z",
+ "fetched_at": "2026-11-27T18:05:22Z",
  "first_date": "2023-06-12",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:05:38Z",
  "provider_symbol": "GHCLTEXTIL.NS",
- "rows": 852,
+ "rows": 854,
  "source": "yahoo",
  "symbol": "GHCLTEXTIL",
  "version": "v1"

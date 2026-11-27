@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:28:42Z",
+ "fetched_at": "2026-11-27T18:30:56Z",
  "first_date": "2023-10-04",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-26",
  "last_full_refresh_at": "2026-11-24T21:31:20Z",
  "provider_symbol": "UDS.NS",
- "rows": 775,
+ "rows": 776,
  "source": "yahoo",
  "symbol": "UDS",
  "version": "v1"

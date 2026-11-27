@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:17:24Z",
+ "fetched_at": "2026-11-27T18:19:38Z",
  "first_date": "2025-06-20",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:19:54Z",
  "provider_symbol": "OSWALPUMPS.NS",
- "rows": 354,
+ "rows": 356,
  "source": "yahoo",
  "symbol": "OSWALPUMPS",
  "version": "v1"

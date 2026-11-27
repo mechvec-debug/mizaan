@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:55:52Z",
+ "fetched_at": "2026-11-27T17:58:06Z",
  "first_date": "2025-03-25",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:58:22Z",
  "provider_symbol": "BHARATSE.NS",
- "rows": 412,
+ "rows": 414,
  "source": "yahoo",
  "symbol": "BHARATSE",
  "version": "v1"

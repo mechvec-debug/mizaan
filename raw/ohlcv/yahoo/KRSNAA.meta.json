@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:11:20Z",
+ "fetched_at": "2026-11-27T18:13:34Z",
  "first_date": "2021-08-16",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:13:50Z",
  "provider_symbol": "KRSNAA.NS",
- "rows": 1304,
+ "rows": 1306,
  "source": "yahoo",
  "symbol": "KRSNAA",
  "version": "v1"

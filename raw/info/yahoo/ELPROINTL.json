@@ -9,8 +9,8 @@
   "allTimeLow": 102.0,
   "ask": 0.0,
   "averageDailyVolume10Day": 48170,
-  "averageDailyVolume3Month": 14577,
-  "averageVolume": 14577,
+  "averageDailyVolume3Month": 14700,
+  "averageVolume": 14700,
   "averageVolume10days": 48170,
   "beta": 0.626,
   "bid": 0.0,
@@ -107,7 +107,7 @@
   "longName": "Elpro International Limited",
   "market": "in_market",
   "marketCap": 29838495744,
-  "marketState": "PREPRE",
+  "marketState": "CLOSED",
   "maxAge": 86400,
   "messageBoardId": "finmb_20342869",
   "mostRecentQuarter": 1790726400,
@@ -170,7 +170,7 @@
   "website": "https://www.elpro.co.in",
   "zip": "400 021"
  },
- "fetched_at": "2026-11-26T20:51:42Z",
+ "fetched_at": "2026-11-27T18:53:58Z",
  "key": "info|yahoo|ELPROINTL|snapshot|v1",
  "version": "v1"
 }

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:54:36Z",
+ "fetched_at": "2026-11-27T17:56:50Z",
  "first_date": "2021-01-01",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:57:06Z",
  "provider_symbol": "AWHCL.NS",
- "rows": 1457,
+ "rows": 1459,
  "source": "yahoo",
  "symbol": "AWHCL",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:26:38Z",
+ "fetched_at": "2026-11-27T18:28:52Z",
  "first_date": "2026-09-01",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:29:16Z",
  "provider_symbol": "SYMBIOTEC.NS",
- "rows": 57,
+ "rows": 59,
  "source": "yahoo",
  "symbol": "SYMBIOTEC",
  "version": "v1"

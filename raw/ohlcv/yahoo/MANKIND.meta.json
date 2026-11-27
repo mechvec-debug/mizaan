@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:13:12Z",
+ "fetched_at": "2026-11-27T18:15:26Z",
  "first_date": "2023-05-09",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:15:42Z",
  "provider_symbol": "MANKIND.NS",
- "rows": 877,
+ "rows": 879,
  "source": "yahoo",
  "symbol": "MANKIND",
  "version": "v1"

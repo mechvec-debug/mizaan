@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:08:04Z",
+ "fetched_at": "2026-11-27T18:10:18Z",
  "first_date": "2021-07-05",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:10:34Z",
  "provider_symbol": "IPL.NS",
- "rows": 1333,
+ "rows": 1335,
  "source": "yahoo",
  "symbol": "IPL",
  "version": "v1"

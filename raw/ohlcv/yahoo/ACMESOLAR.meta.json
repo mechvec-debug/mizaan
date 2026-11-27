@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:51:18Z",
+ "fetched_at": "2026-11-27T17:53:32Z",
  "first_date": "2024-11-13",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:53:48Z",
  "provider_symbol": "ACMESOLAR.NS",
- "rows": 502,
+ "rows": 504,
  "source": "yahoo",
  "symbol": "ACMESOLAR",
  "version": "v1"

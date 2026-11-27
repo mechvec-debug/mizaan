@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:56:48Z",
+ "fetched_at": "2026-11-27T17:59:02Z",
  "first_date": "2018-05-25",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:59:18Z",
  "provider_symbol": "BORORENEW.NS",
- "rows": 2099,
+ "rows": 2101,
  "source": "yahoo",
  "symbol": "BORORENEW",
  "version": "v1"

@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:54:00Z",
+ "fetched_at": "2026-11-27T17:56:14Z",
  "first_date": "2018-02-26",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:56:30Z",
  "provider_symbol": "ASTERDM.NS",
- "rows": 2159,
+ "rows": 2161,
  "source": "yahoo",
  "symbol": "ASTERDM",
  "version": "v1"

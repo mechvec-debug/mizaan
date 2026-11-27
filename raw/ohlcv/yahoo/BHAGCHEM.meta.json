@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:55:42Z",
+ "fetched_at": "2026-11-27T17:57:56Z",
  "first_date": "2021-10-18",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:58:12Z",
  "provider_symbol": "BHAGCHEM.NS",
- "rows": 1261,
+ "rows": 1263,
  "source": "yahoo",
  "symbol": "BHAGCHEM",
  "version": "v1"

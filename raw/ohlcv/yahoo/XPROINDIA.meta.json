@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:31:18Z",
+ "fetched_at": "2026-11-27T18:33:32Z",
  "first_date": "2016-11-24",
  "history_complete": false,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-26",
  "last_full_refresh_at": "2026-11-24T21:33:56Z",
  "provider_symbol": "XPROINDIA.NS",
- "rows": 2472,
+ "rows": 2473,
  "source": "yahoo",
  "symbol": "XPROINDIA",
  "version": "v1"

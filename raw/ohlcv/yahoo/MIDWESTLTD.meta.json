@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:14:10Z",
+ "fetched_at": "2026-11-27T18:16:24Z",
  "first_date": "2025-10-24",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:16:40Z",
  "provider_symbol": "MIDWESTLTD.NS",
- "rows": 268,
+ "rows": 270,
  "source": "yahoo",
  "symbol": "MIDWESTLTD",
  "version": "v1"

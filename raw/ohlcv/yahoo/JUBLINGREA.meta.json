@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T20:09:36Z",
+ "fetched_at": "2026-11-27T18:11:50Z",
  "first_date": "2021-03-19",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:12:06Z",
  "provider_symbol": "JUBLINGREA.NS",
- "rows": 1404,
+ "rows": 1406,
  "source": "yahoo",
  "symbol": "JUBLINGREA",
  "version": "v1"

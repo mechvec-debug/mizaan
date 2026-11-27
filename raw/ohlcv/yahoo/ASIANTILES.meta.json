@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:53:52Z",
+ "fetched_at": "2026-11-27T17:56:06Z",
  "first_date": "2016-11-24",
  "history_complete": false,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T20:56:22Z",
  "provider_symbol": "ASIANTILES.NS",
- "rows": 2472,
+ "rows": 2474,
  "source": "yahoo",
  "symbol": "ASIANTILES",
  "version": "v1"

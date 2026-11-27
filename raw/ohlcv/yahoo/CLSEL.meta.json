@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:58:12Z",
+ "fetched_at": "2026-11-27T18:00:26Z",
  "first_date": "2021-05-12",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:00:42Z",
  "provider_symbol": "CLSEL.NS",
- "rows": 1369,
+ "rows": 1371,
  "source": "yahoo",
  "symbol": "CLSEL",
  "version": "v1"

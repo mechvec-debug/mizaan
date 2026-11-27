@@ -1,11 +1,11 @@
 {
- "fetched_at": "2026-11-26T19:58:24Z",
+ "fetched_at": "2026-11-27T18:00:38Z",
  "first_date": "2017-08-11",
  "history_complete": true,
- "last_date": "2026-11-25",
+ "last_date": "2026-11-27",
  "last_full_refresh_at": "2026-11-24T21:00:54Z",
  "provider_symbol": "COCHINSHIP.NS",
- "rows": 2293,
+ "rows": 2295,
  "source": "yahoo",
  "symbol": "COCHINSHIP",
  "version": "v1"
