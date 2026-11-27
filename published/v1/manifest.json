@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-27T20:57:26Z",
+ "generated_at": "2026-11-27T21:32:09Z",
  "universe_version": "267cf075f1ed",
  "universe_count": 1228,
  "files": {
@@ -27,10 +27,10 @@
   },
   "annual_report.json": {
    "path": "v1/annual_report.json",
-   "sha256": "7d8c27180dfe21d9ca1c62695f5756a89d5e4a11b5761f7d9f0c2f8f4cf6d276",
+   "sha256": "be70c1ceb515b396465b49348c500e62765349c86b8b40bc6a8224c2e1bee9e5",
    "bytes": 801,
    "rows": 0,
-   "as_of": "2026-11-27 19:56 UTC"
+   "as_of": "2026-11-27 21:32 UTC"
   },
   "universe.json": {
    "path": "v1/universe.json",
@@ -41,34 +41,34 @@
   },
   "status.json": {
    "path": "v1/status.json",
-   "sha256": "0bff63e99f1d8773288e48adfacc44ed6006ce2e76fb9ec961c7d6061a85275e",
-   "bytes": 763,
+   "sha256": "dc8d4caecc7fe71f4dc9284ed5cdaaf1e5d995d0a8c65e1249fc458751dd77b6",
+   "bytes": 712,
    "rows": null,
-   "as_of": "2026-11-27T20:57:26Z"
+   "as_of": "2026-11-27T21:32:09Z"
   }
  },
  "modules": {
   "technical": {
-   "status": "ok",
+   "status": null,
    "as_of": "2026-11-28",
    "published": true,
    "stale": false
   },
   "fundamental": {
-   "status": "ok",
+   "status": null,
    "as_of": "2026-11-27 20:57 UTC",
    "published": true,
    "stale": false
   },
   "shariah": {
-   "status": "ok",
+   "status": null,
    "as_of": "27 Nov 2026, 08:57 PM",
    "published": true,
    "stale": false
   },
   "annual_report": {
    "status": "ok",
-   "as_of": "2026-11-27 19:56 UTC",
+   "as_of": "2026-11-27 21:32 UTC",
    "published": true,
    "stale": false
   }

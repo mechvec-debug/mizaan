@@ -705,5 +705,26 @@
    },
    "breaker_tripped": false
   }
+ },
+ {
+  "run_id": "20261127T213209Z-2a88d4",
+  "module_id": "annual_report",
+  "status": "ok",
+  "started_at": "2026-11-27T21:32:09Z",
+  "seconds": 0.027984770999999853,
+  "error": null,
+  "output_problems": [],
+  "summary": {
+   "date": "2026-11-27",
+   "stopped": "completed",
+   "discovered": 0,
+   "tokens_in": 0,
+   "tokens_out": 0,
+   "requests": 0,
+   "alerts": [],
+   "remaining": 1028,
+   "processed": 0,
+   "failed": 0
+  }
  }
 ]
