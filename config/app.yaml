@@ -26,8 +26,8 @@ data:
     rpm_by_source: { bse: 20 }          # BSE is a separate service: its own, gentler budget
 annual_report:
   # --- you must set these two from your AI provider's CURRENT limits; until then the batch refuses to run (it never guesses) ---
-  daily_token_budget: null           # total tokens (input + output) the batch may use per day
-  requests_per_minute: null          # AI requests per minute
+  daily_token_budget: 2000000           # total tokens (input + output) the batch may use per day
+  requests_per_minute: 30          # AI requests per minute
   # --- fixed by the requirements / sensible defaults ---
   max_stocks_per_day: 100            # hard ceiling: values above 100 are clamped to 100
   warn_at_fraction: 0.8              # monitor alert when 80% of the day's budget is used
