@@ -1,0 +1,13 @@
+{
+ "days": {
+  "2026-11-27": {
+   "alerts": [],
+   "discovered": 200,
+   "requests": 0,
+   "stocks": 0,
+   "stopped": "completed",
+   "tokens_in": 0,
+   "tokens_out": 0
+  }
+ }
+}

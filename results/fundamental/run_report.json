@@ -1,7 +1,7 @@
 {
  "module": "fundamental",
  "display_name": "Quality Value Rebound",
- "run_at": "2026-11-27T18:34:03+00:00",
+ "run_at": "2026-11-27T20:57:10+00:00",
  "requested": 1228,
  "evaluated": 1171,
  "carried_forward": 0,
@@ -18,13 +18,11 @@
  "status": "ok",
  "universe_version": "267cf075f1ed",
  "universe_count": 1228,
- "data_run_id": "20261127T175308Z-c85a99",
- "downloads": {
-  "ohlcv": 1228,
-  "info": 1228
- },
+ "data_run_id": "20261127T195658Z-756a0f",
+ "downloads": {},
  "cache_hits": {
-  "ohlcv": 2456,
+  "ohlcv": 3684,
+  "info": 1228,
   "statements": 1171
  },
  "breaker_tripped": false,

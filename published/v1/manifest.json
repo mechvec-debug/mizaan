@@ -1,29 +1,36 @@
 {
  "schema": 1,
- "generated_at": "2026-11-27T19:55:58Z",
+ "generated_at": "2026-11-27T20:57:26Z",
  "universe_version": "267cf075f1ed",
  "universe_count": 1228,
  "files": {
   "technical.json": {
    "path": "v1/technical.json",
-   "sha256": "c5bda5ebd3dc0f759b97cbaa2720c3b5b2fe9785506abb302938fd97ecad94cf",
-   "bytes": 828325,
+   "sha256": "049da33199fa874d527e1fd0b2a3030dfeb0500841e776c6c75da7809f1a8cb6",
+   "bytes": 828338,
    "rows": 1126,
-   "as_of": "2026-11-27"
+   "as_of": "2026-11-28"
   },
   "fundamental.json": {
    "path": "v1/fundamental.json",
-   "sha256": "f22e90dd8d4b72966460e15cf1053933e5db2e59c390a2e5053d8bfdf7daf11b",
+   "sha256": "520d12be414935733ba4d10e53bff9b4fe5dae7d287fc5e2c9fa6a45c2c20e23",
    "bytes": 531269,
    "rows": 1171,
-   "as_of": "2026-11-27 18:34 UTC"
+   "as_of": "2026-11-27 20:57 UTC"
   },
   "shariah.json": {
    "path": "v1/shariah.json",
-   "sha256": "2c1a44d49607f8952dbaba9895921e41b57d287b1003f69f695856de13bd44a1",
+   "sha256": "a435e86f21e160274a8f2e78470d2257dc053d32157dfb5e6177d37a0e77b7e6",
    "bytes": 1544450,
    "rows": 1228,
-   "as_of": "27 Nov 2026, 07:55 PM"
+   "as_of": "27 Nov 2026, 08:57 PM"
+  },
+  "annual_report.json": {
+   "path": "v1/annual_report.json",
+   "sha256": "7d8c27180dfe21d9ca1c62695f5756a89d5e4a11b5761f7d9f0c2f8f4cf6d276",
+   "bytes": 801,
+   "rows": 0,
+   "as_of": "2026-11-27 19:56 UTC"
   },
   "universe.json": {
    "path": "v1/universe.json",
@@ -34,39 +41,37 @@
   },
   "status.json": {
    "path": "v1/status.json",
-   "sha256": "cf2525de0419abcc03f055700f1ff0bba5968affe8c61e3fcf6f8383bcf96280",
-   "bytes": 1036,
+   "sha256": "0bff63e99f1d8773288e48adfacc44ed6006ce2e76fb9ec961c7d6061a85275e",
+   "bytes": 763,
    "rows": null,
-   "as_of": "2026-11-27T19:55:58Z"
+   "as_of": "2026-11-27T20:57:26Z"
   }
  },
  "modules": {
   "technical": {
    "status": "ok",
-   "as_of": "2026-11-27",
+   "as_of": "2026-11-28",
    "published": true,
    "stale": false
   },
   "fundamental": {
    "status": "ok",
-   "as_of": "2026-11-27 18:34 UTC",
+   "as_of": "2026-11-27 20:57 UTC",
    "published": true,
    "stale": false
   },
   "shariah": {
    "status": "ok",
-   "as_of": "27 Nov 2026, 07:55 PM",
+   "as_of": "27 Nov 2026, 08:57 PM",
    "published": true,
    "stale": false
   },
   "annual_report": {
-   "status": "not_configured",
-   "as_of": null,
-   "published": false,
+   "status": "ok",
+   "as_of": "2026-11-27 19:56 UTC",
+   "published": true,
    "stale": false
   }
  },
- "missing": [
-  "annual_report"
- ]
+ "missing": []
 }
